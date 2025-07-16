@@ -64,7 +64,6 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - assets/images/
-    - assets/images/robInfo/
     - assets/audio/
     - assets/images/robInfo/1/p/1_p_2025_07_14_1.png
     - assets/images/robInfo/1/p/1_p_2025_07_14_2.png
