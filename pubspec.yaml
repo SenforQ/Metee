@@ -65,51 +65,21 @@ flutter:
   assets:
     - assets/images/
     - assets/audio/
-    - assets/images/robInfo/1/p/1_p_2025_07_14_1.png
-    - assets/images/robInfo/1/p/1_p_2025_07_14_2.png
-    - assets/images/robInfo/1/p/1_p_2025_07_14_3.png
-    - assets/images/robInfo/2/p/2_p_2025_07_14_1.png
-    - assets/images/robInfo/2/p/2_p_2025_07_14_2.png
-    - assets/images/robInfo/2/p/2_p_2025_07_14_3.png
-    - assets/images/robInfo/3/p/3_p_2025_07_14_1.png
-    - assets/images/robInfo/3/p/3_p_2025_07_14_2.png
-    - assets/images/robInfo/3/p/3_p_2025_07_14_3.png
-    - assets/images/robInfo/4/p/4_p_2025_07_14_1.png
-    - assets/images/robInfo/4/p/4_p_2025_07_14_2.png
-    - assets/images/robInfo/4/p/4_p_2025_07_14_3.png
-    - assets/images/robInfo/5/p/5_p_2025_07_14_1.png
-    - assets/images/robInfo/5/p/5_p_2025_07_14_2.png
-    - assets/images/robInfo/5/p/5_p_2025_07_14_3.png
-    - assets/images/robInfo/6/p/6_p_2025_07_14_1.png
-    - assets/images/robInfo/6/p/6_p_2025_07_14_2.png
-    - assets/images/robInfo/6/p/6_p_2025_07_14_3.png
-    - assets/images/robInfo/7/p/7_p_2025_07_14_1.png
-    - assets/images/robInfo/7/p/7_p_2025_07_14_2.png
-    - assets/images/robInfo/7/p/7_p_2025_07_14_3.png
-    - assets/images/robInfo/8/p/8_p_2025_07_14_1.png
-    - assets/images/robInfo/8/p/8_p_2025_07_14_2.png
-    - assets/images/robInfo/8/p/8_p_2025_07_14_3.png
-    - assets/images/robInfo/9/p/9_p_2025_07_14_1.png
-    - assets/images/robInfo/9/p/9_p_2025_07_14_2.png
-    - assets/images/robInfo/9/p/9_p_2025_07_14_3.png
-    - assets/images/robInfo/10/p/10_p_2025_07_14_1.png
-    - assets/images/robInfo/10/p/10_p_2025_07_14_2.png
-    - assets/images/robInfo/10/p/10_p_2025_07_14_3.png
-    - assets/images/robInfo/11/p/11_p_2025_07_14_1.png
-    - assets/images/robInfo/11/p/11_p_2025_07_14_2.png
-    - assets/images/robInfo/11/p/11_p_2025_07_14_3.png
-    - assets/images/robInfo/12/p/12_p_2025_07_14_1.png
-    - assets/images/robInfo/12/p/12_p_2025_07_14_2.png
-    - assets/images/robInfo/12/p/12_p_2025_07_14_3.png
-    - assets/images/robInfo/13/p/13_p_2025_07_14_1.png
-    - assets/images/robInfo/13/p/13_p_2025_07_14_2.png
-    - assets/images/robInfo/13/p/13_p_2025_07_14_3.png
-    - assets/images/robInfo/14/p/14_p_2025_07_14_1.png
-    - assets/images/robInfo/14/p/14_p_2025_07_14_2.png
-    - assets/images/robInfo/14/p/14_p_2025_07_14_3.png
-    - assets/images/robInfo/15/p/15_p_2025_07_14_1.png
-    - assets/images/robInfo/15/p/15_p_2025_07_14_2.png
-    - assets/images/robInfo/15/p/15_p_2025_07_14_3.png
+    - assets/images/robInfo/1/p/
+    - assets/images/robInfo/2/p/
+    - assets/images/robInfo/3/p/
+    - assets/images/robInfo/4/p/
+    - assets/images/robInfo/5/p/
+    - assets/images/robInfo/6/p/
+    - assets/images/robInfo/7/p/
+    - assets/images/robInfo/8/p/
+    - assets/images/robInfo/9/p/
+    - assets/images/robInfo/10/p/
+    - assets/images/robInfo/11/p/
+    - assets/images/robInfo/12/p/
+    - assets/images/robInfo/13/p/
+    - assets/images/robInfo/14/p/
+    - assets/images/robInfo/15/p/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
