@@ -61,7 +61,7 @@ class _CommentSheetState extends State<CommentSheet> {
     }
 
     final prefs = await SharedPreferences.getInstance();
-    final userName = prefs.getString('user_nickname') ?? 'Metee Traveler';
+    final userName = prefs.getString('user_nickname') ?? 'Zinko Traveler';
     final userAvatar = prefs.getString('user_avatar');
     
     final newComment = Comment(

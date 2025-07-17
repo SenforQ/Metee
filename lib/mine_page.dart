@@ -16,7 +16,7 @@ class MinePage extends StatefulWidget {
 
 class _MinePageState extends State<MinePage> {
   String? _avatarFileName;
-  String _nickname = 'Metee Traveler';
+  String _nickname = 'Zinko Traveler';
   int _follower = 0;
   int _following = 0;
   int _like = 0;
@@ -31,7 +31,7 @@ class _MinePageState extends State<MinePage> {
     final prefs = await SharedPreferences.getInstance();
     setState(() {
       _avatarFileName = prefs.getString('user_avatar');
-      _nickname = prefs.getString('user_nickname') ?? 'Metee Traveler';
+      _nickname = prefs.getString('user_nickname') ?? 'Zinko Traveler';
       _follower = prefs.getInt('user_follower') ?? 0;
       _following = prefs.getInt('user_following') ?? 0;
       _like = prefs.getInt('user_like') ?? 0;

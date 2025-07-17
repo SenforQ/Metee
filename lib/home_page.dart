@@ -18,7 +18,7 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> with WidgetsBindingObserver {
-  String _nickname = 'Metee Traveler';
+  String _nickname = 'Zinko Traveler';
   List<RobCharacter> _randomCharacters = [];
   List<RobCharacter> _recommendCharacters = []; // 添加推荐角色列表
   PageController? _pageController; // 改为可空类型
@@ -245,7 +245,7 @@ class _HomePageState extends State<HomePage> with WidgetsBindingObserver {
   Future<void> _loadNickname() async {
     final prefs = await SharedPreferences.getInstance();
     setState(() {
-      _nickname = prefs.getString('user_nickname') ?? 'Metee Traveler';
+      _nickname = prefs.getString('user_nickname') ?? 'Zinko Traveler';
     });
   }
 

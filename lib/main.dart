@@ -12,16 +12,16 @@ void main() {
     statusBarColor: Colors.transparent,
     statusBarIconBrightness: Brightness.light,
   ));
-  runApp(const MeteeApp());
+  runApp(const ZinkoApp());
 }
 
-class MeteeApp extends StatelessWidget {
-  const MeteeApp({super.key});
+class ZinkoApp extends StatelessWidget {
+  const ZinkoApp({super.key});
 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Metee',
+      title: 'Zinko',
       theme: ThemeData(
         brightness: Brightness.dark,
         scaffoldBackgroundColor: const Color(0xFF000000),

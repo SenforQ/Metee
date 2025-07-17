@@ -5,7 +5,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'dart:io';
 
-void showMeteeToast(String msg) {
+void showZinkoToast(String msg) {
   Fluttertoast.showToast(
     msg: msg,
     toastLength: Toast.LENGTH_SHORT,
@@ -41,7 +41,7 @@ class _EditPersonalInfoPageState extends State<EditPersonalInfoPage> {
     final avatarFileName = prefs.getString('user_avatar');
     debugPrint('加载头像文件名: ' + (avatarFileName ?? 'null'));
     _avatarFileName = avatarFileName;
-    _nicknameController.text = prefs.getString('user_nickname') ?? 'Metee Traveler';
+    _nicknameController.text = prefs.getString('user_nickname') ?? 'Zinko Traveler';
     _signatureController.text = prefs.getString('user_signature') ?? 'This is my personal signature.';
     _loading = false;
     setState(() {});
@@ -74,7 +74,7 @@ class _EditPersonalInfoPageState extends State<EditPersonalInfoPage> {
     await prefs.setString('user_nickname', _nicknameController.text.trim());
     await prefs.setString('user_signature', _signatureController.text.trim());
     if (mounted) {
-      showMeteeToast('Saved successfully!');
+      showZinkoToast('Saved successfully!');
       await Future.delayed(const Duration(milliseconds: 800));
       Navigator.of(context).pop(true);
     }
