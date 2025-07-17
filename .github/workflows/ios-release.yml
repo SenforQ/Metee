@@ -95,7 +95,7 @@ jobs:
 
       - name: Upload to App Store using altool
         env:
-          IPA_PATH: "build/ios/ipa/metee.ipa"
+          IPA_PATH: "build/ios/ipa/zinko.ipa"
           APPLE_ID: "PageEldon58434@outlook.com"
           APP_SPECIFIC_PASSWORD: "xwbp-ywgm-jhkn-iffv"
         run: |
