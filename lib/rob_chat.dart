@@ -3,11 +3,13 @@ import 'package:shared_preferences/shared_preferences.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'dart:convert';
 import 'dart:io';
+import 'dart:async';
 import 'package:path_provider/path_provider.dart';
 import 'models/rob_character.dart';
 import 'chat_info.dart';
 import 'report_page.dart';
 import 'services/notification_service.dart';
+import 'services/zhipu_ai_service.dart';
 
 class RobChatPage extends StatefulWidget {
   final RobCharacter character;
@@ -96,19 +98,76 @@ class _RobChatPageState extends State<RobChatPage> {
 
     _messageController.clear();
 
-    // 模拟AI回复
-    await Future.delayed(const Duration(seconds: 2));
+    try {
+      // 构建聊天历史
+      List<Map<String, String>> chatHistory = [];
+      for (int i = 0; i < _messages.length; i++) {
+        final msg = _messages[i];
+        chatHistory.add({
+          'role': msg.isUser ? 'user' : 'assistant',
+          'content': msg.text,
+        });
+      }
 
-    final aiMessage = ChatMessage(
-      text: widget.character.hi,
-      isUser: false,
-      timestamp: DateTime.now(),
-    );
+      // 调用AI服务，设置30秒超时
+      final aiResponse = await ZhipuAIService.sendMessage(
+        message: message,
+        characterName: widget.character.name,
+        characterBackground: widget.character.hi,
+        chatHistory: chatHistory,
+      ).timeout(
+        const Duration(seconds: 30),
+        onTimeout: () {
+          throw TimeoutException('Request timeout, please try again later');
+        },
+      );
 
-    setState(() {
-      _messages.add(aiMessage);
-      _isLoading = false;
-    });
+      if (aiResponse != null && aiResponse.isNotEmpty) {
+        final aiMessage = ChatMessage(
+          text: aiResponse,
+          isUser: false,
+          timestamp: DateTime.now(),
+        );
+
+        setState(() {
+          _messages.add(aiMessage);
+          _isLoading = false;
+        });
+      } else {
+        // AI服务返回空响应
+        final errorMessage = ChatMessage(
+          text: 'Please try again later, the server is currently busy',
+          isUser: false,
+          timestamp: DateTime.now(),
+        );
+
+        setState(() {
+          _messages.add(errorMessage);
+          _isLoading = false;
+        });
+      }
+    } catch (e) {
+      // 处理超时和其他错误
+      String errorText = 'Please try again later, the server is currently busy';
+      
+      if (e is TimeoutException) {
+        errorText = 'Please try again later, the server is currently busy';
+      } else if (e.toString().contains('SocketException') || 
+                 e.toString().contains('NetworkException')) {
+        errorText = 'Network connection failed, please check your network and try again';
+      }
+
+      final errorMessage = ChatMessage(
+        text: errorText,
+        isUser: false,
+        timestamp: DateTime.now(),
+      );
+
+      setState(() {
+        _messages.add(errorMessage);
+        _isLoading = false;
+      });
+    }
 
     // 保存聊天记录
     await _saveChatHistory();
