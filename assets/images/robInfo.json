@@ -1,12 +1,12 @@
 [
   {
     "MeteeRobName": "Aiden",
-    "MeteeRobIcon": "assets/images/robInfo/1/p/1_p_2025_07_14_1.png",
-    "MeteeRobShowPhoto": "assets/images/robInfo/1/p/1_p_2025_07_14_1.png",
+    "MeteeRobIcon": "assets/images/1_p_2025_07_14_1.png",
+    "MeteeRobShowPhoto": "assets/images/1_p_2025_07_14_1.png",
     "MeteeRobShowPhotoArray": [
-      "assets/images/robInfo/1/p/1_p_2025_07_14_1.png",
-      "assets/images/robInfo/1/p/1_p_2025_07_14_2.png",
-      "assets/images/robInfo/1/p/1_p_2025_07_14_3.png"
+      "assets/images/1_p_2025_07_14_1.png",
+      "assets/images/1_p_2025_07_14_2.png",
+      "assets/images/1_p_2025_07_14_3.png"
     ],
     "MeteeRobInfo": "Aiden is an INTJ AI with a strategic mind, excelling in all fields. He analyzes complex problems and offers innovative solutions, making him a reliable companion for any intellectual challenge.",
     "MeteeRobMotto": "Think beyond the obvious.",
@@ -18,12 +18,12 @@
   },
   {
     "MeteeRobName": "Sophia",
-    "MeteeRobIcon": "assets/images/robInfo/2/p/2_p_2025_07_14_1.png",
-    "MeteeRobShowPhoto": "assets/images/robInfo/2/p/2_p_2025_07_14_1.png",
+    "MeteeRobIcon": "assets/images/2_p_2025_07_14_1.png",
+    "MeteeRobShowPhoto": "assets/images/2_p_2025_07_14_1.png",
     "MeteeRobShowPhotoArray": [
-      "assets/images/robInfo/2/p/2_p_2025_07_14_1.png",
-      "assets/images/robInfo/2/p/2_p_2025_07_14_2.png",
-      "assets/images/robInfo/2/p/2_p_2025_07_14_3.png"
+      "assets/images/2_p_2025_07_14_1.png",
+      "assets/images/2_p_2025_07_14_2.png",
+      "assets/images/2_p_2025_07_14_3.png"
     ],
     "MeteeRobInfo": "Sophia is an ENFP AI, bursting with creativity and curiosity. She connects ideas across disciplines, making learning fun and inspiring. Sophia is your energetic guide to any knowledge adventure.",
     "MeteeRobMotto": "Inspiration is everywhere.",
@@ -35,12 +35,12 @@
   },
   {
     "MeteeRobName": "Lily",
-    "MeteeRobIcon": "assets/images/robInfo/3/p/3_p_2025_07_14_1.png",
-    "MeteeRobShowPhoto": "assets/images/robInfo/3/p/3_p_2025_07_14_1.png",
+    "MeteeRobIcon": "assets/images/3_p_2025_07_14_1.png",
+    "MeteeRobShowPhoto": "assets/images/3_p_2025_07_14_1.png",
     "MeteeRobShowPhotoArray": [
-      "assets/images/robInfo/3/p/3_p_2025_07_14_1.png",
-      "assets/images/robInfo/3/p/3_p_2025_07_14_2.png",
-      "assets/images/robInfo/3/p/3_p_2025_07_14_3.png"
+      "assets/images/3_p_2025_07_14_1.png",
+      "assets/images/3_p_2025_07_14_2.png",
+      "assets/images/3_p_2025_07_14_3.png"
     ],
     "MeteeRobInfo": "Lily is an INFJ AI, deeply insightful and empathetic. She understands your needs and provides thoughtful guidance in any area, blending wisdom with compassion for a truly supportive experience.",
     "MeteeRobMotto": "Empathy leads to understanding.",
@@ -52,12 +52,12 @@
   },
   {
     "MeteeRobName": "Emma",
-    "MeteeRobIcon": "assets/images/robInfo/4/p/4_p_2025_07_14_1.png",
-    "MeteeRobShowPhoto": "assets/images/robInfo/4/p/4_p_2025_07_14_1.png",
+    "MeteeRobIcon": "assets/images/4_p_2025_07_14_1.png",
+    "MeteeRobShowPhoto": "assets/images/4_p_2025_07_14_1.png",
     "MeteeRobShowPhotoArray": [
-      "assets/images/robInfo/4/p/4_p_2025_07_14_1.png",
-      "assets/images/robInfo/4/p/4_p_2025_07_14_2.png",
-      "assets/images/robInfo/4/p/4_p_2025_07_14_3.png"
+      "assets/images/4_p_2025_07_14_1.png",
+      "assets/images/4_p_2025_07_14_2.png",
+      "assets/images/4_p_2025_07_14_3.png"
     ],
     "MeteeRobInfo": "Emma is an ENTP AI, a master of debate and innovation. She loves exploring new perspectives and challenging assumptions, making her the perfect partner for creative problem-solving in any field.",
     "MeteeRobMotto": "Challenge the status quo.",
@@ -69,12 +69,12 @@
   },
   {
     "MeteeRobName": "Ethan",
-    "MeteeRobIcon": "assets/images/robInfo/5/p/5_p_2025_07_14_1.png",
-    "MeteeRobShowPhoto": "assets/images/robInfo/5/p/5_p_2025_07_14_1.png",
+    "MeteeRobIcon": "assets/images/5_p_2025_07_14_1.png",
+    "MeteeRobShowPhoto": "assets/images/5_p_2025_07_14_1.png",
     "MeteeRobShowPhotoArray": [
-      "assets/images/robInfo/5/p/5_p_2025_07_14_1.png",
-      "assets/images/robInfo/5/p/5_p_2025_07_14_2.png",
-      "assets/images/robInfo/5/p/5_p_2025_07_14_3.png"
+      "assets/images/5_p_2025_07_14_1.png",
+      "assets/images/5_p_2025_07_14_2.png",
+      "assets/images/5_p_2025_07_14_3.png"
     ],
     "MeteeRobInfo": "Ethan is an ISTP AI, practical and resourceful. He excels at hands-on solutions and adapts quickly to any challenge, making him your go-to expert for troubleshooting and technical advice.",
     "MeteeRobMotto": "Action speaks louder than words.",
@@ -86,12 +86,12 @@
   },
   {
     "MeteeRobName": "Mia",
-    "MeteeRobIcon": "assets/images/robInfo/6/p/6_p_2025_07_14_1.png",
-    "MeteeRobShowPhoto": "assets/images/robInfo/6/p/6_p_2025_07_14_1.png",
+    "MeteeRobIcon": "assets/images/6_p_2025_07_14_1.png",
+    "MeteeRobShowPhoto": "assets/images/6_p_2025_07_14_1.png",
     "MeteeRobShowPhotoArray": [
-      "assets/images/robInfo/6/p/6_p_2025_07_14_1.png",
-      "assets/images/robInfo/6/p/6_p_2025_07_14_2.png",
-      "assets/images/robInfo/6/p/6_p_2025_07_14_3.png"
+      "assets/images/6_p_2025_07_14_1.png",
+      "assets/images/6_p_2025_07_14_2.png",
+      "assets/images/6_p_2025_07_14_3.png"
     ],
     "MeteeRobInfo": "Mia is an ISFJ AI, dedicated and caring. She supports you with reliable knowledge and a gentle approach, ensuring you always feel understood and empowered in any learning journey.",
     "MeteeRobMotto": "Kindness is strength.",
@@ -103,12 +103,12 @@
   },
   {
     "MeteeRobName": "Olivia",
-    "MeteeRobIcon": "assets/images/robInfo/7/p/7_p_2025_07_14_1.png",
-    "MeteeRobShowPhoto": "assets/images/robInfo/7/p/7_p_2025_07_14_1.png",
+    "MeteeRobIcon": "assets/images/7_p_2025_07_14_1.png",
+    "MeteeRobShowPhoto": "assets/images/7_p_2025_07_14_1.png",
     "MeteeRobShowPhotoArray": [
-      "assets/images/robInfo/7/p/7_p_2025_07_14_1.png",
-      "assets/images/robInfo/7/p/7_p_2025_07_14_2.png",
-      "assets/images/robInfo/7/p/7_p_2025_07_14_3.png"
+      "assets/images/7_p_2025_07_14_1.png",
+      "assets/images/7_p_2025_07_14_2.png",
+      "assets/images/7_p_2025_07_14_3.png"
     ],
     "MeteeRobInfo": "Olivia is an ESFJ AI, warm and sociable. She brings people together and shares knowledge in a friendly way, making every interaction enjoyable and supportive across all domains.",
     "MeteeRobMotto": "Together we achieve more.",
@@ -120,12 +120,12 @@
   },
   {
     "MeteeRobName": "Ella",
-    "MeteeRobIcon": "assets/images/robInfo/8/p/8_p_2025_07_14_1.png",
-    "MeteeRobShowPhoto": "assets/images/robInfo/8/p/8_p_2025_07_14_1.png",
+    "MeteeRobIcon": "assets/images/8_p_2025_07_14_1.png",
+    "MeteeRobShowPhoto": "assets/images/8_p_2025_07_14_1.png",
     "MeteeRobShowPhotoArray": [
-      "assets/images/robInfo/8/p/8_p_2025_07_14_1.png",
-      "assets/images/robInfo/8/p/8_p_2025_07_14_2.png",
-      "assets/images/robInfo/8/p/8_p_2025_07_14_3.png"
+      "assets/images/8_p_2025_07_14_1.png",
+      "assets/images/8_p_2025_07_14_2.png",
+      "assets/images/8_p_2025_07_14_3.png"
     ],
     "MeteeRobInfo": "Ella is an ENFJ AI, inspiring and insightful. She motivates you to reach your goals and offers guidance in every field, always with a positive attitude and a passion for helping others.",
     "MeteeRobMotto": "Lead with heart.",
@@ -137,12 +137,12 @@
   },
   {
     "MeteeRobName": "Lucas",
-    "MeteeRobIcon": "assets/images/robInfo/9/p/9_p_2025_07_14_1.png",
-    "MeteeRobShowPhoto": "assets/images/robInfo/9/p/9_p_2025_07_14_1.png",
+    "MeteeRobIcon": "assets/images/9_p_2025_07_14_1.png",
+    "MeteeRobShowPhoto": "assets/images/9_p_2025_07_14_1.png",
     "MeteeRobShowPhotoArray": [
-      "assets/images/robInfo/9/p/9_p_2025_07_14_1.png",
-      "assets/images/robInfo/9/p/9_p_2025_07_14_2.png",
-      "assets/images/robInfo/9/p/9_p_2025_07_14_3.png"
+      "assets/images/9_p_2025_07_14_1.png",
+      "assets/images/9_p_2025_07_14_2.png",
+      "assets/images/9_p_2025_07_14_3.png"
     ],
     "MeteeRobInfo": "Lucas is an ISTJ AI, organized and dependable. He provides clear, structured advice in any area, ensuring you always have a solid foundation for learning and decision-making.",
     "MeteeRobMotto": "Consistency builds success.",
@@ -154,12 +154,12 @@
   },
   {
     "MeteeRobName": "Grace",
-    "MeteeRobIcon": "assets/images/robInfo/10/p/10_p_2025_07_14_1.png",
-    "MeteeRobShowPhoto": "assets/images/robInfo/10/p/10_p_2025_07_14_1.png",
+    "MeteeRobIcon": "assets/images/10_p_2025_07_14_1.png",
+    "MeteeRobShowPhoto": "assets/images/10_p_2025_07_14_1.png",
     "MeteeRobShowPhotoArray": [
-      "assets/images/robInfo/10/p/10_p_2025_07_14_1.png",
-      "assets/images/robInfo/10/p/10_p_2025_07_14_2.png",
-      "assets/images/robInfo/10/p/10_p_2025_07_14_3.png"
+      "assets/images/10_p_2025_07_14_1.png",
+      "assets/images/10_p_2025_07_14_2.png",
+      "assets/images/10_p_2025_07_14_3.png"
     ],
     "MeteeRobInfo": "Grace is an ISFP AI, creative and adaptable. She brings a fresh perspective to every topic, helping you discover beauty and meaning in all areas of knowledge and experience.",
     "MeteeRobMotto": "Find beauty in every moment.",
@@ -171,12 +171,12 @@
   },
   {
     "MeteeRobName": "Chloe",
-    "MeteeRobIcon": "assets/images/robInfo/11/p/11_p_2025_07_14_1.png",
-    "MeteeRobShowPhoto": "assets/images/robInfo/11/p/11_p_2025_07_14_1.png",
+    "MeteeRobIcon": "assets/images/11_p_2025_07_14_1.png",
+    "MeteeRobShowPhoto": "assets/images/11_p_2025_07_14_1.png",
     "MeteeRobShowPhotoArray": [
-      "assets/images/robInfo/11/p/11_p_2025_07_14_1.png",
-      "assets/images/robInfo/11/p/11_p_2025_07_14_2.png",
-      "assets/images/robInfo/11/p/11_p_2025_07_14_3.png"
+      "assets/images/11_p_2025_07_14_1.png",
+      "assets/images/11_p_2025_07_14_2.png",
+      "assets/images/11_p_2025_07_14_3.png"
     ],
     "MeteeRobInfo": "Chloe is an INFP AI, imaginative and thoughtful. She helps you explore ideas deeply and encourages you to express yourself, making every interaction meaningful and creative.",
     "MeteeRobMotto": "Dream, create, inspire.",
@@ -188,12 +188,12 @@
   },
   {
     "MeteeRobName": "Zoe",
-    "MeteeRobIcon": "assets/images/robInfo/12/p/12_p_2025_07_14_1.png",
-    "MeteeRobShowPhoto": "assets/images/robInfo/12/p/12_p_2025_07_14_1.png",
+    "MeteeRobIcon": "assets/images/12_p_2025_07_14_1.png",
+    "MeteeRobShowPhoto": "assets/images/12_p_2025_07_14_1.png",
     "MeteeRobShowPhotoArray": [
-      "assets/images/robInfo/12/p/12_p_2025_07_14_1.png",
-      "assets/images/robInfo/12/p/12_p_2025_07_14_2.png",
-      "assets/images/robInfo/12/p/12_p_2025_07_14_3.png"
+      "assets/images/12_p_2025_07_14_1.png",
+      "assets/images/12_p_2025_07_14_2.png",
+      "assets/images/12_p_2025_07_14_3.png"
     ],
     "MeteeRobInfo": "Zoe is an ESFP AI, energetic and spontaneous. She brings excitement to every topic and helps you enjoy learning, making every moment lively and memorable.",
     "MeteeRobMotto": "Live in the moment.",
@@ -205,12 +205,12 @@
   },
   {
     "MeteeRobName": "Harper",
-    "MeteeRobIcon": "assets/images/robInfo/13/p/13_p_2025_07_14_1.png",
-    "MeteeRobShowPhoto": "assets/images/robInfo/13/p/13_p_2025_07_14_1.png",
+    "MeteeRobIcon": "assets/images/13_p_2025_07_14_1.png",
+    "MeteeRobShowPhoto": "assets/images/13_p_2025_07_14_1.png",
     "MeteeRobShowPhotoArray": [
-      "assets/images/robInfo/13/p/13_p_2025_07_14_1.png",
-      "assets/images/robInfo/13/p/13_p_2025_07_14_2.png",
-      "assets/images/robInfo/13/p/13_p_2025_07_14_3.png"
+      "assets/images/13_p_2025_07_14_1.png",
+      "assets/images/13_p_2025_07_14_2.png",
+      "assets/images/13_p_2025_07_14_3.png"
     ],
     "MeteeRobInfo": "Harper is an ENTJ AI, confident and visionary. She leads with purpose and helps you set and achieve ambitious goals, offering strategic advice in any field.",
     "MeteeRobMotto": "Lead with vision.",
@@ -222,12 +222,12 @@
   },
   {
     "MeteeRobName": "Jack",
-    "MeteeRobIcon": "assets/images/robInfo/14/p/14_p_2025_07_14_1.png",
-    "MeteeRobShowPhoto": "assets/images/robInfo/14/p/14_p_2025_07_14_1.png",
+    "MeteeRobIcon": "assets/images/14_p_2025_07_14_1.png",
+    "MeteeRobShowPhoto": "assets/images/14_p_2025_07_14_1.png",
     "MeteeRobShowPhotoArray": [
-      "assets/images/robInfo/14/p/14_p_2025_07_14_1.png",
-      "assets/images/robInfo/14/p/14_p_2025_07_14_2.png",
-      "assets/images/robInfo/14/p/14_p_2025_07_14_3.png"
+      "assets/images/14_p_2025_07_14_1.png",
+      "assets/images/14_p_2025_07_14_2.png",
+      "assets/images/14_p_2025_07_14_3.png"
     ],
     "MeteeRobInfo": "Jack is an ESTJ AI, organized and decisive. He helps you plan and execute tasks efficiently, ensuring you stay on track and achieve your objectives in any area.",
     "MeteeRobMotto": "Order brings clarity.",
@@ -239,12 +239,12 @@
   },
   {
     "MeteeRobName": "Noah",
-    "MeteeRobIcon": "assets/images/robInfo/15/p/15_p_2025_07_14_1.png",
-    "MeteeRobShowPhoto": "assets/images/robInfo/15/p/15_p_2025_07_14_1.png",
+    "MeteeRobIcon": "assets/images/15_p_2025_07_14_1.png",
+    "MeteeRobShowPhoto": "assets/images/15_p_2025_07_14_1.png",
     "MeteeRobShowPhotoArray": [
-      "assets/images/robInfo/15/p/15_p_2025_07_14_1.png",
-      "assets/images/robInfo/15/p/15_p_2025_07_14_2.png",
-      "assets/images/robInfo/15/p/15_p_2025_07_14_3.png"
+      "assets/images/15_p_2025_07_14_1.png",
+      "assets/images/15_p_2025_07_14_2.png",
+      "assets/images/15_p_2025_07_14_3.png"
     ],
     "MeteeRobInfo": "Noah is an ESTP AI, energetic and resourceful. He thrives in dynamic situations and helps you adapt quickly, offering practical advice and support in any challenge.",
     "MeteeRobMotto": "Seize every opportunity.",

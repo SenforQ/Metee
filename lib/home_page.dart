@@ -312,6 +312,11 @@ class _HomePageState extends State<HomePage> with WidgetsBindingObserver {
           .map((json) => RobCharacter.fromJson(json))
           .toList();
       
+      print('Loaded ${allCharacters.length} characters from JSON');
+      for (var character in allCharacters.take(3)) {
+        print('Character: ${character.name}, Icon: ${character.icon}');
+      }
+      
       // 过滤掉被屏蔽和拉黑的用户
       final prefs = await SharedPreferences.getInstance();
       final blockedUsers = prefs.getStringList('blocked_users') ?? [];
@@ -555,6 +560,8 @@ class _HomePageState extends State<HomePage> with WidgetsBindingObserver {
               height: double.infinity,
               fit: BoxFit.cover,
               errorBuilder: (context, error, stackTrace) {
+                print('Image loading error for ${character.name}: $error');
+                print('Image path: ${character.icon}');
                 return Container(
                   width: double.infinity,
                   height: double.infinity,
@@ -738,6 +745,8 @@ class _HomePageState extends State<HomePage> with WidgetsBindingObserver {
                 height: 90,
                 fit: BoxFit.cover,
                 errorBuilder: (context, error, stackTrace) {
+                  print('Recommend card image loading error for ${character.name}: $error');
+                  print('Image path: ${character.icon}');
                   return Container(
                     width: 90,
                     height: 90,
