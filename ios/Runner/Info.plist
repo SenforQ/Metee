@@ -35,7 +35,7 @@
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>This app needs photo library access to select photos for avatar.</string>
 	<key>NSUserTrackingUsageDescription</key>
-	<string>This identifier will be used to deliver personalized dance partner recommendations and improve your experience finding compatible dance partners.</string>
+	<string>Accessing device identifier information will be used push personalized advertising services</string>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
 	<key>UIBackgroundModes</key>
