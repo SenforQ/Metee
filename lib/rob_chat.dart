@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'dart:convert';
+import 'dart:io';
+import 'package:path_provider/path_provider.dart';
 import 'models/rob_character.dart';
 import 'chat_info.dart';
 import 'report_page.dart';
@@ -24,11 +25,14 @@ class _RobChatPageState extends State<RobChatPage> {
   final TextEditingController _messageController = TextEditingController();
   final List<ChatMessage> _messages = [];
   bool _isLoading = false;
+  String? _userAvatarFileName;
+  String _userNickname = 'Zinko Traveler';
 
   @override
   void initState() {
     super.initState();
     _loadChatHistory();
+    _loadUserInfo();
   }
 
   @override
@@ -58,6 +62,14 @@ class _RobChatPageState extends State<RobChatPage> {
     }
   }
 
+  Future<void> _loadUserInfo() async {
+    final prefs = await SharedPreferences.getInstance();
+    setState(() {
+      _userAvatarFileName = prefs.getString('user_avatar');
+      _userNickname = prefs.getString('user_nickname') ?? 'Zinko Traveler';
+    });
+  }
+
   Future<void> _saveChatHistory() async {
     final prefs = await SharedPreferences.getInstance();
     final chatKey = 'chat_${widget.character.name}';
@@ -74,6 +86,7 @@ class _RobChatPageState extends State<RobChatPage> {
       text: message,
       isUser: true,
       timestamp: DateTime.now(),
+      userNickname: _userNickname,
     );
 
     setState(() {
@@ -611,15 +624,35 @@ class _RobChatPageState extends State<RobChatPage> {
             const SizedBox(width: 8),
             ClipRRect(
               borderRadius: BorderRadius.circular(20),
-              child: Container(
-                width: 40,
-                height: 40,
-                decoration: BoxDecoration(
-                  color: Colors.grey[300],
-                  borderRadius: BorderRadius.circular(20),
-                ),
-                child: const Icon(Icons.person, size: 20, color: Colors.grey),
-              ),
+              child: _userAvatarFileName != null
+                  ? FutureBuilder<Directory>(
+                      future: getApplicationDocumentsDirectory(),
+                      builder: (context, snapshot) {
+                        if (snapshot.connectionState == ConnectionState.done && snapshot.hasData) {
+                          final fullPath = '${snapshot.data!.path}/$_userAvatarFileName';
+                          if (File(fullPath).existsSync()) {
+                            return Image.file(
+                              File(fullPath),
+                              width: 40,
+                              height: 40,
+                              fit: BoxFit.cover,
+                            );
+                          }
+                        }
+                        return Image.asset(
+                          'assets/images/user_icon_20250715.png',
+                          width: 40,
+                          height: 40,
+                          fit: BoxFit.cover,
+                        );
+                      },
+                    )
+                  : Image.asset(
+                      'assets/images/user_icon_20250715.png',
+                      width: 40,
+                      height: 40,
+                      fit: BoxFit.cover,
+                    ),
             ),
           ],
         ],
@@ -742,11 +775,13 @@ class ChatMessage {
   final String text;
   final bool isUser;
   final DateTime timestamp;
+  final String? userNickname;
 
   ChatMessage({
     required this.text,
     required this.isUser,
     required this.timestamp,
+    this.userNickname,
   });
 
   Map<String, dynamic> toJson() {
@@ -754,6 +789,7 @@ class ChatMessage {
       'text': text,
       'isUser': isUser,
       'timestamp': timestamp.toIso8601String(),
+      'userNickname': userNickname,
     };
   }
 
@@ -762,6 +798,7 @@ class ChatMessage {
       text: json['text'] ?? '',
       isUser: json['isUser'] ?? false,
       timestamp: DateTime.parse(json['timestamp']),
+      userNickname: json['userNickname'],
     );
   }
 } 
