@@ -6,6 +6,8 @@ import 'terms_of_use_page.dart';
 import 'privacy_policy_page.dart';
 import 'about_us_page.dart';
 import 'edit_personal_info_page.dart';
+import 'energy_page.dart';
+import 'vip_subscription_page.dart';
 
 class MinePage extends StatefulWidget {
   const MinePage({super.key});
@@ -20,11 +22,31 @@ class _MinePageState extends State<MinePage> {
   int _follower = 0;
   int _following = 0;
   int _like = 0;
+  bool _isVipActive = false;
+  int _energy = 0;
 
   @override
   void initState() {
     super.initState();
     _loadUserInfo();
+    _initializeDefaultData();
+  }
+
+  Future<void> _initializeDefaultData() async {
+    final prefs = await SharedPreferences.getInstance();
+    
+    // 如果VIP状态未设置，设置默认值为false
+    if (!prefs.containsKey('user_vip_active')) {
+      await prefs.setBool('user_vip_active', false);
+    }
+    
+    // 如果金币数量未设置，设置默认值为100
+    if (!prefs.containsKey('user_energy')) {
+      await prefs.setInt('user_energy', 100);
+    }
+    
+    // 重新加载数据
+    await _loadUserInfo();
   }
 
   Future<void> _loadUserInfo() async {
@@ -35,7 +57,32 @@ class _MinePageState extends State<MinePage> {
       _follower = prefs.getInt('user_follower') ?? 0;
       _following = prefs.getInt('user_following') ?? 0;
       _like = prefs.getInt('user_like') ?? 0;
+      _isVipActive = prefs.getBool('user_vip_active') ?? false;
+      _energy = prefs.getInt('user_energy') ?? 0;
     });
+  }
+
+  Future<void> _saveVipStatus(bool isActive) async {
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setBool('user_vip_active', isActive);
+    setState(() {
+      _isVipActive = isActive;
+    });
+  }
+
+  Future<void> _saveEnergy(int energy) async {
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setInt('user_energy', energy);
+    setState(() {
+      _energy = energy;
+    });
+  }
+
+  Future<void> _updateEnergy(int delta) async {
+    final newEnergy = _energy + delta;
+    if (newEnergy >= 0) {
+      await _saveEnergy(newEnergy);
+    }
   }
 
   @override
@@ -206,6 +253,32 @@ class _MinePageState extends State<MinePage> {
                   ),
                   const SizedBox(height: 12),
                   _MineMenuItem(
+                    icon: 'assets/images/mine_vip_20250721.png',
+                    text: 'VIP Subscription',
+                    isActive: _isVipActive,
+                    showStatus: true,
+                    onTap: () async {
+                      final result = await Navigator.of(context).push(
+                        MaterialPageRoute(builder: (context) => const VipSubscriptionPage()),
+                      );
+                      if (result == true) {
+                        await _loadUserInfo(); // 如果订阅成功，重新加载用户信息
+                      }
+                    },
+                  ),
+                  const SizedBox(height: 12),
+                  _MineMenuItem(
+                    icon: 'assets/images/mine_energy_20250721.png',
+                    text: 'Energy',
+                    value: _energy,
+                    onTap: () {
+                      Navigator.of(context).push(
+                        MaterialPageRoute(builder: (context) => const EnergyPage()),
+                      );
+                    },
+                  ),
+                  const SizedBox(height: 12),
+                  _MineMenuItem(
                     icon: 'assets/images/mine_agreement_20250715.png',
                     text: 'Terms of use',
                     onTap: () {
@@ -249,7 +322,17 @@ class _MineMenuItem extends StatelessWidget {
   final String icon;
   final String text;
   final VoidCallback? onTap;
-  const _MineMenuItem({required this.icon, required this.text, this.onTap});
+  final bool? isActive;
+  final int? value;
+  final bool showStatus;
+  const _MineMenuItem({
+    required this.icon, 
+    required this.text, 
+    this.onTap,
+    this.isActive,
+    this.value,
+    this.showStatus = false,
+  });
 
   @override
   Widget build(BuildContext context) {
@@ -271,13 +354,46 @@ class _MineMenuItem extends StatelessWidget {
             ),
             const SizedBox(width: 16),
             Expanded(
-              child: Text(
-                text,
-                style: const TextStyle(
-                  color: Colors.white,
-                  fontSize: 16,
-                  fontWeight: FontWeight.w500,
-                ),
+              child: Row(
+                children: [
+                  Text(
+                    text,
+                    style: const TextStyle(
+                      color: Colors.white,
+                      fontSize: 16,
+                      fontWeight: FontWeight.w500,
+                    ),
+                  ),
+                  if (showStatus && isActive != null) ...[
+                    const SizedBox(width: 8),
+                    Container(
+                      padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 2),
+                      decoration: BoxDecoration(
+                        color: isActive! ? const Color(0xFFFFD700) : const Color(0xFF666666),
+                        borderRadius: BorderRadius.circular(10),
+                      ),
+                      child: Text(
+                        isActive! ? 'ACTIVE' : 'INACTIVE',
+                        style: TextStyle(
+                          color: isActive! ? Colors.black : Colors.white,
+                          fontSize: 10,
+                          fontWeight: FontWeight.bold,
+                        ),
+                      ),
+                    ),
+                  ],
+                  if (value != null) ...[
+                    const Spacer(),
+                    Text(
+                      '$value',
+                      style: const TextStyle(
+                        color: Color(0xFFFFD700),
+                        fontSize: 16,
+                        fontWeight: FontWeight.bold,
+                      ),
+                    ),
+                  ],
+                ],
               ),
             ),
             Image.asset(

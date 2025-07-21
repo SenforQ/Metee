@@ -4,6 +4,7 @@ import 'package:path_provider/path_provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'dart:io';
+import 'vip_subscription_page.dart';
 
 void showZinkoToast(String msg) {
   Fluttertoast.showToast(
@@ -66,6 +67,32 @@ class _EditPersonalInfoPageState extends State<EditPersonalInfoPage> {
   }
 
   Future<void> _save() async {
+    // 检查是否为VIP用户
+    final prefs = await SharedPreferences.getInstance();
+    final isVip = prefs.getBool('is_vip') ?? false;
+    
+    if (!isVip) {
+      // 如果不是VIP用户，跳转到VIP订阅页面
+      showZinkoToast('This feature requires VIP subscription');
+      await Future.delayed(const Duration(milliseconds: 800));
+      
+      final result = await Navigator.of(context).push(
+        MaterialPageRoute(builder: (context) => const VipSubscriptionPage()),
+      );
+      
+      // 如果从VIP页面返回，检查是否已成为VIP
+      if (result == true) {
+        // 用户已成为VIP，继续保存操作
+        await _performSave();
+      }
+      return;
+    }
+    
+    // 如果是VIP用户，直接保存
+    await _performSave();
+  }
+
+  Future<void> _performSave() async {
     final prefs = await SharedPreferences.getInstance();
     if (_avatarFileName != null) {
       await prefs.setString('user_avatar', _avatarFileName!); // 只保存文件名

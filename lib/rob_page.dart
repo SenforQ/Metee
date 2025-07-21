@@ -5,6 +5,7 @@ import 'package:path_provider/path_provider.dart';
 import 'services/zhipu_ai_service.dart';
 import 'utils/toast_utils.dart';
 import 'utils/gold_balance_utils.dart';
+import 'energy_page.dart' as energy;
 
 class RobPage extends StatefulWidget {
   const RobPage({super.key});
@@ -21,6 +22,7 @@ class _RobPageState extends State<RobPage> {
   bool _isLoading = false;
   bool _isSending = false;
   String? _userAvatarFileName;
+  int _energyBalance = 0;
 
   // 预设的快速问题
   final List<String> _quickQuestions = [
@@ -33,6 +35,7 @@ class _RobPageState extends State<RobPage> {
   void initState() {
     super.initState();
     _loadUserAvatar();
+    _loadEnergyBalance();
   }
 
   @override
@@ -49,6 +52,13 @@ class _RobPageState extends State<RobPage> {
     });
   }
 
+  Future<void> _loadEnergyBalance() async {
+    final balance = await getGoldBalance();
+    setState(() {
+      _energyBalance = balance;
+    });
+  }
+
   void _scrollToBottom() {
     if (_scrollController.hasClients) {
       _scrollController.animateTo(
@@ -62,13 +72,23 @@ class _RobPageState extends State<RobPage> {
   Future<void> _sendMessage(String messageText) async {
     if (messageText.trim().isEmpty || _isSending) return;
 
-    // 检查金币余额
-    int balance = await getGoldBalance();
-    if (balance < 4) {
-      showCenterToast(context, 'Insufficient coins, please recharge.');
+    // 检查Energy余额
+    if (_energyBalance < 2) {
+      showCenterToast(context, 'Insufficient Energy, please recharge.');
+      // 跳转到Energy页面
+      final result = await Navigator.of(context).push(
+        MaterialPageRoute(builder: (context) => const energy.EnergyPage()),
+      );
+      // 如果从Energy页面返回，重新加载余额
+      if (result == true) {
+        await _loadEnergyBalance();
+      }
       return;
     }
-    await deductGoldBalance(4);
+
+    // 扣除2 Energy
+    await deductGoldBalance(2);
+    await _loadEnergyBalance(); // 重新加载余额
 
     setState(() {
       _isSending = true;
@@ -313,6 +333,49 @@ class _RobPageState extends State<RobPage> {
                           fontSize: 18,
                           color: Colors.white,
                           fontWeight: FontWeight.w500,
+                        ),
+                      ),
+                      const Spacer(),
+                      // 右上角Energy显示
+                      Container(
+                        padding: const EdgeInsets.symmetric(
+                          horizontal: 12,
+                          vertical: 6,
+                        ),
+                        decoration: BoxDecoration(
+                          color: Colors.black.withOpacity(0.3),
+                          borderRadius: BorderRadius.circular(16),
+                          border: Border.all(
+                            color: Colors.white.withOpacity(0.2),
+                            width: 1,
+                          ),
+                        ),
+                        child: Row(
+                          mainAxisSize: MainAxisSize.min,
+                          children: [
+                            Container(
+                              width: 16,
+                              height: 16,
+                              decoration: const BoxDecoration(
+                                shape: BoxShape.circle,
+                                color: Color(0xFFFFD700),
+                              ),
+                              child: const Icon(
+                                Icons.star,
+                                color: Colors.white,
+                                size: 12,
+                              ),
+                            ),
+                            const SizedBox(width: 6),
+                            Text(
+                              '$_energyBalance',
+                              style: const TextStyle(
+                                color: Colors.white,
+                                fontSize: 14,
+                                fontWeight: FontWeight.w600,
+                              ),
+                            ),
+                          ],
                         ),
                       ),
                     ],

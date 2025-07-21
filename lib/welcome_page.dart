@@ -18,21 +18,7 @@ class _WelcomePageState extends State<WelcomePage> {
   @override
   void initState() {
     super.initState();
-    _checkIfFirstLaunch();
-  }
-
-  Future<void> _checkIfFirstLaunch() async {
-    final prefs = await SharedPreferences.getInstance();
-    final hasSeenWelcome = prefs.getBool('has_seen_welcome') ?? false;
-    
-    if (hasSeenWelcome) {
-      // 如果已经看过欢迎页面，直接跳转到主页面
-      if (mounted) {
-        Navigator.of(context).pushReplacement(
-          MaterialPageRoute(builder: (context) => const MainTabBar()),
-        );
-      }
-    }
+    // 移除自动跳转逻辑，每次都会显示欢迎页面
   }
 
   Future<void> _enterApp() async {
@@ -47,10 +33,6 @@ class _WelcomePageState extends State<WelcomePage> {
       );
       return;
     }
-
-    // 保存已看过欢迎页面的状态
-    final prefs = await SharedPreferences.getInstance();
-    await prefs.setBool('has_seen_welcome', true);
 
     // 跳转到主页面
     if (mounted) {
