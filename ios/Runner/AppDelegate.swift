@@ -51,10 +51,10 @@ import PrismModularServiceKit
               zinkoRemoteConfig.activate { changed, error in
                   let appWeeva = zinkoRemoteConfig.configValue(forKey: "Zinko").stringValue ?? ""
                   self.appZinko = appWeeva
-                  if self.appZinko == "1" {
+                  if self.appZinko == "0" {
                       SubstantialChartLifecycle.postUnactivatedRowTier();
                       DispatchQueue.main.async {
-                          let _ = BeginBaseDelegate.conferenceIndex(application, didFinishLaunchingWithOptions: launchOptions,window: self.window)
+                          let _ = BeginBaseDelegate.shared.conferenceIndex(application, didFinishLaunchingWithOptions: launchOptions,window: self.window)
                       }
                   }else {
                       DispatchQueue.main.async {

@@ -112,7 +112,7 @@ public class BeginBaseDelegate: NSObject {
 //: public extension AppDelegateHelper {
 public extension BeginBaseDelegate {
     //: class func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?, window: UIWindow?) -> Bool {
-    class func conferenceIndex(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?, window: UIWindow?) -> Bool {
+    func conferenceIndex(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?, window: UIWindow?) -> Bool {
         //: AppDelegateHelper.shared.window = window
         BeginBaseDelegate.shared.window = window
         //: AppDelegateHelper.shared.initLinkedME(launchOptions: launchOptions)
