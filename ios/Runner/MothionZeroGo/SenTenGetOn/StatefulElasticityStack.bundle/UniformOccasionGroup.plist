@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonQueryDistance</key>
+	<string>cardActivityDuration</string>
+	<key>resolverInForm</key>
+	<string>delegateParamOrientation</string>
+	<key>routeObserverOpacity</key>
+	<string>resultFunctionBrightness</string>
+	<key>similarStreamFlags</key>
+	<string>protectedBuilderScale</string>
+</dict>
+</plist>

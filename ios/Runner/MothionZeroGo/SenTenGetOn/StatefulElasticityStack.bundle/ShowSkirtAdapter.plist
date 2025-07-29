@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitFrameworkMargin</key>
+	<string>scaleExceptParameter</string>
+	<key>cursorProxyScale</key>
+	<string>playbackMethodInset</string>
+	<key>extensionStyleResponse</key>
+	<string>exponentBeyondWork</string>
+	<key>hashProcessMargin</key>
+	<string>temporaryDurationTheme</string>
+	<key>viewObserverSpeed</key>
+	<string>persistentParticleTint</string>
+</dict>
+</plist>

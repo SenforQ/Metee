@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncSignRate</key>
+	<string>navigatorOperationFeedback</string>
+	<key>backwardBlocBound</key>
+	<string>lostCoordinatorContrast</string>
+	<key>channelBufferInterval</key>
+	<string>animationSincePrototype</string>
+	<key>mobilePaddingRight</key>
+	<string>symmetricKernelVelocity</string>
+	<key>newestZoneDirection</key>
+	<string>uniqueControllerVisible</string>
+	<key>reducerSinceActivity</key>
+	<string>euclideanActionPressure</string>
+	<key>subsequentStreamFormat</key>
+	<string>handlerNearFramework</string>
+</dict>
+</plist>
