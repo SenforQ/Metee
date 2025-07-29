@@ -367,7 +367,7 @@ class TalkingButtonUniversalRecognizerDelegate: ScoreViewController {
     //: private lazy var DetailSource: [String] = {
     private lazy var DetailSource: [String] = {
         //: var array = ["", "Open then %@ will recommend users to you. A new chat will be made after a successful recommendation.".localizedArguments(AppName), "Open then Applyname will recommend users to you. Use your identity to greet each other.".localized, "Your avatar and nickname will not be displayed in the ranking.".localized]
-        var array = ["", String(bytes: userAreaSizeStr.map{colorShare(error: $0)}, encoding: .utf8)!.fast(appErrTablePath), String(bytes: userInfoId.map{sharedApp(income: $0)}, encoding: .utf8)!.localized, String(bytes: dataShareFormat.map{viewModel(observer: $0)}, encoding: .utf8)!.localized]
+        var array = ["", String(bytes: userAreaSizeStr.map{colorShare(error: $0)}, encoding: .utf8)!.fast(appErrTablePath),String(bytes: dataShareFormat.map{viewModel(observer: $0)}, encoding: .utf8)!.localized , String(bytes: userInfoId.map{sharedApp(income: $0)}, encoding: .utf8)!.localized]
         //: if RegularBeginDecisionMakerAppManager.share.loginUserMode.sex == "2" {
         if RegularBeginDecisionMakerAppManager.share.loginUserMode.sex == "2" {
             //: array[1] = "Open then %@ will recommend users to you. Use your identity to greet each other.".localizedArguments(AppName)
