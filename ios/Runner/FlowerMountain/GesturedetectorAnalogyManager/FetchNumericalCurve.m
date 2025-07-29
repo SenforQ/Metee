@@ -70,7 +70,7 @@
 		//NSLog(@"sets= bussiness5 gen_set %@", bussiness5);
 		int hashBridgeBrightness=0;
 		//NSLog(@"sets= bussiness5 gen_int %@", bussiness5);
-		NSInteger transitionPhaseMode = 3;
+		NSInteger transitionPhaseMode =  [transitionPhaseMode count];
 		int sinkVisitorStatus=0;
 		int richtextAsProcess=0;
 		for (int i = 0; i < 1; i++) {
