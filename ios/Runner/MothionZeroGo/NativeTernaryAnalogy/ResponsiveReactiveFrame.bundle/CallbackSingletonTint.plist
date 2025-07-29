@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetStateTint</key>
+	<string>sortedSpineIndex</string>
+	<key>bufferCommandAcceleration</key>
+	<string>dependencyForCommand</string>
+	<key>chartExceptPlatform</key>
+	<string>layerActionDuration</string>
+	<key>configurationPhaseTail</key>
+	<string>responseMediatorDepth</string>
+	<key>layoutProcessDelay</key>
+	<string>columnMementoDirection</string>
+	<key>listviewOrMode</key>
+	<string>missionPrototypePosition</string>
+	<key>subtleBlocDistance</key>
+	<string>asyncAndParameter</string>
+</dict>
+</plist>

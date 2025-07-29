@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelParamDepth</key>
+	<string>sampleAmongStage</string>
+	<key>desktopSubpixelSpeed</key>
+	<string>alignmentDespiteStage</string>
+	<key>mapAndJob</key>
+	<string>cubitFromScope</string>
+	<key>permissiveBuilderOrientation</key>
+	<string>uniformGrayscaleFeedback</string>
+	<key>subsequentParticleVisibility</key>
+	<string>standaloneStorageMode</string>
+	<key>unsortedAllocatorForce</key>
+	<string>entropyVisitorType</string>
+</dict>
+</plist>

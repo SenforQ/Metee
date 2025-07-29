@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionParamTheme</key>
+	<string>equipmentStyleLocation</string>
+	<key>animationStrategyAcceleration</key>
+	<string>dependencyTaskBound</string>
+	<key>curveNumberVisibility</key>
+	<string>offsetObserverTail</string>
+	<key>durationFormPressure</key>
+	<string>resultContainProxy</string>
+	<key>entropyPatternBehavior</key>
+	<string>exceptionPatternFeedback</string>
+	<key>globalPlaybackDistance</key>
+	<string>completerWithoutStrategy</string>
+	<key>hierarchicalBaseDelay</key>
+	<string>fixedIconOrientation</string>
+	<key>interactorModeOrientation</key>
+	<string>tangentValueOrientation</string>
+	<key>memberBridgeLocation</key>
+	<string>interactorJobMargin</string>
+	<key>storeFunctionOffset</key>
+	<string>compositionWithStyle</string>
+</dict>
+</plist>

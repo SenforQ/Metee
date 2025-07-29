@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchAtStyle</key>
+	<string>layoutPlatformLeft</string>
+	<key>contractionObserverFrequency</key>
+	<string>scaffoldBridgeSize</string>
+	<key>flexibleObserverEdge</key>
+	<string>protectedBlocTransparency</string>
+	<key>frameDespiteState</key>
+	<string>lossPrototypeShade</string>
+	<key>gemWorkPosition</key>
+	<string>heroActionShade</string>
+	<key>groupMediatorOrientation</key>
+	<string>activatedMediaqueryBottom</string>
+	<key>layoutOperationName</key>
+	<string>dedicatedFeatureFlags</string>
+	<key>multiplicationFunctionVisible</key>
+	<string>labelVisitorPressure</string>
+	<key>petContainValue</key>
+	<string>accordionLossInset</string>
+	<key>relationalFactoryStyle</key>
+	<string>semanticsVersusProxy</string>
+</dict>
+</plist>

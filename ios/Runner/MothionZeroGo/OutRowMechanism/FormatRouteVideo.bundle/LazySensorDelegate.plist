@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitDecoratorDelay</key>
+	<string>metadataJobRate</string>
+	<key>groupMementoHead</key>
+	<string>stampOfStage</string>
+	<key>movementPlatformRate</key>
+	<string>channelsObserverPadding</string>
+	<key>playbackMediatorSkewx</key>
+	<string>cupertinoBoxshadowInteraction</string>
+	<key>resizableCapsuleSize</key>
+	<string>inactiveCapacitiesDelay</string>
+</dict>
+</plist>

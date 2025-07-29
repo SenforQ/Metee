@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSpineKind</key>
+	<string>isolateJobInset</string>
+	<key>aspectratioMementoCount</key>
+	<string>containerBufferPressure</string>
+	<key>builderPatternFrequency</key>
+	<string>popupBeyondLevel</string>
+	<key>buttonContextOffset</key>
+	<string>containerLayerAppearance</string>
+	<key>concurrentNibVisible</key>
+	<string>composableTitleContrast</string>
+	<key>disabledBaselineBound</key>
+	<string>animatedcontainerFacadeSpacing</string>
+	<key>hyperbolicSceneSpacing</key>
+	<string>responsiveGroupCoord</string>
+	<key>spriteAndInterpreter</key>
+	<string>backwardReferenceOrientation</string>
+	<key>timerAboutMethod</key>
+	<string>queryAlongType</string>
+</dict>
+</plist>

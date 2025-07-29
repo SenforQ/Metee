@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasExceptActivity</key>
+	<string>buttonBesideInterpreter</string>
+	<key>hyperbolicDurationDelay</key>
+	<string>persistentDurationFeedback</string>
+	<key>observerFromMemento</key>
+	<string>hyperbolicIconSkewy</string>
+	<key>reducerOrJob</key>
+	<string>materialProjectionDepth</string>
+</dict>
+</plist>

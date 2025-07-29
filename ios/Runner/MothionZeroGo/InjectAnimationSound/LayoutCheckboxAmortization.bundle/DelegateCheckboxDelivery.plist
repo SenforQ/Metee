@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertIncludePattern</key>
+	<string>pinchableScrollLeft</string>
+	<key>chartAboutEnvironment</key>
+	<string>collectionAndNumber</string>
+	<key>interactorOfTier</key>
+	<string>oldChartShape</string>
+	<key>observerInAction</key>
+	<string>inkwellSystemForce</string>
+	<key>popupPerBuffer</key>
+	<string>movementDespiteState</string>
+	<key>scrollVarState</key>
+	<string>observerWithPlatform</string>
+	<key>substantialApertureStyle</key>
+	<string>grayscaleInterpreterSaturation</string>
+</dict>
+</plist>

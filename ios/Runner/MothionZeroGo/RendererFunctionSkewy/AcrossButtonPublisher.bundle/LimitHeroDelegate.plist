@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheActivityHue</key>
+	<string>ignoredIconShape</string>
+	<key>clipperStyleOffset</key>
+	<string>directTabviewTension</string>
+	<key>convolutionSingletonMargin</key>
+	<string>uniformTransformerInteraction</string>
+	<key>fusedZoneRotation</key>
+	<string>semanticExtensionShade</string>
+	<key>liteLossColor</key>
+	<string>retainedTextureValidation</string>
+	<key>statefulCycleVisible</key>
+	<string>constTabviewTransparency</string>
+	<key>visibleApertureSaturation</key>
+	<string>diffableButtonSize</string>
+</dict>
+</plist>

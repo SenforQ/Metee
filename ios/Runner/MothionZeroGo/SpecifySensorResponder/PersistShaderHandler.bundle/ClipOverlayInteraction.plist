@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheProxySkewx</key>
+	<string>interpolationLayerTransparency</string>
+	<key>capsuleObserverMode</key>
+	<string>chartLevelEdge</string>
+	<key>compositionalTaskPressure</key>
+	<string>finalBufferFlags</string>
+	<key>coordinatorCommandTint</key>
+	<string>drawerDespiteLevel</string>
+	<key>explicitParticleShade</key>
+	<string>positionCommandEdge</string>
+	<key>listviewVariableType</key>
+	<string>providerPhaseDensity</string>
+	<key>providerParamState</key>
+	<string>operationViaLevel</string>
+	<key>segmentContainMethod</key>
+	<string>gemValueVisible</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileGraphicStatus</key>
+	<string>scaleFromSystem</string>
+	<key>denseDelegateSize</key>
+	<string>effectForFramework</string>
+	<key>descriptionByFlyweight</key>
+	<string>grainLevelLeft</string>
+	<key>displayableBrushBehavior</key>
+	<string>notifierActivityCoord</string>
+	<key>metadataObserverVelocity</key>
+	<string>statelessFrameworkType</string>
+	<key>pivotalCursorDistance</key>
+	<string>animationDespitePattern</string>
+	<key>seamlessBuilderSaturation</key>
+	<string>dedicatedProjectFeedback</string>
+	<key>stepSinceVariable</key>
+	<string>hashPerMethod</string>
+</dict>
+</plist>

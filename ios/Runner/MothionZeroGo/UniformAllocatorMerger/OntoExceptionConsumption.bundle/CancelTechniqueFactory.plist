@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerFrameworkStyle</key>
+	<string>navigationCommandBorder</string>
+	<key>buttonVariableRate</key>
+	<string>reusableTaskTail</string>
+	<key>coordinatorInsideFramework</key>
+	<string>reusableTickerTag</string>
+	<key>crucialRiverpodFlags</key>
+	<string>navigatorTierRight</string>
+	<key>handlerDecoratorVisible</key>
+	<string>textfieldExceptInterpreter</string>
+	<key>rowLikeInterpreter</key>
+	<string>channelsScopeFrequency</string>
+	<key>screenShapeRate</key>
+	<string>missedConstraintFlags</string>
+	<key>storageBeyondTier</key>
+	<string>backwardMissionInterval</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarPerAction</key>
+	<string>composableOffsetInterval</string>
+	<key>chapterCycleDistance</key>
+	<string>sceneLayerInset</string>
+	<key>interpolationFacadeOrientation</key>
+	<string>otherConfigurationSaturation</string>
+	<key>invisibleParticleSpacing</key>
+	<string>viewBufferDelay</string>
+	<key>lastResolverOffset</key>
+	<string>containerStageSkewx</string>
+	<key>memberSystemDepth</key>
+	<string>queryWithoutCycle</string>
+	<key>prismaticAnimationTail</key>
+	<string>sizedboxAboutAdapter</string>
+	<key>scenePrototypeShade</key>
+	<string>keyChannelsKind</string>
+	<key>sinkNearLevel</key>
+	<string>containerOrFramework</string>
+	<key>textPrototypeTension</key>
+	<string>projectionFacadeStyle</string>
+</dict>
+</plist>

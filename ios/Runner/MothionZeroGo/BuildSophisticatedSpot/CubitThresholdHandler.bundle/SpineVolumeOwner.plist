@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperAsObserver</key>
+	<string>precisionNearBuffer</string>
+	<key>offsetInSystem</key>
+	<string>apertureChainDepth</string>
+	<key>projectionThroughFramework</key>
+	<string>sortedCompleterBorder</string>
+	<key>resolverLikeValue</key>
+	<string>enabledNavigatorDelay</string>
+	<key>scaffoldByState</key>
+	<string>presenterOrJob</string>
+	<key>smartTopicSaturation</key>
+	<string>queryThanNumber</string>
+	<key>titleFromStage</key>
+	<string>cosineStateType</string>
+	<key>widgetAgainstFlyweight</key>
+	<string>resourceAndLayer</string>
+</dict>
+</plist>

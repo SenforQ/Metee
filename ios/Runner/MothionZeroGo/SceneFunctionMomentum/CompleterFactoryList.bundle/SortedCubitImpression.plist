@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousBaseAlignment</key>
+	<string>grainOperationTheme</string>
+	<key>blocActivityDistance</key>
+	<string>shaderPatternColor</string>
+	<key>dialogsModeBehavior</key>
+	<string>cosineFunctionRate</string>
+	<key>euclideanLoopDuration</key>
+	<string>finalOperationSkewx</string>
+	<key>scrollableScreenFrequency</key>
+	<string>reusableHandlerAcceleration</string>
+	<key>sequentialPresenterDelay</key>
+	<string>modulusAndCommand</string>
+</dict>
+</plist>

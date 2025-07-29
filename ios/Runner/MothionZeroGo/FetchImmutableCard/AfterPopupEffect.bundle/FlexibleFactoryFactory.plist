@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeExtensionDirection</key>
+	<string>streamThanBuffer</string>
+	<key>heroOrObserver</key>
+	<string>rectFlyweightIndex</string>
+	<key>listenerIncludeFacade</key>
+	<string>originalLoopPosition</string>
+	<key>permanentPlateRotation</key>
+	<string>textAlongDecorator</string>
+	<key>positionExceptAdapter</key>
+	<string>numericalControllerTint</string>
+	<key>retainedPointKind</key>
+	<string>segueWithoutKind</string>
+	<key>subsequentSliderTop</key>
+	<string>builderContextSpacing</string>
+</dict>
+</plist>

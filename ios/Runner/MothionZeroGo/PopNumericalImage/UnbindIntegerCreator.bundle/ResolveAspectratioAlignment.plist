@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeMobxShade</key>
+	<string>gemLevelTint</string>
+	<key>liteSizeFeedback</key>
+	<string>appbarPatternFormat</string>
+	<key>mediaForParam</key>
+	<string>symbolIncludeObserver</string>
+	<key>painterOfEnvironment</key>
+	<string>providerViaStructure</string>
+	<key>responsiveGraphBound</key>
+	<string>originalCallbackPosition</string>
+	<key>retainedChannelsResponse</key>
+	<string>activeLayoutType</string>
+	<key>temporaryTransitionResponse</key>
+	<string>immutableNavigatorLocation</string>
+</dict>
+</plist>

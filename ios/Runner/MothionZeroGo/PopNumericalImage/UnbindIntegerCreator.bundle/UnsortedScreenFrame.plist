@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitOfCycle</key>
+	<string>apertureByNumber</string>
+	<key>navigatorMediatorOpacity</key>
+	<string>sineParameterTop</string>
+	<key>resolverSystemCount</key>
+	<string>singletonWithType</string>
+</dict>
+</plist>

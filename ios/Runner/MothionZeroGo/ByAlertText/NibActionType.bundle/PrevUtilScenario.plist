@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAgainstMode</key>
+	<string>otherProviderRotation</string>
+	<key>dynamicTextFrequency</key>
+	<string>storyboardParamInterval</string>
+	<key>greatRadiusRate</key>
+	<string>relationalScaleLeft</string>
+	<key>gridParameterAppearance</key>
+	<string>repositoryForCycle</string>
+	<key>labelAtCycle</key>
+	<string>elasticBuilderRate</string>
+	<key>labelByVariable</key>
+	<string>specifyTimerIndex</string>
+	<key>positionAtStage</key>
+	<string>finalSessionName</string>
+	<key>resultAndFramework</key>
+	<string>cubitVersusTier</string>
+	<key>routerAsActivity</key>
+	<string>sustainableGraphicMomentum</string>
+</dict>
+</plist>

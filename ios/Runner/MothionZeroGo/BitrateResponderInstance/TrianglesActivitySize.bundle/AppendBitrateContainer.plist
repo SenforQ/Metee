@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerAroundLevel</key>
+	<string>textureFlyweightTransparency</string>
+	<key>permissiveLoopDepth</key>
+	<string>sustainableControllerFormat</string>
+	<key>pointAmongComposite</key>
+	<string>responsiveTransformerCoord</string>
+	<key>priorityVersusParam</key>
+	<string>taskVarSize</string>
+	<key>topicActionCenter</key>
+	<string>blocTempleFlags</string>
+</dict>
+</plist>

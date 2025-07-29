@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowStyleMode</key>
+	<string>completerAndFramework</string>
+	<key>commonCupertinoBottom</key>
+	<string>painterPerTier</string>
+	<key>requestAroundBridge</key>
+	<string>prevLoopRate</string>
+	<key>resultFlyweightContrast</key>
+	<string>missedHashPressure</string>
+	<key>scrollAmongStyle</key>
+	<string>resizableStoryboardInterval</string>
+</dict>
+</plist>

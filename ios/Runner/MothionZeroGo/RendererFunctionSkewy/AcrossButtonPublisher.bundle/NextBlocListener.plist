@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticThanStyle</key>
+	<string>repositorySingletonMargin</string>
+	<key>instructionInterpreterVisibility</key>
+	<string>transitionAmongSingleton</string>
+	<key>nodeVisitorOffset</key>
+	<string>statefulBesideDecorator</string>
+	<key>sampleParameterName</key>
+	<string>stepWithTier</string>
+	<key>statelessThreadTail</key>
+	<string>fusedModelKind</string>
+	<key>tensorErrorMomentum</key>
+	<string>resolverParameterSkewx</string>
+	<key>themeOrSingleton</key>
+	<string>progressbarAndFacade</string>
+</dict>
+</plist>

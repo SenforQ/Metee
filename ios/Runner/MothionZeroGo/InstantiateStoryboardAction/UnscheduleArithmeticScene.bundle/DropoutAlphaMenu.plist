@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncStepValidation</key>
+	<string>presenterAsActivity</string>
+	<key>autoInstructionBound</key>
+	<string>sessionPerAction</string>
+	<key>behaviorDecoratorName</key>
+	<string>significantTaskDepth</string>
+	<key>descriptorContainProxy</key>
+	<string>textureActionShape</string>
+	<key>interactorFrameworkBorder</key>
+	<string>handlerTempleTheme</string>
+	<key>iterativeCupertinoCoord</key>
+	<string>pageviewContextCount</string>
+	<key>kernelLevelVisibility</key>
+	<string>usecaseFrameworkForce</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>menuShapeFrequency</key>
+	<string>otherNormFrequency</string>
+	<key>mobxBufferDensity</key>
+	<string>controllerBesideFunction</string>
+	<key>requiredConvolutionDirection</key>
+	<string>arithmeticListenerEdge</string>
+	<key>secondGridState</key>
+	<string>reducerWorkBrightness</string>
+	<key>transitionAndCycle</key>
+	<string>loopNearScope</string>
+	<key>tweenWithoutObserver</key>
+	<string>integerAgainstInterpreter</string>
+</dict>
+</plist>

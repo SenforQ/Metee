@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyExceptStrategy</key>
+	<string>ephemeralOptimizerPosition</string>
+	<key>frameKindType</key>
+	<string>controllerSingletonShape</string>
+	<key>matrixOutsidePrototype</key>
+	<string>mediaqueryAsTemple</string>
+	<key>particleAgainstValue</key>
+	<string>layoutForCommand</string>
+	<key>sharedStoreContrast</key>
+	<string>compositionLikeVar</string>
+	<key>singletonLayerBottom</key>
+	<string>sineCommandState</string>
+</dict>
+</plist>

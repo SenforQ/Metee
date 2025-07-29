@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentInStyle</key>
+	<string>observerAdapterTransparency</string>
+	<key>boxAmongStage</key>
+	<string>factoryFlyweightBottom</string>
+	<key>effectActivityOpacity</key>
+	<string>transitionBesideWork</string>
+	<key>gateAlongVisitor</key>
+	<string>previewExceptPattern</string>
+	<key>layerFunctionStyle</key>
+	<string>coordinatorFrameworkSaturation</string>
+	<key>localProviderSpeed</key>
+	<string>vectorLayerMomentum</string>
+	<key>mediaqueryObserverTail</key>
+	<string>bufferBufferTint</string>
+	<key>resourceStageOpacity</key>
+	<string>textureChainBottom</string>
+	<key>responseBesideActivity</key>
+	<string>denseBinaryBorder</string>
+</dict>
+</plist>

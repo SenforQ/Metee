@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationStyleName</key>
+	<string>cupertinoForLayer</string>
+	<key>durationStyleValidation</key>
+	<string>indicatorDespiteCycle</string>
+	<key>imperativeCompletionName</key>
+	<string>controllerAsFunction</string>
+	<key>matrixDecoratorBorder</key>
+	<string>intuitiveFrameDuration</string>
+	<key>particleIncludeEnvironment</key>
+	<string>chartDecoratorScale</string>
+	<key>routeAsInterpreter</key>
+	<string>overlayAndPhase</string>
+</dict>
+</plist>

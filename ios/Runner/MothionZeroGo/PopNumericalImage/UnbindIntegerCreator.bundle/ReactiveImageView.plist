@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushVariableVisibility</key>
+	<string>constraintOutsideCommand</string>
+	<key>factoryUntilMethod</key>
+	<string>factoryAndVisitor</string>
+	<key>symmetricSegueTheme</key>
+	<string>ephemeralInterfacePadding</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableLayerStyle</key>
+	<string>effectMediatorShade</string>
+	<key>hardGetxTop</key>
+	<string>labelAsPrototype</string>
+	<key>lazyVectorBehavior</key>
+	<string>primaryActionLocation</string>
+	<key>presenterContainPlatform</key>
+	<string>cupertinoBoxLeft</string>
+	<key>tensorRectPressure</key>
+	<string>globalRequestRate</string>
+	<key>textParameterBehavior</key>
+	<string>tabviewVersusSystem</string>
+</dict>
+</plist>

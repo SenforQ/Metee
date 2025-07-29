@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryPatternName</key>
+	<string>sinkBeyondAdapter</string>
+	<key>channelTierBrightness</key>
+	<string>materialOutsideChain</string>
+	<key>mainThemeOffset</key>
+	<string>iterativeSpriteSpacing</string>
+	<key>mediaqueryInFunction</key>
+	<string>globalQueryDirection</string>
+	<key>primaryTitleDensity</key>
+	<string>sceneSystemVisibility</string>
+	<key>transformerTaskPosition</key>
+	<string>handlerInVisitor</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationOfComposite</key>
+	<string>listviewNumberBottom</string>
+	<key>autoRectTransparency</key>
+	<string>cardAndMediator</string>
+	<key>basicTextureScale</key>
+	<string>flexibleIconLocation</string>
+	<key>desktopStackFlags</key>
+	<string>backwardPreviewValidation</string>
+	<key>factoryOrTier</key>
+	<string>projectAmongDecorator</string>
+	<key>featureParameterDelay</key>
+	<string>retainedSpineAlignment</string>
+	<key>intermediateAllocatorBorder</key>
+	<string>popupActionBound</string>
+	<key>marginParamMargin</key>
+	<string>intensityDuringLevel</string>
+	<key>robustMarginAlignment</key>
+	<string>usedAccessoryCount</string>
+</dict>
+</plist>

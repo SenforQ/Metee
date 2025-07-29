@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionContainCycle</key>
+	<string>sessionOperationStatus</string>
+	<key>constraintProcessDelay</key>
+	<string>localizationPrototypeAppearance</string>
+	<key>dialogsInNumber</key>
+	<string>mapSingletonDuration</string>
+	<key>effectAtJob</key>
+	<string>comprehensiveRadiusCenter</string>
+	<key>persistentGraphHue</key>
+	<string>canvasLayerSkewy</string>
+	<key>resilientTransitionFormat</key>
+	<string>ignoredFutureShape</string>
+	<key>segmentAgainstValue</key>
+	<string>grayscaleChainAppearance</string>
+	<key>tickerPlatformLocation</key>
+	<string>awaitViaState</string>
+</dict>
+</plist>

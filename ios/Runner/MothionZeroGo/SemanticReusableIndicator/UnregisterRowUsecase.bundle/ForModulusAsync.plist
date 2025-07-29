@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentCycleFormat</key>
+	<string>alphaChainRate</string>
+	<key>channelBufferKind</key>
+	<string>sizedboxProcessDuration</string>
+	<key>disparateChapterMode</key>
+	<string>tableInPlatform</string>
+	<key>globalDocumentPadding</key>
+	<string>blocAsComposite</string>
+	<key>gridViaCycle</key>
+	<string>explicitObserverColor</string>
+	<key>histogramTaskRight</key>
+	<string>textfieldVersusTask</string>
+	<key>interactiveRoleTension</key>
+	<string>arithmeticFunctionSkewy</string>
+</dict>
+</plist>

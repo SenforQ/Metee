@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationLevelOrientation</key>
+	<string>switchMediatorTransparency</string>
+	<key>commandLayerState</key>
+	<string>imperativeSpriteScale</string>
+	<key>consultativePopupInterval</key>
+	<string>materialEntitySaturation</string>
+	<key>euclideanIsolateTag</key>
+	<string>cursorAtVisitor</string>
+	<key>keyConvolutionRight</key>
+	<string>buttonFacadePadding</string>
+	<key>tabviewAgainstFacade</key>
+	<string>finalAnimationSkewx</string>
+	<key>temporaryRepositoryContrast</key>
+	<string>cursorValueName</string>
+</dict>
+</plist>

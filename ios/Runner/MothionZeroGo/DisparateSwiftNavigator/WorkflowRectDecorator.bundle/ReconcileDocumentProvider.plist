@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mapUntilTask</key>
+	<string>semanticGestureFlags</string>
+	<key>movementOrParam</key>
+	<string>behaviorOfShape</string>
+	<key>nextDurationContrast</key>
+	<string>segueDecoratorBrightness</string>
+	<key>pointUntilPhase</key>
+	<string>isolateInterpreterHead</string>
+	<key>statelessBeyondKind</key>
+	<string>storeActionTint</string>
+</dict>
+</plist>

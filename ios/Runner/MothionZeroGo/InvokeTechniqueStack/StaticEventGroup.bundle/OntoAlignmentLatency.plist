@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitScopeFeedback</key>
+	<string>textOfTask</string>
+	<key>checklistPhaseName</key>
+	<string>appbarParamDirection</string>
+	<key>crucialEntityTint</key>
+	<string>compositionFromFlyweight</string>
+	<key>ignoredChallengeSpacing</key>
+	<string>retainedTickerAcceleration</string>
+	<key>localTickerInteraction</key>
+	<string>curveLevelTint</string>
+	<key>navigationWithoutBridge</key>
+	<string>modalDuringWork</string>
+	<key>optimizerDespiteMediator</key>
+	<string>mediaqueryLikeLayer</string>
+	<key>remainderStrategyForce</key>
+	<string>equipmentInsideTier</string>
+	<key>routerSingletonState</key>
+	<string>customizedVariantTop</string>
+	<key>transitionAlongStructure</key>
+	<string>timerPerBuffer</string>
+</dict>
+</plist>

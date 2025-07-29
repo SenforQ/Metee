@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getxDecoratorHead</key>
+	<string>menuBufferFormat</string>
+	<key>mobxOfStage</key>
+	<string>beginnerAnimationMode</string>
+	<key>previewBesideDecorator</key>
+	<string>granularAnimationRight</string>
+	<key>semanticDocumentSkewy</key>
+	<string>operationLikeChain</string>
+	<key>transitionStageCount</key>
+	<string>graphAmongContext</string>
+</dict>
+</plist>

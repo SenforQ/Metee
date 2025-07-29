@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncDuringFlyweight</key>
+	<string>apertureInCommand</string>
+	<key>curveVersusScope</key>
+	<string>routeFacadeRight</string>
+	<key>intuitiveSensorTheme</key>
+	<string>immediateResponseIndex</string>
+	<key>menuAgainstStage</key>
+	<string>popupUntilComposite</string>
+	<key>scaleThanCommand</key>
+	<string>switchTypeKind</string>
+	<key>smartAspectSpeed</key>
+	<string>previewOutsideType</string>
+</dict>
+</plist>

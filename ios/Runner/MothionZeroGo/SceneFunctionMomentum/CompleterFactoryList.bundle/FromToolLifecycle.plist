@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterInMethod</key>
+	<string>boxAgainstValue</string>
+	<key>extensionContainFlyweight</key>
+	<string>usecaseAsScope</string>
+	<key>immutableAlignmentRate</key>
+	<string>routeExceptContext</string>
+	<key>lazyIsolateFrequency</key>
+	<string>requestFunctionSkewy</string>
+	<key>optionNearFacade</key>
+	<string>transitionFormRate</string>
+	<key>previewBeyondChain</key>
+	<string>blocActivityOrientation</string>
+	<key>radioAndBridge</key>
+	<string>sizeVersusActivity</string>
+	<key>resolverFunctionFrequency</key>
+	<string>graphValueHead</string>
+	<key>responsiveRouteShade</key>
+	<string>radioPerStructure</string>
+	<key>serviceSystemLeft</key>
+	<string>bulletAndDecorator</string>
+</dict>
+</plist>

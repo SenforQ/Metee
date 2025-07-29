@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationContainAction</key>
+	<string>eventAndProcess</string>
+	<key>dynamicZoneTail</key>
+	<string>tickerIncludeFlyweight</string>
+	<key>finalTitleDistance</key>
+	<string>backwardCommandFeedback</string>
+	<key>intermediateResourceDistance</key>
+	<string>resourceFrameworkMargin</string>
+	<key>observerTierTail</key>
+	<string>grainIncludeNumber</string>
+	<key>serviceInVar</key>
+	<string>cubeWithTemple</string>
+	<key>staticStorageDelay</key>
+	<string>observerFrameworkDirection</string>
+	<key>threadCyclePressure</key>
+	<string>resolverKindTag</string>
+</dict>
+</plist>

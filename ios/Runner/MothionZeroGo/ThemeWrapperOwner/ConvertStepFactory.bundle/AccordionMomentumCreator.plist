@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelPerShape</key>
+	<string>easyMapDepth</string>
+	<key>configurationBeyondEnvironment</key>
+	<string>asynchronousErrorBehavior</string>
+	<key>controllerByTemple</key>
+	<string>decorationStageLocation</string>
+	<key>fixedParticleInteraction</key>
+	<string>routerMementoVelocity</string>
+	<key>hierarchicalPointBorder</key>
+	<string>builderInProcess</string>
+	<key>lossVariableAlignment</key>
+	<string>sizeAroundStage</string>
+	<key>mainProjectMomentum</key>
+	<string>singletonAmongPhase</string>
+	<key>managerKindDelay</key>
+	<string>buttonProcessAlignment</string>
+</dict>
+</plist>

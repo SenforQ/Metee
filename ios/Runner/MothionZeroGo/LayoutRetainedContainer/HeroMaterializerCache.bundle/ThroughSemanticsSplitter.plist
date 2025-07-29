@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorCommandPadding</key>
+	<string>discardedTabviewDensity</string>
+	<key>extensionStyleBrightness</key>
+	<string>chartOrEnvironment</string>
+	<key>granularAxisBorder</key>
+	<string>typicalTransformerResponse</string>
+	<key>intermediateStoryboardAlignment</key>
+	<string>completerPhaseIndex</string>
+	<key>resolverPrototypeSize</key>
+	<string>adaptiveDurationAcceleration</string>
+	<key>responsiveLoopRotation</key>
+	<string>dependencyVariableOpacity</string>
+	<key>semanticDelegateAcceleration</key>
+	<string>observerSinceCommand</string>
+</dict>
+</plist>

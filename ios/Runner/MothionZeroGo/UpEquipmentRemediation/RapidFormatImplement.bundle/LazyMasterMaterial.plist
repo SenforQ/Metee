@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSpecifierSkewx</key>
+	<string>storageModeType</string>
+	<key>bulletDuringPrototype</key>
+	<string>subpixelVisitorEdge</string>
+	<key>controllerDuringFlyweight</key>
+	<string>promiseInsideEnvironment</string>
+	<key>explicitAllocatorScale</key>
+	<string>cubeTaskInset</string>
+	<key>factoryFromCycle</key>
+	<string>shaderOperationScale</string>
+	<key>inactiveBrushFrequency</key>
+	<string>histogramStructureTag</string>
+	<key>managerOutsideJob</key>
+	<string>providerPerMode</string>
+	<key>queryStructureCoord</key>
+	<string>configurationShapeAlignment</string>
+	<key>requestPatternSkewy</key>
+	<string>callbackInsideWork</string>
+	<key>respectiveSingletonDepth</key>
+	<string>imperativeGraphDuration</string>
+</dict>
+</plist>

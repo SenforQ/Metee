@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mediumDescriptionRotation</key>
+	<string>capsulePhaseDirection</string>
+	<key>notifierInFacade</key>
+	<string>gemByStructure</string>
+	<key>playbackViaChain</key>
+	<string>basicMobxResponse</string>
+	<key>tappableSizeVelocity</key>
+	<string>handlerExceptContext</string>
+</dict>
+</plist>

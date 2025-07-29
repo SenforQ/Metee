@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertPerJob</key>
+	<string>requestAgainstMethod</string>
+	<key>assetWithMediator</key>
+	<string>modelInProcess</string>
+	<key>chapterFunctionType</key>
+	<string>bitrateContextTag</string>
+	<key>errorActivityFrequency</key>
+	<string>resourceAtCycle</string>
+	<key>materialAperturePressure</key>
+	<string>buttonSingletonState</string>
+	<key>mutableTitleTop</key>
+	<string>challengeBufferTransparency</string>
+	<key>positionedPhaseForce</key>
+	<string>publicFeatureEdge</string>
+	<key>precisionOperationCount</key>
+	<string>momentumCycleSize</string>
+	<key>sensorAboutStrategy</key>
+	<string>subsequentResponseSpacing</string>
+</dict>
+</plist>

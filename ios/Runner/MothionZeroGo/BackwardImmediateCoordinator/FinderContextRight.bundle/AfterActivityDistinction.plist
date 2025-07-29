@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentOperationStyle</key>
+	<string>coordinatorProcessLocation</string>
+	<key>crudeHistogramDuration</key>
+	<string>repositoryEnvironmentSize</string>
+	<key>documentLayerDuration</key>
+	<string>substantialGesturedetectorDepth</string>
+	<key>gradientCycleShape</key>
+	<string>sensorBeyondOperation</string>
+	<key>normOutsideVariable</key>
+	<string>zoneThroughStage</string>
+	<key>significantFeatureTransparency</key>
+	<string>layerIncludeChain</string>
+	<key>singleErrorDelay</key>
+	<string>immediateCycleCenter</string>
+	<key>storeWithoutProcess</key>
+	<string>dependencyIncludeShape</string>
+	<key>tappableCubitMode</key>
+	<string>buttonAndOperation</string>
+</dict>
+</plist>

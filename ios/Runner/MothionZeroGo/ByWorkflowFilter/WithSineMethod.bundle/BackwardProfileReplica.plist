@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoChecklistTheme</key>
+	<string>blocUntilOperation</string>
+	<key>capacitiesViaMediator</key>
+	<string>anchorNumberTint</string>
+	<key>convolutionBeyondComposite</key>
+	<string>eventTierTag</string>
+	<key>crudeTransformerInteraction</key>
+	<string>diffableGridShape</string>
+	<key>enabledEquipmentCenter</key>
+	<string>checklistWorkPadding</string>
+	<key>frameTierInteraction</key>
+	<string>sophisticatedLabelFlags</string>
+	<key>globalRowKind</key>
+	<string>associatedNavigationAcceleration</string>
+	<key>intuitiveAspectAppearance</key>
+	<string>signParamResponse</string>
+</dict>
+</plist>

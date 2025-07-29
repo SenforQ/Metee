@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionDespiteMediator</key>
+	<string>repositoryAsStrategy</string>
+	<key>cellObserverRate</key>
+	<string>completionVarSkewy</string>
+	<key>dynamicFragmentValidation</key>
+	<string>flexStatePadding</string>
+	<key>getxFromAction</key>
+	<string>offsetChainSize</string>
+	<key>imperativeCertificateSkewy</key>
+	<string>cardDuringJob</string>
+	<key>mobxFunctionCoord</key>
+	<string>scrollDespiteEnvironment</string>
+	<key>spineAroundLayer</key>
+	<string>popupAroundMediator</string>
+</dict>
+</plist>

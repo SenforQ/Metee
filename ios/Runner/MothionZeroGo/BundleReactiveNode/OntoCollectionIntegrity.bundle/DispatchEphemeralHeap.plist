@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultExtensionEdge</key>
+	<string>streamViaMethod</string>
+	<key>eagerCallbackLeft</key>
+	<string>radioVersusVariable</string>
+	<key>interactorOfForm</key>
+	<string>scrollableAccessoryColor</string>
+	<key>interfaceAroundFacade</key>
+	<string>layoutVersusVariable</string>
+	<key>logVariableDistance</key>
+	<string>subscriptionStructureInset</string>
+	<key>prismaticMediaVisibility</key>
+	<string>containerAdapterBrightness</string>
+	<key>streamVersusPhase</key>
+	<string>pageviewViaState</string>
+	<key>textBeyondParameter</key>
+	<string>aspectShapeVisibility</string>
+</dict>
+</plist>

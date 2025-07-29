@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineOfOperation</key>
+	<string>finalSkinMargin</string>
+	<key>effectVariableIndex</key>
+	<string>tweenFormBottom</string>
+	<key>momentumValueName</key>
+	<string>retainedLayerRate</string>
+	<key>seamlessAllocatorMomentum</key>
+	<string>greatCosineValidation</string>
+</dict>
+</plist>

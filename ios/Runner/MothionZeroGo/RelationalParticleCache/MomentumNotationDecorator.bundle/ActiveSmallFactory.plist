@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveGraphBottom</key>
+	<string>fixedHeapTheme</string>
+	<key>captionCommandOrientation</key>
+	<string>currentCellName</string>
+	<key>delicateModalScale</key>
+	<string>cubitInComposite</string>
+	<key>desktopReducerShade</key>
+	<string>delegateAdapterHue</string>
+	<key>disparateSessionStatus</key>
+	<string>gemVersusLevel</string>
+	<key>eventScopeFrequency</key>
+	<string>routeFlyweightSpeed</string>
+	<key>interactiveProtocolStatus</key>
+	<string>exceptionPrototypeBottom</string>
+	<key>progressbarOperationPosition</key>
+	<string>graphicStageRight</string>
+	<key>reductionInterpreterValidation</key>
+	<string>curveWithLevel</string>
+	<key>semanticTextInset</key>
+	<string>gestureContextOrigin</string>
+</dict>
+</plist>

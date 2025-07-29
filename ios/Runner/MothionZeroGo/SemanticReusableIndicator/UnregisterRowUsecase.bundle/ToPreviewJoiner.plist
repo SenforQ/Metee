@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateChainKind</key>
+	<string>cubitBesideTask</string>
+	<key>plateThroughMode</key>
+	<string>eventOrPlatform</string>
+	<key>richtextMediatorOpacity</key>
+	<string>intuitiveActionPosition</string>
+	<key>transformerDespiteTier</key>
+	<string>loopOrAction</string>
+</dict>
+</plist>

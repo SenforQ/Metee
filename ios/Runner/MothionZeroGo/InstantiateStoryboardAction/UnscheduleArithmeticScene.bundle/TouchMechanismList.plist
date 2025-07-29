@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryVariableFlags</key>
+	<string>spriteExceptStage</string>
+	<key>aspectratioAdapterTail</key>
+	<string>prismaticColumnDuration</string>
+	<key>seamlessChapterCount</key>
+	<string>hierarchicalScaleCoord</string>
+	<key>textVisitorSpeed</key>
+	<string>instructionProxyDepth</string>
+</dict>
+</plist>

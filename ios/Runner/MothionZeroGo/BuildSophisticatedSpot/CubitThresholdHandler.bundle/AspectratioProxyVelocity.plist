@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonAlongTemple</key>
+	<string>relationalCallbackDuration</string>
+	<key>immutableViewSize</key>
+	<string>mobxChainInset</string>
+	<key>playbackOutsideFacade</key>
+	<string>nibBeyondOperation</string>
+	<key>requiredDimensionRotation</key>
+	<string>graphDuringFacade</string>
+	<key>resultEnvironmentScale</key>
+	<string>themeObserverTail</string>
+	<key>routerCycleName</key>
+	<string>reactiveListenerTop</string>
+</dict>
+</plist>

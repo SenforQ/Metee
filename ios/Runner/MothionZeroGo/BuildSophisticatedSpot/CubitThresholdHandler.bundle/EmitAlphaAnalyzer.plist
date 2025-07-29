@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableStoryboardSkewx</key>
+	<string>consumerIncludeOperation</string>
+	<key>graphicParameterState</key>
+	<string>currentAppbarPosition</string>
+	<key>loopJobLeft</key>
+	<string>smartViewVisibility</string>
+	<key>operationWithoutMediator</key>
+	<string>drawerFlyweightInset</string>
+	<key>resultShapeCoord</key>
+	<string>tappableCubeFrequency</string>
+</dict>
+</plist>

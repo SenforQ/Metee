@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicDecorationAlignment</key>
+	<string>richtextWithoutBuffer</string>
+	<key>delicateStoryboardAppearance</key>
+	<string>sliderAndStructure</string>
+	<key>rapidSessionOrientation</key>
+	<string>draggableChallengeScale</string>
+	<key>richtextUntilProcess</key>
+	<string>switchVersusMediator</string>
+</dict>
+</plist>

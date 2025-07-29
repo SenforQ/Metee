@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalInjectionLeft</key>
+	<string>columnDuringPrototype</string>
+	<key>descriptorVisitorFormat</key>
+	<string>checkboxVarName</string>
+	<key>invisibleListviewSkewx</key>
+	<string>dedicatedEntityMargin</string>
+	<key>labelBeyondValue</key>
+	<string>awaitMementoFeedback</string>
+	<key>materialSingletonFeedback</key>
+	<string>smartPopupHue</string>
+	<key>statefulBehaviorDepth</key>
+	<string>routeCompositeValidation</string>
+	<key>storageActivityBound</key>
+	<string>protocolLevelDepth</string>
+	<key>symbolAgainstWork</key>
+	<string>scaleMementoOffset</string>
+</dict>
+</plist>

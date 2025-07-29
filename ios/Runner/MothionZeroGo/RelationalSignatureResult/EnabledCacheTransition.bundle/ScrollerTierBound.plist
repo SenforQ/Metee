@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeOverlayMode</key>
+	<string>coordinatorLevelValidation</string>
+	<key>independentRowTransparency</key>
+	<string>displayableGrainDelay</string>
+	<key>storyboardDespiteProcess</key>
+	<string>cupertinoMethodFeedback</string>
+	<key>subpixelTierEdge</key>
+	<string>projectionLevelHue</string>
+	<key>subscriptionUntilShape</key>
+	<string>signatureChainInset</string>
+	<key>transitionContainWork</key>
+	<string>coordinatorAtNumber</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorVersusValue</key>
+	<string>normalSpriteColor</string>
+	<key>composableContainerInteraction</key>
+	<string>custompaintWithoutShape</string>
+	<key>flexPlatformOrientation</key>
+	<string>interfaceCompositeSpacing</string>
+	<key>labelAwayBuffer</key>
+	<string>sampleOperationSpeed</string>
+	<key>labelUntilMediator</key>
+	<string>statefulReducerDuration</string>
+	<key>normalModelInset</key>
+	<string>timerSinceValue</string>
+	<key>staticCycleBottom</key>
+	<string>giftForVisitor</string>
+</dict>
+</plist>

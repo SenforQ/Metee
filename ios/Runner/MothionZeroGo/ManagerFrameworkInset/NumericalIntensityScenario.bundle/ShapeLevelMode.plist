@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futureBufferMargin</key>
+	<string>sensorPhaseAcceleration</string>
+	<key>iconCompositeDuration</key>
+	<string>bulletTypeRotation</string>
+	<key>nextPrecisionHue</key>
+	<string>bulletSingletonValidation</string>
+	<key>permanentAssetState</key>
+	<string>menuBeyondAdapter</string>
+	<key>sliderStageValidation</key>
+	<string>collectionAndDecorator</string>
+	<key>timerVersusFlyweight</key>
+	<string>primarySpriteFrequency</string>
+	<key>touchDecoratorEdge</key>
+	<string>textStrategyDuration</string>
+	<key>transformerAtForm</key>
+	<string>alphaParameterDirection</string>
+	<key>uniformProviderTheme</key>
+	<string>hashBeyondAction</string>
+</dict>
+</plist>

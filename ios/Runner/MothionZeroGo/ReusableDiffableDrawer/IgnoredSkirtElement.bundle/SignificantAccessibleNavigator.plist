@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesPerPlatform</key>
+	<string>durationOfInterpreter</string>
+	<key>coordinatorVarType</key>
+	<string>skinPatternOrientation</string>
+	<key>custompaintActionRate</key>
+	<string>loopVarOpacity</string>
+	<key>kernelChainVisibility</key>
+	<string>reducerStateSaturation</string>
+	<key>navigatorDuringChain</key>
+	<string>monsterAtStrategy</string>
+	<key>providerForDecorator</key>
+	<string>concreteSinkCoord</string>
+	<key>providerScopeCenter</key>
+	<string>autoNavigatorStyle</string>
+	<key>queryFromOperation</key>
+	<string>nextResolverCoord</string>
+	<key>routeProxyShade</key>
+	<string>oldThreadState</string>
+	<key>webDependencyOpacity</key>
+	<string>similarCanvasSize</string>
+</dict>
+</plist>

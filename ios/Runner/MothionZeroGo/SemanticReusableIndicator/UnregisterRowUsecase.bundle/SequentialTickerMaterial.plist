@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerAboutPrototype</key>
+	<string>modelProxyKind</string>
+	<key>animationActionTransparency</key>
+	<string>radiusPerCommand</string>
+	<key>cartesianSegueFlags</key>
+	<string>permissiveThreadTag</string>
+	<key>controllerContainNumber</key>
+	<string>unsortedRequestDelay</string>
+	<key>dynamicInteractorPressure</key>
+	<string>logOfFramework</string>
+	<key>layerFlyweightVisibility</key>
+	<string>crucialDependencyVisible</string>
+	<key>mapFacadeAcceleration</key>
+	<string>transformerNumberCount</string>
+	<key>statelessRouteRotation</key>
+	<string>missedLayoutMomentum</string>
+	<key>storageStyleSize</key>
+	<string>usagePrototypeState</string>
+	<key>subtleBoxOrientation</key>
+	<string>criticalSlashBound</string>
+</dict>
+</plist>

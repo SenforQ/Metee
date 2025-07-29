@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitAmongDecorator</key>
+	<string>agileNavigationValidation</string>
+	<key>customizedMethodPressure</key>
+	<string>tweenNumberDelay</string>
+	<key>fusedSwitchVisible</key>
+	<string>buttonOperationFrequency</string>
+	<key>reusableInteractorValidation</key>
+	<string>injectionThroughValue</string>
+	<key>subscriptionAgainstSingleton</key>
+	<string>checkboxVersusMemento</string>
+</dict>
+</plist>

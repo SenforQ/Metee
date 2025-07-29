@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocWithProcess</key>
+	<string>dependencyIncludeScope</string>
+	<key>completerScopeResponse</key>
+	<string>appbarFunctionBrightness</string>
+	<key>flexFrameworkForce</key>
+	<string>desktopMomentumBrightness</string>
+	<key>nextDelegateScale</key>
+	<string>behaviorOrOperation</string>
+	<key>parallelAspectBound</key>
+	<string>offsetForSingleton</string>
+</dict>
+</plist>

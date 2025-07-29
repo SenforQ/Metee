@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationLikeKind</key>
+	<string>iconShapeSkewy</string>
+	<key>commandMediatorStyle</key>
+	<string>prevListviewShade</string>
+	<key>menuJobStyle</key>
+	<string>optionObserverContrast</string>
+	<key>seamlessControllerName</key>
+	<string>smartHeroTag</string>
+	<key>smallCapacitiesCoord</key>
+	<string>decorationFunctionVisibility</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderByOperation</key>
+	<string>intensityThroughMethod</string>
+	<key>immutableZoneFrequency</key>
+	<string>permanentChannelVisible</string>
+	<key>mobileManagerRotation</key>
+	<string>resizableStackTag</string>
+	<key>navigatorInVariable</key>
+	<string>viewStateEdge</string>
+	<key>originalOptimizerRate</key>
+	<string>ephemeralFutureTint</string>
+	<key>responsiveAnimatedcontainerDistance</key>
+	<string>queueModeTheme</string>
+	<key>smallIntensityHead</key>
+	<string>subtleGramTheme</string>
+	<key>tensorStorageSkewy</key>
+	<string>rowPlatformShade</string>
+</dict>
+</plist>

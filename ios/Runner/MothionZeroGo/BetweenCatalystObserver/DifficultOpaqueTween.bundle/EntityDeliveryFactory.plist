@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitAwayScope</key>
+	<string>iterativeLayoutTint</string>
+	<key>blocOutsideActivity</key>
+	<string>binaryNearDecorator</string>
+	<key>callbackVisitorFormat</key>
+	<string>desktopMatrixBorder</string>
+	<key>opaqueWidgetVelocity</key>
+	<string>injectionChainFlags</string>
+	<key>previewMethodHue</key>
+	<string>richtextLevelFlags</string>
+</dict>
+</plist>

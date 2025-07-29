@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorPhasePosition</key>
+	<string>menuCycleFeedback</string>
+	<key>collectionPatternAppearance</key>
+	<string>pivotalReducerDuration</string>
+	<key>commonSpriteType</key>
+	<string>timerPhaseValidation</string>
+	<key>configurationJobResponse</key>
+	<string>skinMethodDelay</string>
+	<key>elasticAlignmentFeedback</key>
+	<string>materialObserverDuration</string>
+	<key>materialAllocatorState</key>
+	<string>sustainableRectEdge</string>
+	<key>scaffoldAwayTier</key>
+	<string>previewOutsideFramework</string>
+	<key>stepBeyondScope</key>
+	<string>ephemeralMissionDirection</string>
+	<key>symmetricPaddingPosition</key>
+	<string>requestKindKind</string>
+</dict>
+</plist>

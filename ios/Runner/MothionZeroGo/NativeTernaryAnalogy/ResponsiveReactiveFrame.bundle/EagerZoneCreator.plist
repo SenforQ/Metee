@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentShapeInteraction</key>
+	<string>apertureForActivity</string>
+	<key>allocatorAlongForm</key>
+	<string>effectShapeDensity</string>
+	<key>coordinatorFlyweightName</key>
+	<string>easyChapterBorder</string>
+	<key>firstEqualizationShape</key>
+	<string>overlayChainHead</string>
+	<key>numericalCupertinoLocation</key>
+	<string>baselineAdapterMode</string>
+	<key>sineTemplePadding</key>
+	<string>statefulVectorDepth</string>
+</dict>
+</plist>

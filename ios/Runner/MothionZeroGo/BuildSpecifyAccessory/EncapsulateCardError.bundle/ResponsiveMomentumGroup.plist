@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivePresenterOpacity</key>
+	<string>immutableViewOrientation</string>
+	<key>containerLikeMediator</key>
+	<string>staticTransformerEdge</string>
+	<key>featureWithFlyweight</key>
+	<string>progressbarContainObserver</string>
+	<key>providerKindAppearance</key>
+	<string>gestureDespiteEnvironment</string>
+	<key>tabviewOrVisitor</key>
+	<string>layerFrameworkLocation</string>
+	<key>transitionOutsideState</key>
+	<string>dependencyViaAction</string>
+</dict>
+</plist>

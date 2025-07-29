@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerEffectInteraction</key>
+	<string>standaloneMenuAppearance</string>
+	<key>equipmentNearAction</key>
+	<string>promiseLikeCommand</string>
+	<key>explicitTabbarSize</key>
+	<string>timerPerLevel</string>
+	<key>groupPlatformLocation</key>
+	<string>factoryFromVar</string>
+	<key>paddingScopeInset</key>
+	<string>layoutChainInterval</string>
+	<key>particleNearJob</key>
+	<string>primaryScreenSpeed</string>
+	<key>routerTempleMomentum</key>
+	<string>presenterWithoutBuffer</string>
+	<key>singletonModeFormat</key>
+	<string>relationalGraphicSkewx</string>
+	<key>statelessFlexBrightness</key>
+	<string>exceptionAndChain</string>
+	<key>stepContainEnvironment</key>
+	<string>intuitiveTransformerFormat</string>
+</dict>
+</plist>

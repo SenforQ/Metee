@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerCompositeContrast</key>
+	<string>presenterCompositeLeft</string>
+	<key>delegateAboutKind</key>
+	<string>fixedActivityPosition</string>
+	<key>discardedGroupOpacity</key>
+	<string>injectionShapePosition</string>
+	<key>immutableCompleterTheme</key>
+	<string>richtextWorkPosition</string>
+	<key>navigationFromForm</key>
+	<string>hashStateState</string>
+	<key>respectiveCallbackShade</key>
+	<string>clipperEnvironmentDensity</string>
+</dict>
+</plist>

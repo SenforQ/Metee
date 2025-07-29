@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoModalVelocity</key>
+	<string>optionFromSingleton</string>
+	<key>awaitInsideJob</key>
+	<string>buttonAboutStage</string>
+	<key>boxshadowAndContext</key>
+	<string>graphicNumberSpacing</string>
+	<key>completerUntilTask</key>
+	<string>positionAlongAction</string>
+	<key>navigatorLayerKind</key>
+	<string>mapLevelOpacity</string>
+	<key>normalCubeInterval</key>
+	<string>sophisticatedFutureHead</string>
+	<key>requestAtObserver</key>
+	<string>viewMediatorTheme</string>
+	<key>rowFromActivity</key>
+	<string>controllerExceptForm</string>
+</dict>
+</plist>

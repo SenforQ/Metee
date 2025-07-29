@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorAmongLevel</key>
+	<string>denseRouteTint</string>
+	<key>compositionalTaskType</key>
+	<string>timerValueAlignment</string>
+	<key>effectWithParam</key>
+	<string>activatedTweenIndex</string>
+	<key>materialCheckboxDistance</key>
+	<string>semanticIconCount</string>
+	<key>secondWidgetOffset</key>
+	<string>constraintTempleVisibility</string>
+</dict>
+</plist>

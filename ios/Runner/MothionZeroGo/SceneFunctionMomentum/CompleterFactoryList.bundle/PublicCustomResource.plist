@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledSceneTransparency</key>
+	<string>euclideanStackMode</string>
+	<key>musicIncludeJob</key>
+	<string>hashCompositeDensity</string>
+	<key>nativeChallengeBrightness</key>
+	<string>permissiveSpriteSaturation</string>
+	<key>radioShapeVisible</key>
+	<string>listviewExceptShape</string>
+</dict>
+</plist>

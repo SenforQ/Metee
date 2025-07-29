@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityProxySpacing</key>
+	<string>flexibleMediaAcceleration</string>
+	<key>keyProgressbarVelocity</key>
+	<string>responsiveUnaryRotation</string>
+	<key>normAboutFacade</key>
+	<string>callbackCycleContrast</string>
+	<key>providerTypeType</key>
+	<string>richtextAroundCommand</string>
+	<key>statelessByContext</key>
+	<string>streamAmongComposite</string>
+	<key>tabbarAlongAction</key>
+	<string>tableOfMediator</string>
+</dict>
+</plist>

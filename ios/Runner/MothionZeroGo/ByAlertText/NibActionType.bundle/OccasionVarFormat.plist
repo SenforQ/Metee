@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentLocalizationState</key>
+	<string>staticLoopShape</string>
+	<key>euclideanTransformerEdge</key>
+	<string>independentConstraintBound</string>
+	<key>labelAndTask</key>
+	<string>tweenWithStage</string>
+	<key>lossAsStructure</key>
+	<string>priorityAmongEnvironment</string>
+	<key>menuActivitySize</key>
+	<string>usecaseVisitorBehavior</string>
+	<key>missionOrTier</key>
+	<string>materialFlyweightAcceleration</string>
+	<key>queryContextAlignment</key>
+	<string>stackExceptFlyweight</string>
+	<key>routerActivityRight</key>
+	<string>pageviewAmongSystem</string>
+	<key>zonePhaseTop</key>
+	<string>rowVersusForm</string>
+</dict>
+</plist>

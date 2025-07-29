@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryFunctionDistance</key>
+	<string>adaptiveTabviewLeft</string>
+	<key>factoryDespiteSystem</key>
+	<string>providerBridgePadding</string>
+	<key>fixedChapterStyle</key>
+	<string>accordionClipperAppearance</string>
+	<key>interactorFunctionDepth</key>
+	<string>smallQueryFrequency</string>
+	<key>observerWithoutStage</key>
+	<string>activatedImageShade</string>
+	<key>responseLikeLevel</key>
+	<string>riverpodFormVisibility</string>
+	<key>sensorVisitorState</key>
+	<string>titleOfProxy</string>
+	<key>signBeyondPattern</key>
+	<string>indicatorCycleForce</string>
+	<key>titleBeyondObserver</key>
+	<string>tweenAndOperation</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationDespiteVariable</key>
+	<string>bulletAtAction</string>
+	<key>layoutTypeStyle</key>
+	<string>effectTierBorder</string>
+	<key>notifierCompositePressure</key>
+	<string>decorationBufferForce</string>
+	<key>seamlessBinaryFlags</key>
+	<string>vectorVersusAction</string>
+	<key>slashBufferDistance</key>
+	<string>coordinatorAdapterVisibility</string>
+</dict>
+</plist>

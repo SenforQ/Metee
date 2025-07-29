@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerByStrategy</key>
+	<string>characterAgainstFlyweight</string>
+	<key>concurrentSkinInset</key>
+	<string>sizedboxWithoutParam</string>
+	<key>gesturedetectorThanSystem</key>
+	<string>responsiveRectOrigin</string>
+	<key>resilientLayoutForce</key>
+	<string>stackPerNumber</string>
+	<key>semanticTextName</key>
+	<string>requestAndSingleton</string>
+	<key>statefulNavigatorRight</key>
+	<string>textureFrameworkBrightness</string>
+	<key>subpixelContainProcess</key>
+	<string>temporaryBulletForce</string>
+	<key>tweenAmongParam</key>
+	<string>singletonWithAction</string>
+</dict>
+</plist>

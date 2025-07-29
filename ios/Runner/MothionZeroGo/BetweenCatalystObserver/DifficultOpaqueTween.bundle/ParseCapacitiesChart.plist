@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystMementoMode</key>
+	<string>baseThanSystem</string>
+	<key>consultativeMemberShape</key>
+	<string>easyCurveBehavior</string>
+	<key>listenerOutsideStage</key>
+	<string>transitionInsideStructure</string>
+	<key>resultPerFramework</key>
+	<string>grainChainInterval</string>
+	<key>semanticProviderDistance</key>
+	<string>hashContextLocation</string>
+	<key>vectorValueScale</key>
+	<string>activatedRoleDensity</string>
+</dict>
+</plist>

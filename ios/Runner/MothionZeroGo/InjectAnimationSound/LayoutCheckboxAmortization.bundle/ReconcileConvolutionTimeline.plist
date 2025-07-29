@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxAtFramework</key>
+	<string>alertOfPattern</string>
+	<key>containerObserverKind</key>
+	<string>aspectEnvironmentOpacity</string>
+	<key>hardTouchTail</key>
+	<string>associatedToolVelocity</string>
+	<key>interactorNearSingleton</key>
+	<string>iconThanParameter</string>
+	<key>keyMovementTop</key>
+	<string>chartContainKind</string>
+	<key>musicFunctionInterval</key>
+	<string>masterActivityResponse</string>
+	<key>uniqueInstructionAcceleration</key>
+	<string>mobxParameterInterval</string>
+</dict>
+</plist>

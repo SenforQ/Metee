@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncPatternAcceleration</key>
+	<string>themeDuringForm</string>
+	<key>asyncStructureKind</key>
+	<string>gesturedetectorOfInterpreter</string>
+	<key>histogramContainMemento</key>
+	<string>tickerKindDuration</string>
+	<key>publicControllerForce</key>
+	<string>resolverViaJob</string>
+</dict>
+</plist>

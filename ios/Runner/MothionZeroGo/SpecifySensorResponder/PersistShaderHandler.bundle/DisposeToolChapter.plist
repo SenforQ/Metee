@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSizeBound</key>
+	<string>keyFrameTop</string>
+	<key>managerCommandAppearance</key>
+	<string>previewAgainstVisitor</string>
+	<key>nibBufferOffset</key>
+	<string>tableInsideMethod</string>
+	<key>rapidLabelFlags</key>
+	<string>hardFrameFeedback</string>
+	<key>requiredFrameHead</key>
+	<string>layoutScopeFrequency</string>
+	<key>statelessBufferName</key>
+	<string>skirtInState</string>
+</dict>
+</plist>

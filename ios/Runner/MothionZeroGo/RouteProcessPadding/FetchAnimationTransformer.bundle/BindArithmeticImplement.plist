@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationIncludeMediator</key>
+	<string>pinchableTimerForce</string>
+	<key>documentSystemShape</key>
+	<string>musicParameterIndex</string>
+	<key>factoryOutsideContext</key>
+	<string>textfieldFormRight</string>
+	<key>interfaceThroughParameter</key>
+	<string>usedSpotRate</string>
+	<key>rectOfKind</key>
+	<string>fusedPageviewDuration</string>
+	<key>routePerType</key>
+	<string>configurationOutsideContext</string>
+	<key>spriteShapeBehavior</key>
+	<string>commandOrFacade</string>
+</dict>
+</plist>

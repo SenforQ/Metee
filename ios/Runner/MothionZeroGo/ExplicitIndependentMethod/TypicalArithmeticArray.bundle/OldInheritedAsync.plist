@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentWorkFormat</key>
+	<string>layoutForFramework</string>
+	<key>animatedcontainerAndStrategy</key>
+	<string>resourceThroughType</string>
+	<key>compositionalModelFeedback</key>
+	<string>mediocreCheckboxFlags</string>
+	<key>draggableResponseMomentum</key>
+	<string>respectiveColumnRight</string>
+	<key>interactorWithScope</key>
+	<string>decorationAwaySingleton</string>
+	<key>monsterByStyle</key>
+	<string>denseSkirtVisible</string>
+	<key>responsePatternSaturation</key>
+	<string>specifyCollectionKind</string>
+	<key>utilCycleValidation</key>
+	<string>stateWithoutComposite</string>
+</dict>
+</plist>

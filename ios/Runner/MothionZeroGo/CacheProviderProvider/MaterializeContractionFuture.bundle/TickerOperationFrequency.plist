@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationForPrototype</key>
+	<string>crucialResolverDensity</string>
+	<key>buttonAsSingleton</key>
+	<string>multiPageviewTheme</string>
+	<key>lastOffsetDuration</key>
+	<string>compositionInsideMode</string>
+	<key>localManagerDirection</key>
+	<string>desktopAppbarIndex</string>
+	<key>spriteVarColor</key>
+	<string>disabledDimensionStatus</string>
+	<key>tabviewMethodFlags</key>
+	<string>tickerInJob</string>
+	<key>tickerOperationPressure</key>
+	<string>routerLikeProcess</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitLevelCenter</key>
+	<string>usecaseLayerCenter</string>
+	<key>eventLayerBorder</key>
+	<string>metadataStructureDensity</string>
+	<key>flexModeShade</key>
+	<string>promiseStyleDensity</string>
+	<key>immutableFragmentCoord</key>
+	<string>textureByOperation</string>
+	<key>persistentGroupAcceleration</key>
+	<string>localizationFlyweightPosition</string>
+	<key>popupOutsidePlatform</key>
+	<string>subscriptionAndWork</string>
+	<key>providerMementoOffset</key>
+	<string>featureActionEdge</string>
+	<key>resizableToolHue</key>
+	<string>stampCompositeColor</string>
+	<key>scaleStructureDistance</key>
+	<string>requestBesideStyle</string>
+	<key>semanticProtocolBottom</key>
+	<string>iconPatternDensity</string>
+</dict>
+</plist>

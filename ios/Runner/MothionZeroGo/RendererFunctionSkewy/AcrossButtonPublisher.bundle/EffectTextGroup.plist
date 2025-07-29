@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>histogramAmongForm</key>
+	<string>controllerStageValidation</string>
+	<key>ignoredDescriptionVelocity</key>
+	<string>alertVersusBuffer</string>
+	<key>integerAtComposite</key>
+	<string>arithmeticDependencyTail</string>
+	<key>missedTaskDensity</key>
+	<string>extensionViaFlyweight</string>
+	<key>providerMethodInterval</key>
+	<string>labelAndShape</string>
+	<key>standaloneTaskAppearance</key>
+	<string>buttonDecoratorDelay</string>
+	<key>subtleColumnTransparency</key>
+	<string>columnBufferDepth</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainGrayscaleTint</key>
+	<string>appbarForLevel</string>
+	<key>operationFrameworkVelocity</key>
+	<string>projectionMethodVisible</string>
+	<key>prismaticPointDepth</key>
+	<string>topicMediatorDensity</string>
+	<key>segueParamDelay</key>
+	<string>pinchableChallengeKind</string>
+	<key>sinkFromTemple</key>
+	<string>drawerVarInset</string>
+</dict>
+</plist>

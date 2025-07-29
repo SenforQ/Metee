@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeTitleDensity</key>
+	<string>synchronousTableResponse</string>
+	<key>beginnerModalTheme</key>
+	<string>sliderTaskDuration</string>
+	<key>behaviorTypeFormat</key>
+	<string>webScaleMomentum</string>
+	<key>injectionSystemRotation</key>
+	<string>textureNumberIndex</string>
+	<key>labelMementoState</key>
+	<string>blocStageKind</string>
+	<key>sophisticatedObserverInteraction</key>
+	<string>mobxInterpreterDensity</string>
+	<key>statefulPlateDistance</key>
+	<string>alphaViaMediator</string>
+</dict>
+</plist>

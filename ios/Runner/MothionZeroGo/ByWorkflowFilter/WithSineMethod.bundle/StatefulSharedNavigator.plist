@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoVectorPadding</key>
+	<string>challengeVersusObserver</string>
+	<key>hashActionHue</key>
+	<string>dialogsTierAppearance</string>
+	<key>queryTaskBorder</key>
+	<string>denseTextInteraction</string>
+	<key>seamlessEffectLocation</key>
+	<string>cupertinoPhaseShape</string>
+	<key>sophisticatedNibResponse</key>
+	<string>customizedRadioBehavior</string>
+</dict>
+</plist>

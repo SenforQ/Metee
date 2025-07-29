@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderBridgeContrast</key>
+	<string>interpolationAlongParameter</string>
+	<key>drawerOfVisitor</key>
+	<string>localizationByFramework</string>
+	<key>localizationMethodDelay</key>
+	<string>transitionKindDepth</string>
+	<key>offsetLayerSpacing</key>
+	<string>switchViaScope</string>
+	<key>resolverAlongParameter</key>
+	<string>pinchableSensorAppearance</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonBesideProxy</key>
+	<string>denseTangentMargin</string>
+	<key>customParticleSkewx</key>
+	<string>chapterStructureMargin</string>
+	<key>statelessExceptMediator</key>
+	<string>subpixelCompositeBrightness</string>
+	<key>timerAroundActivity</key>
+	<string>utilFlyweightFeedback</string>
+</dict>
+</plist>

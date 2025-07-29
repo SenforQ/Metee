@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocEnvironmentCoord</key>
+	<string>staticGridCount</string>
+	<key>configurationPerStyle</key>
+	<string>gateObserverName</string>
+	<key>curvePerAction</key>
+	<string>loopActivityDensity</string>
+	<key>documentShapeOpacity</key>
+	<string>timerInMode</string>
+	<key>newestTitleBorder</key>
+	<string>visibleProviderHue</string>
+	<key>profileThroughWork</key>
+	<string>prevZoneInteraction</string>
+	<key>secondCurveDelay</key>
+	<string>cubitObserverDirection</string>
+	<key>swiftTaskPadding</key>
+	<string>independentNavigatorRate</string>
+	<key>tangentOutsideBuffer</key>
+	<string>allocatorVisitorDepth</string>
+</dict>
+</plist>

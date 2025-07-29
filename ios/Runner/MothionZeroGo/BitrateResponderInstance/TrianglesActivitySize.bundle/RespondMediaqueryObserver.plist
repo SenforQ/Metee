@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarUntilComposite</key>
+	<string>deferredCanvasHead</string>
+	<key>characterNearScope</key>
+	<string>compositionNumberTag</string>
+	<key>iconDespiteLevel</key>
+	<string>denseIntensityLocation</string>
+	<key>interfaceStateStatus</key>
+	<string>immediateStateStatus</string>
+	<key>masterKindTop</key>
+	<string>histogramInFlyweight</string>
+	<key>rowScopeSkewy</key>
+	<string>gridviewWithoutPhase</string>
+	<key>skinOfCommand</key>
+	<string>decorationFlyweightValidation</string>
+</dict>
+</plist>

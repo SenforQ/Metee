@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentProgressbarOrientation</key>
+	<string>otherStateState</string>
+	<key>coordinatorAdapterTheme</key>
+	<string>slashWithoutPattern</string>
+	<key>difficultGraphMargin</key>
+	<string>gridCompositeDepth</string>
+	<key>graphicCommandCenter</key>
+	<string>diffableAnimationShape</string>
+	<key>mobileLikeStyle</key>
+	<string>layoutContextSkewy</string>
+	<key>movementSinceProxy</key>
+	<string>mediaqueryThroughJob</string>
+	<key>signatureAlongVar</key>
+	<string>materialScrollOpacity</string>
+	<key>tweenWithProxy</key>
+	<string>descriptorTierMargin</string>
+</dict>
+</plist>

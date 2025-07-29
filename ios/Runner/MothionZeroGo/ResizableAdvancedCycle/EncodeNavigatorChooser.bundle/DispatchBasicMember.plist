@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaTypeShape</key>
+	<string>accessibleLabelTint</string>
+	<key>autoInterfaceDensity</key>
+	<string>playbackAroundVariable</string>
+	<key>cacheLevelTag</key>
+	<string>gradientInSystem</string>
+	<key>checklistChainAlignment</key>
+	<string>pageviewSinceProcess</string>
+	<key>configurationWithoutChain</key>
+	<string>zoneCompositeCount</string>
+	<key>effectScopeIndex</key>
+	<string>futureNearComposite</string>
+	<key>prevCursorIndex</key>
+	<string>effectFlyweightFlags</string>
+	<key>singletonDecoratorDuration</key>
+	<string>graphIncludeSingleton</string>
+	<key>statelessSpriteAlignment</key>
+	<string>criticalOptimizerDirection</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedObserverBottom</key>
+	<string>pivotalViewFormat</string>
+	<key>bufferAmongVariable</key>
+	<string>denseIndicatorResponse</string>
+	<key>cubitTierVisibility</key>
+	<string>mediumStreamBrightness</string>
+	<key>heapScopeBrightness</key>
+	<string>firstIntensityName</string>
+	<key>lazyPopupScale</key>
+	<string>builderTierStatus</string>
+	<key>normContextName</key>
+	<string>geometricTextureCount</string>
+	<key>skinPerTask</key>
+	<string>adaptiveDrawerTint</string>
+	<key>sortedChannelMode</key>
+	<string>dependencyWithAdapter</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionVarMargin</key>
+	<string>baselineAndJob</string>
+	<key>dependencyFlyweightTheme</key>
+	<string>parallelMarginBorder</string>
+	<key>equalizationStructureHue</key>
+	<string>prismaticAllocatorOpacity</string>
+	<key>exponentDecoratorSize</key>
+	<string>injectionChainTheme</string>
+	<key>movementExceptSystem</key>
+	<string>notificationForVar</string>
+	<key>subtleDecorationIndex</key>
+	<string>tensorGrayscaleAppearance</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateEnvironmentFormat</key>
+	<string>desktopMetadataDepth</string>
+	<key>concreteIndicatorFrequency</key>
+	<string>batchModeInterval</string>
+	<key>delegateDecoratorAcceleration</key>
+	<string>characterAtCommand</string>
+	<key>enabledButtonInteraction</key>
+	<string>diversifiedViewPressure</string>
+	<key>lossTaskContrast</key>
+	<string>relationalQueuePadding</string>
+	<key>smallGramFormat</key>
+	<string>permissiveClipperEdge</string>
+</dict>
+</plist>

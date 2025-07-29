@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitContextStyle</key>
+	<string>textureAtSystem</string>
+	<key>catalystByPattern</key>
+	<string>labelForComposite</string>
+	<key>channelStrategyFrequency</key>
+	<string>scrollableExtensionInset</string>
+	<key>dimensionFunctionInteraction</key>
+	<string>mobileAlphaTail</string>
+	<key>localizationCycleMargin</key>
+	<string>serviceProxySize</string>
+	<key>modalValueRotation</key>
+	<string>hyperbolicSampleColor</string>
+</dict>
+</plist>

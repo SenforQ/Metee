@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionFlyweightBehavior</key>
+	<string>durationCommandTint</string>
+	<key>constraintChainFlags</key>
+	<string>brushFacadeDuration</string>
+	<key>providerTypeStatus</key>
+	<string>rowOfContext</string>
+	<key>singletonAmongValue</key>
+	<string>priorDocumentInset</string>
+	<key>toolOutsideStructure</key>
+	<string>entityIncludeDecorator</string>
+</dict>
+</plist>

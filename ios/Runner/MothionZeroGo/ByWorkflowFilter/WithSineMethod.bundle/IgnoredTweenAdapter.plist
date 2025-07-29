@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedButtonTop</key>
+	<string>rectStyleTheme</string>
+	<key>awaitExceptProcess</key>
+	<string>inkwellAlongMethod</string>
+	<key>buttonBeyondMethod</key>
+	<string>previewStructureDensity</string>
+	<key>curveObserverAcceleration</key>
+	<string>mobxIncludeFramework</string>
+	<key>retainedPopupSkewy</key>
+	<string>behaviorPrototypeDepth</string>
+	<key>storeDecoratorContrast</key>
+	<string>symbolVariableValidation</string>
+	<key>transformerActivityTop</key>
+	<string>streamSingletonOrigin</string>
+</dict>
+</plist>

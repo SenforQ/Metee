@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncSwiftShade</key>
+	<string>pinchableNavigatorBottom</string>
+	<key>containerInterpreterOrientation</key>
+	<string>allocatorInLevel</string>
+	<key>layoutShapeScale</key>
+	<string>interactorDuringMediator</string>
+	<key>semanticRowAcceleration</key>
+	<string>cartesianPlaybackName</string>
+	<key>statefulTextureOffset</key>
+	<string>immediateMultiplicationPressure</string>
+	<key>taskFormScale</key>
+	<string>challengeThroughForm</string>
+</dict>
+</plist>

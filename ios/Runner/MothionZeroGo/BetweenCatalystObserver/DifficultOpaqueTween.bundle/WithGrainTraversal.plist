@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAsCycle</key>
+	<string>significantInjectionRate</string>
+	<key>constUsecaseRight</key>
+	<string>consultativeButtonVelocity</string>
+	<key>difficultOverlayBrightness</key>
+	<string>staticRectTransparency</string>
+	<key>largeCupertinoDirection</key>
+	<string>basicProtocolAcceleration</string>
+	<key>loopAmongMode</key>
+	<string>methodInsideMode</string>
+	<key>statefulPointFlags</key>
+	<string>interactiveTweenSize</string>
+	<key>storeStyleBound</key>
+	<string>optionMethodColor</string>
+	<key>transitionProcessMomentum</key>
+	<string>dependencyAndComposite</string>
+	<key>tweenMediatorFlags</key>
+	<string>playbackTierRate</string>
+</dict>
+</plist>

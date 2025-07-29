@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredConfigurationValidation</key>
+	<string>layoutViaJob</string>
+	<key>logarithmAndVar</key>
+	<string>timerAtComposite</string>
+	<key>materialStoreTail</key>
+	<string>substantialUsecaseDensity</string>
+	<key>modelBesideObserver</key>
+	<string>painterFlyweightFrequency</string>
+	<key>offsetAsParameter</key>
+	<string>groupContainMediator</string>
+	<key>primaryResolverOpacity</key>
+	<string>awaitAgainstFacade</string>
+	<key>promiseAmongLayer</key>
+	<string>commandOrPrototype</string>
+</dict>
+</plist>

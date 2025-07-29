@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioDespiteFacade</key>
+	<string>robustGrayscaleTint</string>
+	<key>composableDecorationCount</key>
+	<string>utilLayerCenter</string>
+	<key>customizedBinaryStyle</key>
+	<string>similarGridviewTint</string>
+	<key>denseSensorRate</key>
+	<string>semanticsInPlatform</string>
+	<key>promiseCycleScale</key>
+	<string>compositionalScaffoldTop</string>
+	<key>smallQueueSpacing</key>
+	<string>modulusAndVar</string>
+	<key>topicFormDirection</key>
+	<string>effectExceptStyle</string>
+	<key>unactivatedStoreCount</key>
+	<string>commonErrorAppearance</string>
+</dict>
+</plist>

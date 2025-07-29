@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionPositionedFormat</key>
+	<string>asynchronousTabbarBrightness</string>
+	<key>crudeCellTheme</key>
+	<string>crudeBlocSkewy</string>
+	<key>flexIncludeStructure</key>
+	<string>smallChartMomentum</string>
+	<key>labelChainScale</key>
+	<string>statelessNormFeedback</string>
+	<key>numericalObserverDirection</key>
+	<string>comprehensivePrecisionAlignment</string>
+	<key>sampleBeyondFlyweight</key>
+	<string>priorOptionBrightness</string>
+	<key>usecaseLevelState</key>
+	<string>sizedboxInterpreterFlags</string>
+</dict>
+</plist>

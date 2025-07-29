@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateBesideSystem</key>
+	<string>uniqueObserverCount</string>
+	<key>equalizationTierDirection</key>
+	<string>symmetricTextSpeed</string>
+	<key>navigatorKindSize</key>
+	<string>spotBufferCenter</string>
+	<key>referencePrototypeOpacity</key>
+	<string>statelessDespiteStage</string>
+	<key>requestViaCycle</key>
+	<string>secondPainterShade</string>
+	<key>usecaseInterpreterPadding</key>
+	<string>observerContextStatus</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionHashFrequency</key>
+	<string>cardShapeVelocity</string>
+	<key>arithmeticProviderTransparency</key>
+	<string>modalCycleSkewx</string>
+	<key>criticalLocalizationDepth</key>
+	<string>globalSymbolPadding</string>
+	<key>pivotalErrorTransparency</key>
+	<string>desktopSingletonAcceleration</string>
+	<key>presenterNearMethod</key>
+	<string>progressbarAdapterFrequency</string>
+	<key>reactivePreviewRight</key>
+	<string>mobxWithContext</string>
+	<key>requestFromBuffer</key>
+	<string>navigatorWithoutProcess</string>
+	<key>resultOperationFeedback</key>
+	<string>disparateCustompaintTag</string>
+	<key>significantMarginOffset</key>
+	<string>compositionWithObserver</string>
+	<key>switchAdapterDuration</key>
+	<string>subscriptionSystemDelay</string>
+</dict>
+</plist>

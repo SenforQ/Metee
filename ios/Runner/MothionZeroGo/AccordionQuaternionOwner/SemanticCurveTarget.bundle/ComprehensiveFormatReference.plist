@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackActivityInset</key>
+	<string>inkwellLikeShape</string>
+	<key>equipmentOrSystem</key>
+	<string>toolChainPadding</string>
+	<key>painterStateTail</key>
+	<string>radiusObserverCenter</string>
+	<key>primaryRichtextBehavior</key>
+	<string>mobileBeyondOperation</string>
+	<key>radiusModeVisibility</key>
+	<string>storageTierSize</string>
+</dict>
+</plist>

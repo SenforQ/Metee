@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorAdapterMode</key>
+	<string>containerChainScale</string>
+	<key>coordinatorLikePattern</key>
+	<string>previewNearInterpreter</string>
+	<key>easyDecorationInteraction</key>
+	<string>gridSystemPosition</string>
+	<key>gestureThanWork</key>
+	<string>ternaryAndDecorator</string>
+	<key>handlerPatternPressure</key>
+	<string>viewPlatformFeedback</string>
+	<key>newestNavigatorAcceleration</key>
+	<string>textSingletonSpacing</string>
+	<key>operationObserverTail</key>
+	<string>symbolBesideFramework</string>
+	<key>pivotalParticleDepth</key>
+	<string>materialCapsuleTension</string>
+	<key>repositoryVisitorPressure</key>
+	<string>oldCharacterShade</string>
+</dict>
+</plist>

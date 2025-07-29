@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralSessionAcceleration</key>
+	<string>listviewNearParameter</string>
+	<key>immediateMetadataPressure</key>
+	<string>smartViewTheme</string>
+	<key>localizationAsDecorator</key>
+	<string>presenterStructureSkewy</string>
+	<key>responsiveBlocValidation</key>
+	<string>compositionFromFacade</string>
+	<key>tableShapeShade</key>
+	<string>independentToolSpeed</string>
+	<key>temporaryHashPadding</key>
+	<string>blocOrKind</string>
+	<key>uniformCosineAcceleration</key>
+	<string>dependencyStrategyBound</string>
+	<key>usecaseViaLevel</key>
+	<string>globalUtilFrequency</string>
+</dict>
+</plist>

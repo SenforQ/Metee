@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocBridgeEdge</key>
+	<string>serviceInsideActivity</string>
+	<key>equipmentWorkSaturation</key>
+	<string>decorationByMemento</string>
+	<key>frameOutsideFlyweight</key>
+	<string>alignmentProcessDelay</string>
+	<key>managerCommandTheme</key>
+	<string>storyboardInsideComposite</string>
+	<key>nativeResultFlags</key>
+	<string>oldGrainValidation</string>
+	<key>progressbarBufferLocation</key>
+	<string>functionalReferenceRate</string>
+	<key>responseActivityTheme</key>
+	<string>mapDecoratorOrigin</string>
+</dict>
+</plist>

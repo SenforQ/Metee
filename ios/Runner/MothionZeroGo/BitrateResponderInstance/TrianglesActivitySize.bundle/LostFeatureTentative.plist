@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>persistentQueryBorder</key>
+	<string>alignmentAdapterLeft</string>
+	<key>precisionInterpreterFormat</key>
+	<string>firstStoreBottom</string>
+	<key>prismaticFragmentFeedback</key>
+	<string>nativeListviewOffset</string>
+	<key>tableFacadeSpeed</key>
+	<string>specifyModelColor</string>
+</dict>
+</plist>

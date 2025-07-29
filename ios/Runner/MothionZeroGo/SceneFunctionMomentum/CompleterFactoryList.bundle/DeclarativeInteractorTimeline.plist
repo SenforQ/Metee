@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveMobileContrast</key>
+	<string>opaqueDialogsMode</string>
+	<key>apertureBeyondProcess</key>
+	<string>ignoredDropdownbuttonBehavior</string>
+	<key>autoBorderKind</key>
+	<string>mobileGridShape</string>
+	<key>delicateAlertColor</key>
+	<string>layoutInsidePattern</string>
+	<key>gridviewIncludeWork</key>
+	<string>sortedGrainTag</string>
+	<key>indicatorForValue</key>
+	<string>effectPlatformResponse</string>
+	<key>liteGetxShade</key>
+	<string>threadOrPrototype</string>
+	<key>newestIndicatorMomentum</key>
+	<string>blocContainMediator</string>
+	<key>originalDelegateLeft</key>
+	<string>resourceKindInteraction</string>
+</dict>
+</plist>

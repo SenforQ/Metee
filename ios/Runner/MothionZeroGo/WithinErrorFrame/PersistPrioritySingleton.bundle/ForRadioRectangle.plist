@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonJobAcceleration</key>
+	<string>animatedcontainerActivityStyle</string>
+	<key>containerTaskTransparency</key>
+	<string>memberDespiteObserver</string>
+	<key>gridLikeOperation</key>
+	<string>resilientDrawerInset</string>
+	<key>originalLabelBrightness</key>
+	<string>respectiveStoreAlignment</string>
+	<key>relationalContainerHue</key>
+	<string>invisibleTitleSpeed</string>
+	<key>scrollableDecorationInteraction</key>
+	<string>nodeParamRate</string>
+	<key>smartSignatureOffset</key>
+	<string>animationBufferResponse</string>
+</dict>
+</plist>

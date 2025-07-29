@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveIncludeLayer</key>
+	<string>curveAboutStage</string>
+	<key>curveTierAcceleration</key>
+	<string>staticEntityDirection</string>
+	<key>optimizerTierStyle</key>
+	<string>richtextParameterValidation</string>
+	<key>typicalDialogsMode</key>
+	<string>constraintUntilForm</string>
+	<key>utilNumberState</key>
+	<string>subscriptionPerFacade</string>
+</dict>
+</plist>

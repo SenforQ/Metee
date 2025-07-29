@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetWithStrategy</key>
+	<string>pinchableLayoutMargin</string>
+	<key>kernelStageDuration</key>
+	<string>accordionGridviewResponse</string>
+	<key>masterEnvironmentValidation</key>
+	<string>widgetStrategyTail</string>
+	<key>repositoryAdapterDensity</key>
+	<string>curveAndVar</string>
+	<key>transformerProxyScale</key>
+	<string>containerContainSingleton</string>
+</dict>
+</plist>

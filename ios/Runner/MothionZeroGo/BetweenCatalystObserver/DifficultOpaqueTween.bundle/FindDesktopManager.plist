@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionInsideFunction</key>
+	<string>deferredZoneSkewy</string>
+	<key>cardPerFramework</key>
+	<string>descriptionFromMethod</string>
+	<key>controllerPerVisitor</key>
+	<string>immediateResponsePosition</string>
+	<key>iterativeReductionVelocity</key>
+	<string>listviewFlyweightFeedback</string>
+	<key>promiseMethodVisible</key>
+	<string>rectStateVelocity</string>
+</dict>
+</plist>

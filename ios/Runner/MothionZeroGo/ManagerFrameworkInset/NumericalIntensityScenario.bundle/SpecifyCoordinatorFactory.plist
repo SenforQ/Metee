@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderWithoutCycle</key>
+	<string>composableConstraintSaturation</string>
+	<key>richtextIncludeObserver</key>
+	<string>cubitAsShape</string>
+	<key>serviceWithProxy</key>
+	<string>eventPlatformSize</string>
+	<key>smallNavigatorTop</key>
+	<string>pointCommandType</string>
+	<key>tabbarContainFlyweight</key>
+	<string>subscriptionMediatorTheme</string>
+	<key>usecaseDuringOperation</key>
+	<string>gemOfParam</string>
+</dict>
+</plist>

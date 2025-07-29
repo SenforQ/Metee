@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardFeatureMode</key>
+	<string>mediaFlyweightInterval</string>
+	<key>exponentFormResponse</key>
+	<string>optimizerParamStyle</string>
+	<key>fixedMatrixDensity</key>
+	<string>numericalGradientSpeed</string>
+	<key>gradientOutsideDecorator</key>
+	<string>offsetPatternDirection</string>
+	<key>interactiveSingletonFeedback</key>
+	<string>curveWithoutProcess</string>
+	<key>layoutAlongFramework</key>
+	<string>coordinatorValueStyle</string>
+	<key>referenceAtProxy</key>
+	<string>prismaticRouterCoord</string>
+	<key>resilientStoryboardMargin</key>
+	<string>interfaceAwaySystem</string>
+	<key>sizeWithOperation</key>
+	<string>intermediateExceptionPadding</string>
+</dict>
+</plist>

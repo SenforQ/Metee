@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarAlongFacade</key>
+	<string>interfacePatternShade</string>
+	<key>chapterContextDelay</key>
+	<string>immediateBinaryDuration</string>
+	<key>compositionWithoutLevel</key>
+	<string>columnVersusKind</string>
+	<key>intuitiveModalDirection</key>
+	<string>tappableDescriptionValidation</string>
+	<key>localizationIncludeBridge</key>
+	<string>tickerTempleTail</string>
+	<key>providerAwayBridge</key>
+	<string>certificateIncludeWork</string>
+	<key>specifyFrameRight</key>
+	<string>synchronousOffsetTop</string>
+</dict>
+</plist>

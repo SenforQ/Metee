@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedMomentumFrequency</key>
+	<string>channelAdapterFeedback</string>
+	<key>brushChainScale</key>
+	<string>cycleOrForm</string>
+	<key>cosineJobValidation</key>
+	<string>hardLabelStatus</string>
+	<key>cupertinoStyleScale</key>
+	<string>pinchableCubitDuration</string>
+	<key>curveMementoForce</key>
+	<string>invisibleTimerPosition</string>
+	<key>keyPopupShade</key>
+	<string>mobxOrContext</string>
+	<key>missedCompleterRight</key>
+	<string>subscriptionParamHead</string>
+	<key>painterEnvironmentBehavior</key>
+	<string>heroAlongMethod</string>
+	<key>synchronousAppbarBottom</key>
+	<string>relationalManagerTint</string>
+</dict>
+</plist>

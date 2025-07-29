@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoUtilResponse</key>
+	<string>fixedResolverBound</string>
+	<key>bufferFunctionInteraction</key>
+	<string>completerTierOffset</string>
+	<key>columnVarSpacing</key>
+	<string>autoStreamStyle</string>
+	<key>exceptionSinceShape</key>
+	<string>awaitActionMargin</string>
+	<key>hashInForm</key>
+	<string>zoneForKind</string>
+	<key>layoutVarKind</key>
+	<string>constraintAsStage</string>
+	<key>rectByBridge</key>
+	<string>positionOrLevel</string>
+	<key>spriteBeyondPattern</key>
+	<string>signAgainstState</string>
+	<key>unaryAsSingleton</key>
+	<string>pinchableTabbarLocation</string>
+</dict>
+</plist>

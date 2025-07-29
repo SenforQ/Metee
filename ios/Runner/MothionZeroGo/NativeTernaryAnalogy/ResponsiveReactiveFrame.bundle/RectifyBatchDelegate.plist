@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchLikeStructure</key>
+	<string>localizationContextColor</string>
+	<key>extensionDecoratorTag</key>
+	<string>largeSkinInset</string>
+	<key>fixedReductionRight</key>
+	<string>symmetricPopupBottom</string>
+	<key>movementMediatorSpacing</key>
+	<string>effectTierFlags</string>
+	<key>semanticPrecisionSkewx</key>
+	<string>transitionVariableInteraction</string>
+</dict>
+</plist>

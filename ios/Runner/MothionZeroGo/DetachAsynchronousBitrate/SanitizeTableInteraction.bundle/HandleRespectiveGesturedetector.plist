@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyOutsideStrategy</key>
+	<string>chapterMementoTag</string>
+	<key>fusedInteractorBehavior</key>
+	<string>missedUsecaseTint</string>
+	<key>injectionMediatorHue</key>
+	<string>cupertinoAsParameter</string>
+	<key>observerParamRate</key>
+	<string>modalBufferTint</string>
+	<key>petVarSkewx</key>
+	<string>monsterActivitySkewx</string>
+	<key>precisionPatternAlignment</key>
+	<string>statefulCurveVelocity</string>
+	<key>statelessCapsuleName</key>
+	<string>dynamicMemberTail</string>
+</dict>
+</plist>

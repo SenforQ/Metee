@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateKindMomentum</key>
+	<string>usedBlocInteraction</string>
+	<key>eagerConfigurationFrequency</key>
+	<string>firstResourceBottom</string>
+	<key>equalizationChainCount</key>
+	<string>radiusAndPhase</string>
+	<key>menuPhasePosition</key>
+	<string>diffableTickerCoord</string>
+	<key>queryBeyondBridge</key>
+	<string>textOfLayer</string>
+	<key>spriteDuringState</key>
+	<string>staticBlocResponse</string>
+	<key>subtleMenuLeft</key>
+	<string>missedSignAcceleration</string>
+	<key>tickerAmongBridge</key>
+	<string>streamEnvironmentFrequency</string>
+</dict>
+</plist>

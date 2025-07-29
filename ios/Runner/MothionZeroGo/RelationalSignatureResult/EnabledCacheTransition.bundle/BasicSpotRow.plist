@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationMediatorPressure</key>
+	<string>directGridOffset</string>
+	<key>capsuleFormValidation</key>
+	<string>workflowChainSize</string>
+	<key>offsetViaChain</key>
+	<string>resizableSpecifierOpacity</string>
+	<key>storageFromJob</key>
+	<string>multiSliderInset</string>
+	<key>tableAboutStage</key>
+	<string>graphicAroundBuffer</string>
+</dict>
+</plist>

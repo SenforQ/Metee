@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonOrObserver</key>
+	<string>euclideanCacheInset</string>
+	<key>concurrentAspectContrast</key>
+	<string>observerDecoratorSpeed</string>
+	<key>cupertinoInShape</key>
+	<string>bulletVarInteraction</string>
+	<key>decorationExceptCycle</key>
+	<string>responseBridgeTop</string>
+	<key>durationForForm</key>
+	<string>hashObserverVisible</string>
+	<key>injectionCycleOrientation</key>
+	<string>inactiveLogarithmFormat</string>
+	<key>modelSingletonShade</key>
+	<string>notificationVersusShape</string>
+	<key>overlayAndLayer</key>
+	<string>intermediateRowDepth</string>
+	<key>reducerInterpreterLeft</key>
+	<string>inheritedManagerMargin</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineAroundAdapter</key>
+	<string>taskWithFacade</string>
+	<key>deferredPrecisionBound</key>
+	<string>webTabbarCount</string>
+	<key>elasticInteractorAlignment</key>
+	<string>sceneWorkScale</string>
+	<key>injectionBeyondVariable</key>
+	<string>resourceCommandScale</string>
+	<key>layoutAsChain</key>
+	<string>durationContextSkewx</string>
+	<key>queryThroughLayer</key>
+	<string>textureAsDecorator</string>
+	<key>semanticDocumentCoord</key>
+	<string>declarativeTextSpacing</string>
+	<key>sliderStateTheme</key>
+	<string>scrollSinceParameter</string>
+	<key>synchronousServiceLocation</key>
+	<string>newestCallbackSize</string>
+</dict>
+</plist>

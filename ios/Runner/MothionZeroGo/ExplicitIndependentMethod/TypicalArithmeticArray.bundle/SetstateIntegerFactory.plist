@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardOperationKind</key>
+	<string>diffableStatelessFlags</string>
+	<key>chapterLikeProcess</key>
+	<string>brushFromActivity</string>
+	<key>intuitiveStateBrightness</key>
+	<string>missedTitleState</string>
+	<key>subsequentModalShape</key>
+	<string>storageAmongActivity</string>
+</dict>
+</plist>

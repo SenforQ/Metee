@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellParameterSkewy</key>
+	<string>materialTransformerAppearance</string>
+	<key>criticalBuilderOrigin</key>
+	<string>checklistVarRate</string>
+	<key>draggableSpotTint</key>
+	<string>sensorProcessAppearance</string>
+	<key>loopKindTop</key>
+	<string>labelSingletonTint</string>
+	<key>monsterActivityShape</key>
+	<string>signTempleHead</string>
+	<key>nextLogCoord</key>
+	<string>painterSingletonStatus</string>
+	<key>primaryCurveLocation</key>
+	<string>primaryTextfieldRate</string>
+</dict>
+</plist>

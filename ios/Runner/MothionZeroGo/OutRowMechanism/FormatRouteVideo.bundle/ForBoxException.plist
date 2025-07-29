@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionProcessAlignment</key>
+	<string>featurePerProcess</string>
+	<key>curveAroundPattern</key>
+	<string>cacheAroundVar</string>
+	<key>histogramObserverCount</key>
+	<string>plateFrameworkBehavior</string>
+	<key>hyperbolicFragmentAppearance</key>
+	<string>gateMementoContrast</string>
+	<key>menuStrategyBehavior</key>
+	<string>containerTierSkewy</string>
+	<key>otherExceptionAlignment</key>
+	<string>sophisticatedPlaybackInteraction</string>
+	<key>routeVersusTier</key>
+	<string>intensityAtType</string>
+	<key>storyboardStrategyColor</key>
+	<string>allocatorStructureEdge</string>
+	<key>utilAlongState</key>
+	<string>advancedBorderHead</string>
+</dict>
+</plist>

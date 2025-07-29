@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartBesideOperation</key>
+	<string>missedLoopFeedback</string>
+	<key>frameVarVelocity</key>
+	<string>deferredProgressbarSaturation</string>
+	<key>mobxProcessSpeed</key>
+	<string>difficultCubitLocation</string>
+	<key>responseLayerMode</key>
+	<string>imageForProcess</string>
+	<key>textfieldFrameworkTension</key>
+	<string>smartCubeTint</string>
+	<key>transitionTaskAcceleration</key>
+	<string>sceneChainTail</string>
+</dict>
+</plist>

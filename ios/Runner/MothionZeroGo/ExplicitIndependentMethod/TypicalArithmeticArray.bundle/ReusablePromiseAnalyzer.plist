@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoPlaybackCenter</key>
+	<string>missedContainerResponse</string>
+	<key>firstCoordinatorDuration</key>
+	<string>eagerTransitionFormat</string>
+	<key>immediateDelegateDelay</key>
+	<string>missionUntilContext</string>
+	<key>materialScopeSkewx</key>
+	<string>sceneThroughFramework</string>
+	<key>mediumInteractorSpacing</key>
+	<string>webLoopTransparency</string>
+	<key>projectAroundParameter</key>
+	<string>customizedCaptionBorder</string>
+	<key>queueAndStage</key>
+	<string>skinCycleRotation</string>
+</dict>
+</plist>

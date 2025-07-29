@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticEventScale</key>
+	<string>titleOrBuffer</string>
+	<key>channelIncludeMode</key>
+	<string>exponentParameterState</string>
+	<key>chartCompositeLocation</key>
+	<string>titleAroundFramework</string>
+	<key>completerStateInset</key>
+	<string>storeDecoratorValidation</string>
+	<key>intuitiveNavigatorVisible</key>
+	<string>observerModeCenter</string>
+	<key>liteIntensityCoord</key>
+	<string>responseActivityAppearance</string>
+	<key>navigatorIncludeVariable</key>
+	<string>aspectratioThroughProcess</string>
+	<key>pointAgainstWork</key>
+	<string>displayableGetxTint</string>
+	<key>sessionDecoratorShade</key>
+	<string>specifyProfileDirection</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectKindBehavior</key>
+	<string>columnActivityOpacity</string>
+	<key>beginnerRouteType</key>
+	<string>consultativeGestureShade</string>
+	<key>buttonVersusScope</key>
+	<string>gridviewWithKind</string>
+	<key>concreteAnimationTint</key>
+	<string>switchBufferDuration</string>
+	<key>constraintCommandOffset</key>
+	<string>menuViaComposite</string>
+	<key>customStoreStatus</key>
+	<string>difficultPositionVelocity</string>
+	<key>layoutKindBrightness</key>
+	<string>tappableLoopVisibility</string>
+	<key>rowAndMode</key>
+	<string>immutableCatalystCount</string>
+	<key>sceneTypeDensity</key>
+	<string>routeWithoutVisitor</string>
+	<key>tangentLevelBorder</key>
+	<string>columnAdapterAcceleration</string>
+</dict>
+</plist>

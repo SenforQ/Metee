@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionAlongSingleton</key>
+	<string>transformerEnvironmentBehavior</string>
+	<key>enabledOffsetName</key>
+	<string>liteFrameFormat</string>
+	<key>inheritedSpriteDirection</key>
+	<string>queryMediatorBrightness</string>
+	<key>normalCoordinatorHead</key>
+	<string>frameExceptMediator</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultBinaryTheme</key>
+	<string>specifierStructureDensity</string>
+	<key>durationAmongInterpreter</key>
+	<string>smallQuerySpacing</string>
+	<key>localizationOutsideActivity</key>
+	<string>interfaceWithoutJob</string>
+	<key>mediumPositionDepth</key>
+	<string>entityDecoratorEdge</string>
+	<key>permanentResourceLeft</key>
+	<string>navigatorOutsideParam</string>
+	<key>subtleRouteDensity</key>
+	<string>singletonStateMode</string>
+	<key>touchLikeDecorator</key>
+	<string>crucialNotificationBound</string>
+</dict>
+</plist>

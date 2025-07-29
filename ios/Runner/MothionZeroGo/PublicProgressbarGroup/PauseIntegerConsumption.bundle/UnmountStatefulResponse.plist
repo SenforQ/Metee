@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineStateSpacing</key>
+	<string>currentBrushDelay</string>
+	<key>cubitWithoutParam</key>
+	<string>isolateCommandSpeed</string>
+	<key>cubitWithoutStyle</key>
+	<string>resolverStyleOrientation</string>
+	<key>errorInCycle</key>
+	<string>controllerChainOpacity</string>
+	<key>kernelOutsideFacade</key>
+	<string>vectorMementoForce</string>
+	<key>overlayVersusVar</key>
+	<string>binaryAlongActivity</string>
+	<key>rectProcessSkewx</key>
+	<string>lossFlyweightMode</string>
+	<key>smallPopupDepth</key>
+	<string>seamlessSymbolRight</string>
+	<key>stateVariableSpeed</key>
+	<string>blocIncludePlatform</string>
+	<key>subscriptionMethodOrigin</key>
+	<string>sceneAwayComposite</string>
+</dict>
+</plist>

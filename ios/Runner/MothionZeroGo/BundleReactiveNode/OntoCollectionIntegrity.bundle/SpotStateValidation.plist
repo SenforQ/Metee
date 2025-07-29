@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionMediatorPadding</key>
+	<string>asyncMediatorResponse</string>
+	<key>cupertinoBlocBrightness</key>
+	<string>ephemeralManagerShade</string>
+	<key>gridFunctionState</key>
+	<string>titleStructureDirection</string>
+	<key>metadataTaskFeedback</key>
+	<string>statefulSliderRotation</string>
+</dict>
+</plist>

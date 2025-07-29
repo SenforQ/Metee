@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finalGraphicValidation</key>
+	<string>channelBesideVar</string>
+	<key>frameAsStage</key>
+	<string>offsetDespiteCycle</string>
+	<key>persistentSessionForce</key>
+	<string>roleFacadeHue</string>
+	<key>singletonAsObserver</key>
+	<string>rowShapeBehavior</string>
+	<key>timerKindBorder</key>
+	<string>slashProcessBorder</string>
+	<key>zoneKindEdge</key>
+	<string>workflowMementoName</string>
+</dict>
+</plist>

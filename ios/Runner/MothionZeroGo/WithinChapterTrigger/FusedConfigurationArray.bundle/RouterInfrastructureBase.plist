@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionMementoBehavior</key>
+	<string>transitionBridgeOrientation</string>
+	<key>elasticRoleOffset</key>
+	<string>themeStrategyBound</string>
+	<key>gestureOperationBound</key>
+	<string>tappableQueryOrientation</string>
+	<key>sinkAtActivity</key>
+	<string>asyncPerBuffer</string>
+	<key>skinVariableBehavior</key>
+	<string>labelStructureStyle</string>
+</dict>
+</plist>

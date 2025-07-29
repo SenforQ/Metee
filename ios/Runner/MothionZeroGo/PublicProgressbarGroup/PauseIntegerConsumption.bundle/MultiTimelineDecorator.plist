@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futureAmongMode</key>
+	<string>controllerSystemTheme</string>
+	<key>gesturedetectorUntilContext</key>
+	<string>futurePerMode</string>
+	<key>grainSystemPosition</key>
+	<string>tweenBridgeIndex</string>
+	<key>touchEnvironmentColor</key>
+	<string>coordinatorValueHue</string>
+</dict>
+</plist>

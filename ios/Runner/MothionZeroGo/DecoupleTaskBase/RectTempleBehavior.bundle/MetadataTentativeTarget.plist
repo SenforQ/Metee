@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionAgainstEnvironment</key>
+	<string>viewValueTag</string>
+	<key>diffableWidgetCenter</key>
+	<string>cupertinoObserverEdge</string>
+	<key>frameDespiteStage</key>
+	<string>opaqueActionForce</string>
+	<key>numericalFrameDepth</key>
+	<string>substantialAnimationStyle</string>
+	<key>resilientAwaitHue</key>
+	<string>euclideanTextureDuration</string>
+	<key>roleSystemLocation</key>
+	<string>injectionFormFormat</string>
+	<key>secondActionSpacing</key>
+	<string>globalTabbarInset</string>
+	<key>semanticAlignmentMargin</key>
+	<string>assetInBuffer</string>
+	<key>stackActionForce</key>
+	<string>getxWithoutTier</string>
+</dict>
+</plist>

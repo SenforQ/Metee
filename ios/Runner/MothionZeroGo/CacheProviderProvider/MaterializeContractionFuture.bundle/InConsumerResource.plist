@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationCommandStyle</key>
+	<string>buttonAdapterDuration</string>
+	<key>durationInsideMediator</key>
+	<string>equalizationUntilDecorator</string>
+	<key>equalizationDuringActivity</key>
+	<string>intensityAtForm</string>
+	<key>eventSingletonStatus</key>
+	<string>sustainableStreamIndex</string>
+	<key>factoryAwayShape</key>
+	<string>reducerPerPattern</string>
+	<key>materialArithmeticSize</key>
+	<string>precisionPatternInterval</string>
+</dict>
+</plist>

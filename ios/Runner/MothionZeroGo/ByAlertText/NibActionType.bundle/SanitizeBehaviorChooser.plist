@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedGateSkewx</key>
+	<string>declarativeExceptionFormat</string>
+	<key>gateWorkBehavior</key>
+	<string>liteConvolutionCenter</string>
+	<key>iconDespiteTask</key>
+	<string>standaloneBuilderTheme</string>
+	<key>originalScrollTransparency</key>
+	<string>checkboxAroundFlyweight</string>
+	<key>screenModeCenter</key>
+	<string>visibleQueryHue</string>
+</dict>
+</plist>

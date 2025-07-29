@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseZoneFormat</key>
+	<string>accessibleAlphaTail</string>
+	<key>featureBesideLayer</key>
+	<string>dedicatedGridOrigin</string>
+	<key>frameOutsidePhase</key>
+	<string>backwardOperationAppearance</string>
+	<key>normalNodeFlags</key>
+	<string>enabledBufferIndex</string>
+	<key>previewAmongOperation</key>
+	<string>awaitBeyondPhase</string>
+	<key>textfieldMethodAcceleration</key>
+	<string>concurrentClipperEdge</string>
+</dict>
+</plist>

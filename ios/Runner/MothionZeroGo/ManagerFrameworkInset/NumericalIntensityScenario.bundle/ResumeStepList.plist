@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchNearEnvironment</key>
+	<string>largeMethodSpacing</string>
+	<key>granularContractionVisibility</key>
+	<string>subscriptionEnvironmentStatus</string>
+	<key>invisibleLayoutPadding</key>
+	<string>reactiveSensorDensity</string>
+	<key>optionAdapterRight</key>
+	<string>widgetNearObserver</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationInterpreterTension</key>
+	<string>flexibleInterfaceInset</string>
+	<key>animationStyleSpacing</key>
+	<string>eagerTimerCount</string>
+	<key>cupertinoNotifierTransparency</key>
+	<string>accordionHeapColor</string>
+	<key>handlerTaskOrigin</key>
+	<string>singletonProcessInterval</string>
+	<key>immutableGestureShade</key>
+	<string>oldCanvasStyle</string>
+	<key>menuNearEnvironment</key>
+	<string>allocatorAsValue</string>
+	<key>missedMobxSkewy</key>
+	<string>retainedNodeSkewx</string>
+	<key>queueKindContrast</key>
+	<string>unaryPerComposite</string>
+	<key>semanticAlignmentDensity</key>
+	<string>overlayInterpreterColor</string>
+	<key>spineAlongMethod</key>
+	<string>richtextThanState</string>
+</dict>
+</plist>

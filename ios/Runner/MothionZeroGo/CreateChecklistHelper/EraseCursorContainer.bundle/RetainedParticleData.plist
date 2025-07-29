@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonPromiseForce</key>
+	<string>disparateAspectRate</string>
+	<key>immediateSpotFormat</key>
+	<string>deferredCallbackSpeed</string>
+	<key>subpixelSingletonCenter</key>
+	<string>originalCheckboxDirection</string>
+	<key>textfieldBufferRotation</key>
+	<string>controllerAwaySingleton</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveResolverVisibility</key>
+	<string>capacitiesOrLayer</string>
+	<key>constraintObserverValidation</key>
+	<string>chartContextRotation</string>
+	<key>interactiveMenuPadding</key>
+	<string>previewByVisitor</string>
+	<key>resilientErrorState</key>
+	<string>repositoryStructurePadding</string>
+</dict>
+</plist>

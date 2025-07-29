@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equipmentVersusVariable</key>
+	<string>functionalWorkflowSpacing</string>
+	<key>layoutIncludeMethod</key>
+	<string>interactorWithState</string>
+	<key>scrollScopeHue</key>
+	<string>mapContainFacade</string>
+	<key>segueWithoutValue</key>
+	<string>grainAroundComposite</string>
+	<key>specifierModeBehavior</key>
+	<string>euclideanDecorationRight</string>
+	<key>statefulParameterPosition</key>
+	<string>awaitActivityShape</string>
+	<key>textureVarDepth</key>
+	<string>frameVariableBound</string>
+</dict>
+</plist>

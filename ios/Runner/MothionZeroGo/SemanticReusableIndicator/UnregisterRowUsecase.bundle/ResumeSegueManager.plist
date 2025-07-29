@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocDecoratorPosition</key>
+	<string>queryCycleDirection</string>
+	<key>interactorBeyondJob</key>
+	<string>promiseTypePosition</string>
+	<key>queryViaType</key>
+	<string>inkwellOutsideValue</string>
+	<key>riverpodExceptObserver</key>
+	<string>statelessBeyondProcess</string>
+</dict>
+</plist>

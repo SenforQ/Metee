@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxProxySize</key>
+	<string>sceneViaAdapter</string>
+	<key>injectionUntilKind</key>
+	<string>navigatorDecoratorContrast</string>
+	<key>reactiveMenuIndex</key>
+	<string>enabledControllerTag</string>
+	<key>routerAboutVariable</key>
+	<string>finalCellSkewy</string>
+</dict>
+</plist>

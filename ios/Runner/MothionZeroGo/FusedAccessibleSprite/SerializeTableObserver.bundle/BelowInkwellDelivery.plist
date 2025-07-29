@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleCubitFlags</key>
+	<string>otherMobileAppearance</string>
+	<key>heroVersusPhase</key>
+	<string>columnBeyondFramework</string>
+	<key>materialStreamPressure</key>
+	<string>assetLayerTop</string>
+</dict>
+</plist>

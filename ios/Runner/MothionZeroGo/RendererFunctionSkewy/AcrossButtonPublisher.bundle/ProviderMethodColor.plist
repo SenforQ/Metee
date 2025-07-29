@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticMissionRate</key>
+	<string>loopDuringForm</string>
+	<key>criticalGateLeft</key>
+	<string>eventVarTail</string>
+	<key>gridviewContainOperation</key>
+	<string>tweenFormPosition</string>
+	<key>permanentCompletionMode</key>
+	<string>immediateCommandForce</string>
+	<key>responseFormFeedback</key>
+	<string>completerBesideAction</string>
+	<key>subpixelProcessDensity</key>
+	<string>normAboutContext</string>
+	<key>symbolLevelBottom</key>
+	<string>resilientResultVisible</string>
+	<key>unactivatedApertureSkewx</key>
+	<string>handlerModeDensity</string>
+	<key>usecaseOrBridge</key>
+	<string>dialogsSinceMethod</string>
+</dict>
+</plist>

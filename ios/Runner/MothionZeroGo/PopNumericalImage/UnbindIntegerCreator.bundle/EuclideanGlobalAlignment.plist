@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentPlaybackFormat</key>
+	<string>storageIncludeMemento</string>
+	<key>deferredZoneEdge</key>
+	<string>keyObserverDirection</string>
+	<key>fragmentScopeStyle</key>
+	<string>basicScreenBound</string>
+	<key>repositoryPrototypeCoord</key>
+	<string>featureAgainstAction</string>
+	<key>skinOperationTag</key>
+	<string>priorAllocatorFlags</string>
+	<key>sliderStrategyTail</key>
+	<string>actionParameterTag</string>
+	<key>unsortedSubscriptionBrightness</key>
+	<string>shaderMementoIndex</string>
+</dict>
+</plist>

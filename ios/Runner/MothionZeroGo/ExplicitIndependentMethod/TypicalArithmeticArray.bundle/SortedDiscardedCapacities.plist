@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateThanParameter</key>
+	<string>optionLevelSpeed</string>
+	<key>gemSingletonValidation</key>
+	<string>logOperationMode</string>
+	<key>graphProcessBrightness</key>
+	<string>characterSystemTag</string>
+	<key>nibSystemShade</key>
+	<string>scrollPatternRotation</string>
+	<key>normFromInterpreter</key>
+	<string>durationInMediator</string>
+	<key>priorityWorkCoord</key>
+	<string>localizationWithoutStructure</string>
+	<key>prismaticSineDuration</key>
+	<string>widgetNearParam</string>
+	<key>screenWithoutShape</key>
+	<string>currentCustompaintAcceleration</string>
+</dict>
+</plist>

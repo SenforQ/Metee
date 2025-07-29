@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getxLikeTier</key>
+	<string>declarativeBoxSize</string>
+	<key>iconOrFramework</key>
+	<string>threadSystemInteraction</string>
+	<key>lostMissionAlignment</key>
+	<string>parallelSceneOffset</string>
+	<key>managerTempleDensity</key>
+	<string>accessibleSinkDistance</string>
+	<key>precisionAlongForm</key>
+	<string>largeConfigurationTransparency</string>
+	<key>signatureBesideAction</key>
+	<string>unsortedCallbackFlags</string>
+	<key>spineInsideLayer</key>
+	<string>inkwellVersusAction</string>
+</dict>
+</plist>

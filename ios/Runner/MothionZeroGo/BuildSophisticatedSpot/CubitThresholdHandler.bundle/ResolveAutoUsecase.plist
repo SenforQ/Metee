@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorContainNumber</key>
+	<string>sequentialCapsuleHead</string>
+	<key>animatedAlignmentDirection</key>
+	<string>awaitEnvironmentValidation</string>
+	<key>chartObserverSpeed</key>
+	<string>cartesianTextfieldFormat</string>
+	<key>descriptionInActivity</key>
+	<string>batchMediatorBrightness</string>
+	<key>finalDescriptionSkewy</key>
+	<string>labelWithScope</string>
+	<key>normUntilCommand</key>
+	<string>queueCommandTail</string>
+	<key>reusableChannelValidation</key>
+	<string>commonTabbarMomentum</string>
+</dict>
+</plist>

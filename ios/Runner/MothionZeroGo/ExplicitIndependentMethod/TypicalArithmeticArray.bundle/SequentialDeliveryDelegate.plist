@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveInjectionContrast</key>
+	<string>chartPerVariable</string>
+	<key>alertBesideNumber</key>
+	<string>autoChannelsShade</string>
+	<key>animationIncludeSystem</key>
+	<string>dependencyParameterHead</string>
+	<key>descriptionObserverPressure</key>
+	<string>intermediateOverlayMode</string>
+	<key>mobileVarOffset</key>
+	<string>storeProcessIndex</string>
+	<key>sharedCallbackTransparency</key>
+	<string>popupExceptType</string>
+	<key>sizeWithBuffer</key>
+	<string>pinchablePromiseBehavior</string>
+	<key>titleObserverLocation</key>
+	<string>segueBridgeSaturation</string>
+</dict>
+</plist>

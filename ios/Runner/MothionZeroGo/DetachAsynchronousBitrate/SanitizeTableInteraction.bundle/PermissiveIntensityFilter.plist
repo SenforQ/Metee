@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintAndLevel</key>
+	<string>customLogarithmSaturation</string>
+	<key>desktopActivityDepth</key>
+	<string>screenPerCycle</string>
+	<key>grayscaleByTier</key>
+	<string>sequentialDescriptionBorder</string>
+	<key>interactorThanValue</key>
+	<string>titleByContext</string>
+	<key>interactorThanVisitor</key>
+	<string>temporaryFragmentRate</string>
+	<key>layerForBridge</key>
+	<string>transformerBufferBehavior</string>
+	<key>observerStrategyPressure</key>
+	<string>interfaceTaskInterval</string>
+	<key>sizedboxOfStage</key>
+	<string>iterativeRequestSaturation</string>
+	<key>sortedDependencyTag</key>
+	<string>smartNavigationStatus</string>
+</dict>
+</plist>

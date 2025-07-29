@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionStyleFlags</key>
+	<string>scrollableButtonBorder</string>
+	<key>reductionStageSkewy</key>
+	<string>opaqueGroupStatus</string>
+	<key>specifyEntityDistance</key>
+	<string>serviceMethodVisibility</string>
+	<key>vectorDuringProxy</key>
+	<string>convolutionInterpreterFrequency</string>
+</dict>
+</plist>

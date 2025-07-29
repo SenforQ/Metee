@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticAsAction</key>
+	<string>synchronousEventTransparency</string>
+	<key>arithmeticBlocTransparency</key>
+	<string>customizedSignOpacity</string>
+	<key>constFeatureIndex</key>
+	<string>layoutProxyShade</string>
+	<key>offsetPlatformBrightness</key>
+	<string>smallStateBehavior</string>
+	<key>pointObserverMode</key>
+	<string>viewThroughSystem</string>
+	<key>priorStreamDistance</key>
+	<string>handlerFromMemento</string>
+	<key>reducerShapeStatus</key>
+	<string>queryBeyondTemple</string>
+	<key>transitionWorkStatus</key>
+	<string>optimizerInsideShape</string>
+</dict>
+</plist>

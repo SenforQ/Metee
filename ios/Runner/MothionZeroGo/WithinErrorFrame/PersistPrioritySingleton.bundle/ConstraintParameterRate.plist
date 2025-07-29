@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyStrategyFlags</key>
+	<string>durationByContext</string>
+	<key>directlyPresenterTransparency</key>
+	<string>crucialAssetSkewx</string>
+	<key>gesturedetectorVersusEnvironment</key>
+	<string>currentScreenOrigin</string>
+	<key>modelAndOperation</key>
+	<string>presenterJobHue</string>
+	<key>particleParamBrightness</key>
+	<string>reducerObserverMargin</string>
+	<key>scaffoldOrBridge</key>
+	<string>controllerByPhase</string>
+</dict>
+</plist>

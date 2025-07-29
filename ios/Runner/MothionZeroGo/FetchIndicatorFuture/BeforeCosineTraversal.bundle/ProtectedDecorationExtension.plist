@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitySingletonState</key>
+	<string>lostCubitOrientation</string>
+	<key>buttonCompositeFeedback</key>
+	<string>frameFormForce</string>
+	<key>gridviewOfLayer</key>
+	<string>stepBeyondMethod</string>
+	<key>inactiveModalRate</key>
+	<string>usageInterpreterOrientation</string>
+	<key>interactorParamSpacing</key>
+	<string>toolByStrategy</string>
+	<key>loopJobDensity</key>
+	<string>unactivatedCompleterTop</string>
+	<key>spineParamBottom</key>
+	<string>batchViaWork</string>
+	<key>storeVersusForm</key>
+	<string>deferredTernaryVisible</string>
+	<key>usedRectCount</key>
+	<string>sortedInkwellType</string>
+</dict>
+</plist>

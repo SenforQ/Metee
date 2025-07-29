@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocThroughOperation</key>
+	<string>menuScopeCoord</string>
+	<key>navigatorTierBrightness</key>
+	<string>symbolVisitorDensity</string>
+	<key>optimizerWorkType</key>
+	<string>providerContainLevel</string>
+	<key>priorityIncludeNumber</key>
+	<string>singleAsyncTheme</string>
+	<key>routerAndStyle</key>
+	<string>graphFlyweightRotation</string>
+</dict>
+</plist>

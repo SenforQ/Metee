@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackAboutBridge</key>
+	<string>effectFromNumber</string>
+	<key>cursorContextFeedback</key>
+	<string>parallelTouchLocation</string>
+	<key>diffableGraphicVisible</key>
+	<string>sinkSinceMediator</string>
+	<key>injectionShapeColor</key>
+	<string>extensionFromNumber</string>
+	<key>localLabelPosition</key>
+	<string>optionAmongLayer</string>
+	<key>operationScopeDirection</key>
+	<string>shaderBridgeSkewx</string>
+	<key>particleOutsideFacade</key>
+	<string>sustainableNavigationOffset</string>
+	<key>riverpodOutsideMode</key>
+	<string>awaitStrategyInset</string>
+	<key>scaleInActivity</key>
+	<string>spritePerProxy</string>
+	<key>subscriptionIncludeProcess</key>
+	<string>dedicatedSpotVelocity</string>
+</dict>
+</plist>

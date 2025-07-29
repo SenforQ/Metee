@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerPerValue</key>
+	<string>durationAwayBuffer</string>
+	<key>concurrentEffectDistance</key>
+	<string>futureBufferLocation</string>
+	<key>cubitMethodPosition</key>
+	<string>consultativeGrainRotation</string>
+	<key>indicatorLayerHue</key>
+	<string>frameAroundFacade</string>
+	<key>intermediateGraphicStyle</key>
+	<string>gridviewMementoVelocity</string>
+	<key>musicStateSpeed</key>
+	<string>priorityWorkBorder</string>
+	<key>sessionNumberTop</key>
+	<string>boxshadowStyleLeft</string>
+</dict>
+</plist>

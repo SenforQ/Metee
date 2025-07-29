@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticFactoryFlags</key>
+	<string>rowTypeBorder</string>
+	<key>graphicWithoutLayer</key>
+	<string>stampProxyValidation</string>
+	<key>inkwellOutsideObserver</key>
+	<string>gridPatternColor</string>
+	<key>integerMethodRight</key>
+	<string>commonLossOrientation</string>
+	<key>localizationNumberAppearance</key>
+	<string>normalObserverDistance</string>
+</dict>
+</plist>

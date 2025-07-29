@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationCompositeOrientation</key>
+	<string>stampTierCount</string>
+	<key>layoutIncludeWork</key>
+	<string>taskFrameworkFrequency</string>
+	<key>memberFlyweightOrientation</key>
+	<string>temporaryButtonDistance</string>
+	<key>reusableFeatureContrast</key>
+	<string>curveCompositeOrigin</string>
+	<key>seamlessCubePosition</key>
+	<string>modelFrameworkSaturation</string>
+	<key>sizedboxThroughFlyweight</key>
+	<string>variantVisitorPadding</string>
+	<key>stepObserverBorder</key>
+	<string>precisionInParameter</string>
+	<key>visibleAlignmentTail</key>
+	<string>symmetricTaskLeft</string>
+</dict>
+</plist>

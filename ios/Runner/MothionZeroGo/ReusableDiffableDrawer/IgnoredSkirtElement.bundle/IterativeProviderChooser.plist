@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowShapeValidation</key>
+	<string>columnThroughProxy</string>
+	<key>fixedRowStyle</key>
+	<string>previewProxyRight</string>
+	<key>gradientStyleName</key>
+	<string>commonRowDensity</string>
+	<key>particlePrototypePadding</key>
+	<string>dropdownbuttonWorkPosition</string>
+	<key>spriteOutsideActivity</key>
+	<string>cubeFacadeBorder</string>
+	<key>threadVarContrast</key>
+	<string>offsetTierDuration</string>
+</dict>
+</plist>

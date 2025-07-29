@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivePopupVelocity</key>
+	<string>constraintContainWork</string>
+	<key>ephemeralSliderAcceleration</key>
+	<string>mobxCycleRate</string>
+	<key>gridDuringPhase</key>
+	<string>coordinatorKindDuration</string>
+	<key>immutableGemState</key>
+	<string>invisibleCommandMomentum</string>
+	<key>materialFacadeShade</key>
+	<string>entityOfPattern</string>
+	<key>staticViewPosition</key>
+	<string>timerNearCommand</string>
+	<key>transitionContainForm</key>
+	<string>resolverFlyweightIndex</string>
+	<key>visibleCallbackResponse</key>
+	<string>columnFromProcess</string>
+</dict>
+</plist>

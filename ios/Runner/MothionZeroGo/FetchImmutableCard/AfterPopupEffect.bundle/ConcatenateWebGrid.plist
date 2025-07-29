@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicRepositoryFlags</key>
+	<string>sophisticatedEventFeedback</string>
+	<key>composableCharacterBrightness</key>
+	<string>consultativeAppbarCenter</string>
+	<key>liteLogRotation</key>
+	<string>mobxScopeTheme</string>
+	<key>logContextPadding</key>
+	<string>permissiveMediaStatus</string>
+	<key>missionAsScope</key>
+	<string>functionalMovementOffset</string>
+	<key>screenOrSingleton</key>
+	<string>streamAboutComposite</string>
+	<key>sustainableScaleCount</key>
+	<string>layerBridgeCenter</string>
+	<key>utilOutsideVisitor</key>
+	<string>chapterOrScope</string>
+	<key>workflowTierLocation</key>
+	<string>subscriptionAwayFunction</string>
+</dict>
+</plist>

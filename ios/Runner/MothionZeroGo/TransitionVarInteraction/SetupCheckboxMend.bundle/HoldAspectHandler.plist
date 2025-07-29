@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticDelegateOrigin</key>
+	<string>decorationVisitorCenter</string>
+	<key>indicatorPerChain</key>
+	<string>signLevelState</string>
+	<key>localMatrixType</key>
+	<string>usecaseVersusCommand</string>
+	<key>stateAroundLayer</key>
+	<string>stackAgainstStrategy</string>
+	<key>stepAwayPlatform</key>
+	<string>firstTickerOpacity</string>
+</dict>
+</plist>

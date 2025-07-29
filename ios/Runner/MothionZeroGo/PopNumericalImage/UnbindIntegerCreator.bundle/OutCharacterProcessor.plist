@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedColumnValidation</key>
+	<string>delegateUntilCommand</string>
+	<key>blocLevelVisibility</key>
+	<string>exceptionAndCycle</string>
+	<key>dedicatedWorkflowOffset</key>
+	<string>explicitAwaitAlignment</string>
+	<key>effectContainLayer</key>
+	<string>priorityParameterSpeed</string>
+	<key>effectMethodHead</key>
+	<string>rowInsideJob</string>
+	<key>graphKindColor</key>
+	<string>iterativeBrushPosition</string>
+	<key>interactorExceptStage</key>
+	<string>prevAnimationState</string>
+	<key>isolateSystemSpeed</key>
+	<string>histogramParameterLeft</string>
+	<key>rectBesideChain</key>
+	<string>accessoryTypePosition</string>
+</dict>
+</plist>
