@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredRoleDelay</key>
+	<string>taskBridgeCenter</string>
+	<key>overlayContextLocation</key>
+	<string>actionMementoCenter</string>
+	<key>precisionVisitorTransparency</key>
+	<string>routerVarSize</string>
+	<key>roleAgainstVisitor</key>
+	<string>exceptionBeyondStage</string>
+	<key>screenThroughPhase</key>
+	<string>mobileTierFeedback</string>
+	<key>temporaryStateStatus</key>
+	<string>accordionContractionKind</string>
+	<key>webHeapBottom</key>
+	<string>nodeAtState</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileTopicBottom</key>
+	<string>compositionAtFramework</string>
+	<key>featureAlongSingleton</key>
+	<string>prevDropdownbuttonSize</string>
+	<key>indicatorBesideActivity</key>
+	<string>animationAdapterKind</string>
+	<key>listviewSingletonAcceleration</key>
+	<string>navigationPrototypeDelay</string>
+	<key>unactivatedDecorationKind</key>
+	<string>dedicatedSinkKind</string>
+</dict>
+</plist>

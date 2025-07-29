@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncPositionCount</key>
+	<string>compositionDespiteStrategy</string>
+	<key>hyperbolicCubitForce</key>
+	<string>sizeFromValue</string>
+	<key>layoutFunctionAppearance</key>
+	<string>smartControllerTop</string>
+	<key>offsetAsPattern</key>
+	<string>descriptionCycleDelay</string>
+</dict>
+</plist>

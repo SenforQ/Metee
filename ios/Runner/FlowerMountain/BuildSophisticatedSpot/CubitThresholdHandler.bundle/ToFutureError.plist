@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>pinchableBorderShape</key>
+	<string>reducerFunctionSpacing</string>
+	<key>playbackPerState</key>
+	<string>compositionSystemValidation</string>
+	<key>pointStructureIndex</key>
+	<string>uniqueControllerColor</string>
+	<key>segueKindTransparency</key>
+	<string>mobileFromStructure</string>
+	<key>standaloneStatelessDirection</key>
+	<string>concurrentReducerTint</string>
+</dict>
+</plist>

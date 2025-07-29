@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSkirtRight</key>
+	<string>parallelScrollDistance</string>
+	<key>curveDuringProxy</key>
+	<string>disabledDurationOffset</string>
+	<key>decorationLikeTier</key>
+	<string>asyncRoleScale</string>
+	<key>missedCacheInset</key>
+	<string>tableAsStructure</string>
+	<key>navigatorAdapterDepth</key>
+	<string>intensitySinceNumber</string>
+	<key>requiredGridType</key>
+	<string>observerAndComposite</string>
+	<key>resizableExceptionDistance</key>
+	<string>checkboxOutsideObserver</string>
+</dict>
+</plist>

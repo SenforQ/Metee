@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackFacadeTag</key>
+	<string>usedListviewInset</string>
+	<key>compositionOutsideMode</key>
+	<string>handlerAndBridge</string>
+	<key>configurationInType</key>
+	<string>utilShapeDelay</string>
+	<key>disabledThemeFeedback</key>
+	<string>newestContainerPosition</string>
+	<key>gramBufferBorder</key>
+	<string>animatedExponentLocation</string>
+	<key>hierarchicalAppbarInteraction</key>
+	<string>statelessGridPadding</string>
+	<key>presenterLikeContext</key>
+	<string>similarInterfaceFrequency</string>
+	<key>reducerAsJob</key>
+	<string>normalSpriteHue</string>
+	<key>spriteMediatorFeedback</key>
+	<string>asyncViewColor</string>
+</dict>
+</plist>

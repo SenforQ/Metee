@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionFormTransparency</key>
+	<string>isolateUntilJob</string>
+	<key>asyncCompleterStyle</key>
+	<string>serviceAndStage</string>
+	<key>columnThroughCycle</key>
+	<string>cardDespitePlatform</string>
+	<key>independentResourceForce</key>
+	<string>arithmeticBlocKind</string>
+	<key>operationDecoratorTail</key>
+	<string>exponentWithState</string>
+	<key>popupBeyondWork</key>
+	<string>allocatorFunctionTail</string>
+	<key>significantAlignmentDuration</key>
+	<string>disabledBlocMomentum</string>
+	<key>tweenActivityOpacity</key>
+	<string>intensityModePadding</string>
+	<key>zoneUntilContext</key>
+	<string>mobileBlocResponse</string>
+</dict>
+</plist>

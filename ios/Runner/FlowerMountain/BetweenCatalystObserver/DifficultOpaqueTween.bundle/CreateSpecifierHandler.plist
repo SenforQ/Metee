@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxOrTask</key>
+	<string>dialogsSystemHead</string>
+	<key>crudeCallbackAlignment</key>
+	<string>actionVisitorSaturation</string>
+	<key>globalLocalizationTheme</key>
+	<string>semanticBoxForce</string>
+	<key>instructionFromCommand</key>
+	<string>builderProcessAppearance</string>
+	<key>serviceAndSystem</key>
+	<string>consultativeNavigatorName</string>
+</dict>
+</plist>

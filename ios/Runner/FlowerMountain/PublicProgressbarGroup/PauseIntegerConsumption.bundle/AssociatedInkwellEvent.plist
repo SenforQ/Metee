@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseAboutFramework</key>
+	<string>zoneVarContrast</string>
+	<key>channelVarRotation</key>
+	<string>blocVarKind</string>
+	<key>dialogsAlongMediator</key>
+	<string>notificationFacadeBound</string>
+	<key>rowStateSkewy</key>
+	<string>groupVarVisible</string>
+	<key>scrollableContainerDensity</key>
+	<string>ignoredAssetSkewy</string>
+</dict>
+</plist>

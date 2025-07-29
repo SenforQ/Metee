@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19519"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="DistrictManagerView">
+            <connections>
+                <outlet property="modelShowImageView" destination="yVV-FV-wzw" id="MfK-Bm-K4z"/>
+                <outlet property="bagImageView" destination="xa8-Pn-NWo" id="l4K-C4-fGG"/>
+                <outlet property="headLabel" destination="dWI-Xc-6HT" id="mRM-m1-jpg"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="OGW-k1-plj" hidden="YES" clearsContextBeforeDrawing="NO">
+            <rect key="frame" x="0.0" y="0.0" width="95.1" height="358.3"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="bottomRight" horizontalCompressionResistancePriority="250" verticalCompressionResistancePriority="250" image="1242-2268" highlightedImage="1242-2268" translatesAutoresizingMaskIntoConstraints="NO" id="xa8-Pn-NWo">
+                    <rect key="frame" x="154.0" y="5" width="117.9" height="68.9"/>
+                </imageView>
+                <imageView userInteractionEnabled="NO" contentMode="topRight" horizontalHuggingPriority="150" verticalHuggingPriority="177" horizontalCompressionResistancePriority="175" verticalCompressionResistancePriority="100" image="1242-2268" highlightedImage="1242-2208" translatesAutoresizingMaskIntoConstraints="NO" id="yVV-FV-wzw" adjustsImageSizeForAccessibilityContentSizeCategory="YES">
+                    <rect key="frame" x="271.4" y="2" width="81.3" height="68.9"/>
+                </imageView>
+                <label userInteractionEnabled="NO" contentMode="bottomRight" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="use table in error data" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dWI-Xc-6HT" adjustsFontForContentSizeCategory="YES" numberOfLines="9" enabled="NO">
+                    <rect key="frame" x="-2" y="1" width="130.0" height="68.9"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="21"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="NYn-d5-rKz"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="yVV-FV-wzw" secondAttribute="bottom" constant="2" id="2n0-yw-icQ"/>
+                <constraint firstItem="dWI-Xc-6HT" firstAttribute="leading" secondItem="yVV-FV-wzw" secondAttribute="trailing" constant="1" id="Tk2-Qv-eDA"/>
+                <constraint firstItem="xa8-Pn-NWo" firstAttribute="leading" secondItem="NYn-d5-rKz" secondAttribute="leading" constant="7" id="WG8-sw-93w"/>
+                <constraint firstItem="dWI-Xc-6HT" firstAttribute="top" secondItem="OGW-k1-plj" secondAttribute="top" constant="8" id="NNo-xH-lM7"/>
+                <constraint firstItem="xa8-Pn-NWo" firstAttribute="top" secondItem="OGW-k1-plj" secondAttribute="top" constant="2" id="Ir7-h7-naj"/>
+                <constraint firstAttribute="bottom" secondItem="xa8-Pn-NWo" secondAttribute="bottom" constant="8" id="OFr-5h-IsY"/>
+                <constraint firstAttribute="bottom" secondItem="dWI-Xc-6HT" secondAttribute="bottom" constant="7" id="YyG-o9-PGU"/>
+                <constraint firstItem="yVV-FV-wzw" firstAttribute="leading" secondItem="xa8-Pn-NWo" secondAttribute="trailing" constant="1" id="ywN-I0-Fjh"/>
+                <constraint firstItem="yVV-FV-wzw" firstAttribute="top" secondItem="OGW-k1-plj" secondAttribute="top" constant="3" id="EEX-Ib-3LW"/>
+                <constraint firstItem="NYn-d5-rKz" firstAttribute="trailing" secondItem="dWI-Xc-6HT" secondAttribute="trailing" constant="5" id="vrG-L7-vDS"/>
+            </constraints>
+            <nil key="simulatedTopBarMetrics"/>
+            <nil key="simulatedBottomBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="112.44623016031758" y="-200.38773274352311"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="1242-2268" width="118.1" height="119.2"/>
+        <image name="1242-2208" width="118.1" height="119.2"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

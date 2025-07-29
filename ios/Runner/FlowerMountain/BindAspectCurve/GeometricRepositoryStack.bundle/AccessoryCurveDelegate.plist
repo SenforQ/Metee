@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartEnvironmentRate</key>
+	<string>usecaseOperationDuration</string>
+	<key>difficultRichtextSaturation</key>
+	<string>mobileInteractorLocation</string>
+	<key>heapNumberVisibility</key>
+	<string>storeVisitorState</string>
+	<key>isolateViaProcess</key>
+	<string>notificationEnvironmentOpacity</string>
+	<key>resilientRouteTag</key>
+	<string>routerStageDirection</string>
+	<key>scaffoldWithPlatform</key>
+	<string>primaryBuilderFeedback</string>
+	<key>statelessNavigatorSaturation</key>
+	<string>dedicatedNodeHead</string>
+	<key>tweenAboutContext</key>
+	<string>expandedThanAdapter</string>
+</dict>
+</plist>

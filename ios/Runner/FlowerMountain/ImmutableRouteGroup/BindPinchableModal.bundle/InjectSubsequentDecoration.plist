@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryStyleAppearance</key>
+	<string>resourceUntilPlatform</string>
+	<key>activeRadiusTransparency</key>
+	<string>tweenMementoFrequency</string>
+	<key>arithmeticGraphTag</key>
+	<string>titleIncludeActivity</string>
+	<key>enabledBasePressure</key>
+	<string>symbolViaMethod</string>
+	<key>standaloneProtocolContrast</key>
+	<string>visibleButtonAlignment</string>
+	<key>statelessActionMargin</key>
+	<string>cupertinoPopupSize</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationCommandCenter</key>
+	<string>loopOutsideVariable</string>
+	<key>draggableStackBehavior</key>
+	<string>lazyConvolutionLocation</string>
+	<key>featureObserverOpacity</key>
+	<string>eagerTabviewMode</string>
+	<key>globalLossContrast</key>
+	<string>denseMasterSaturation</string>
+	<key>permanentButtonFormat</key>
+	<string>storeDecoratorHue</string>
+	<key>usecaseEnvironmentVelocity</key>
+	<string>scaffoldAtLayer</string>
+</dict>
+</plist>

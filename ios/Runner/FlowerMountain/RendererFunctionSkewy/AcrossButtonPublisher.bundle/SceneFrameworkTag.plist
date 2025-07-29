@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaTierHue</key>
+	<string>declarativeTransitionBrightness</string>
+	<key>controllerDespiteBridge</key>
+	<string>queueLikeDecorator</string>
+	<key>delicateCurveOffset</key>
+	<string>eagerReferenceTransparency</string>
+	<key>ephemeralCubitState</key>
+	<string>modelInVisitor</string>
+	<key>normForCommand</key>
+	<string>hierarchicalTouchOrigin</string>
+</dict>
+</plist>

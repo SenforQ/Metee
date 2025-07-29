@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAboutTask</key>
+	<string>permissivePriorityRotation</string>
+	<key>completerAdapterTheme</key>
+	<string>singletonWithoutProxy</string>
+	<key>cupertinoDurationKind</key>
+	<string>firstSampleRight</string>
+	<key>dependencyThroughMode</key>
+	<string>futureActivityDensity</string>
+	<key>effectUntilPrototype</key>
+	<string>declarativePositionVisible</string>
+	<key>gridLayerDepth</key>
+	<string>immutableGestureDuration</string>
+	<key>hyperbolicHashBound</key>
+	<string>substantialFlexOffset</string>
+	<key>loopStateFormat</key>
+	<string>collectionPatternSkewx</string>
+	<key>requiredControllerBehavior</key>
+	<string>callbackWithContext</string>
+	<key>statePerSingleton</key>
+	<string>nibBesideNumber</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTransitionStyle</key>
+	<string>ternaryOutsideParameter</string>
+	<key>commandWithoutShape</key>
+	<string>constraintShapeBound</string>
+	<key>constraintIncludeLevel</key>
+	<string>offsetPhaseMode</string>
+	<key>coordinatorExceptInterpreter</key>
+	<string>subsequentChapterInterval</string>
+	<key>cupertinoTempleTint</key>
+	<string>descriptionAgainstParameter</string>
+	<key>descriptorAtOperation</key>
+	<string>constraintPatternSize</string>
+	<key>dimensionBridgeTension</key>
+	<string>channelParamPadding</string>
+	<key>entropyProcessRight</key>
+	<string>equalizationSingletonFlags</string>
+	<key>nibViaType</key>
+	<string>errorViaParam</string>
+	<key>responseExceptForm</key>
+	<string>directlyAlphaStyle</string>
+</dict>
+</plist>

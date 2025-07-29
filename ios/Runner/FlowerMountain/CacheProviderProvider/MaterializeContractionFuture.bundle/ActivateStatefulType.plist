@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonPlatformFeedback</key>
+	<string>durationSinceMode</string>
+	<key>eagerLoopTop</key>
+	<string>navigationActionBorder</string>
+	<key>invisibleRectOrigin</key>
+	<string>statelessProjectionVisibility</string>
+	<key>layoutProxyOrientation</key>
+	<string>textKindBorder</string>
+	<key>logMediatorAcceleration</key>
+	<string>skinPlatformOrientation</string>
+	<key>loopAboutPattern</key>
+	<string>configurationAmongJob</string>
+	<key>projectionUntilShape</key>
+	<string>priorityAmongCycle</string>
+	<key>remainderOrMemento</key>
+	<string>tableModeTension</string>
+	<key>resizableRepositoryInset</key>
+	<string>currentInterfaceCenter</string>
+	<key>rowBridgeOrigin</key>
+	<string>descriptorWorkScale</string>
+</dict>
+</plist>

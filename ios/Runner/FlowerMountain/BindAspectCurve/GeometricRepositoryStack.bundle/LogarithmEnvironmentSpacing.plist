@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedStatelessTop</key>
+	<string>protocolTaskState</string>
+	<key>completerStageEdge</key>
+	<string>directlyPageviewBorder</string>
+	<key>enabledReferenceFeedback</key>
+	<string>widgetAdapterSpeed</string>
+	<key>eventFromWork</key>
+	<string>equipmentScopeTag</string>
+	<key>greatTextfieldInset</key>
+	<string>collectionViaContext</string>
+	<key>modelFrameworkTheme</key>
+	<string>priorityBeyondTask</string>
+	<key>reusableGradientTint</key>
+	<string>scrollableCubeBehavior</string>
+</dict>
+</plist>

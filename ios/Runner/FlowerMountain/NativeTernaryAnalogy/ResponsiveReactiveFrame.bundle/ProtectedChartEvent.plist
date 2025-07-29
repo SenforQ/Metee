@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>factoryThroughOperation</key>
+	<string>segueEnvironmentMargin</string>
+	<key>fusedResourceInteraction</key>
+	<string>transitionStageAcceleration</string>
+	<key>indicatorIncludeScope</key>
+	<string>positionedParameterBorder</string>
+	<key>localizationStructureName</key>
+	<string>labelByPattern</string>
+	<key>mediocreActionTheme</key>
+	<string>mobileTierShade</string>
+	<key>modelThroughJob</key>
+	<string>rapidAlignmentSaturation</string>
+	<key>multiMediaInteraction</key>
+	<string>resourceExceptBuffer</string>
+	<key>stateAmongBridge</key>
+	<string>viewAmongSystem</string>
+</dict>
+</plist>

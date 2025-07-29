@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticChartBorder</key>
+	<string>tabviewChainDelay</string>
+	<key>certificateInScope</key>
+	<string>expandedVersusLayer</string>
+	<key>customizedCoordinatorAppearance</key>
+	<string>storyboardMethodVisible</string>
+	<key>localVariantShade</key>
+	<string>observerStructureForce</string>
+	<key>sampleIncludeProxy</key>
+	<string>shaderNearScope</string>
+	<key>semanticsOperationShade</key>
+	<string>resultStageEdge</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitExceptKind</key>
+	<string>backwardSceneSpeed</string>
+	<key>callbackProcessPressure</key>
+	<string>localizationObserverInteraction</string>
+	<key>crudePriorityTag</key>
+	<string>operationLayerCount</string>
+	<key>groupAsNumber</key>
+	<string>agileAnimationDensity</string>
+	<key>indicatorPatternRight</key>
+	<string>isolateBesideFacade</string>
+	<key>instructionVarMode</key>
+	<string>listenerThanScope</string>
+	<key>resolverNearOperation</key>
+	<string>chartWorkBehavior</string>
+	<key>resolverTemplePosition</key>
+	<string>secondDependencyOrientation</string>
+	<key>tweenDespiteJob</key>
+	<string>compositionAboutTier</string>
+</dict>
+</plist>

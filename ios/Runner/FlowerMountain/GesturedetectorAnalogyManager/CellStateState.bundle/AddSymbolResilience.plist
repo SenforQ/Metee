@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationInterpreterDensity</key>
+	<string>chartNumberFeedback</string>
+	<key>extensionForTier</key>
+	<string>sinkLevelMode</string>
+	<key>fragmentBridgeSize</key>
+	<string>directLossLocation</string>
+	<key>ignoredColumnBound</key>
+	<string>delegatePerJob</string>
+	<key>listenerForBridge</key>
+	<string>loopStateScale</string>
+	<key>providerAroundEnvironment</key>
+	<string>curveAgainstContext</string>
+	<key>singleMobxTransparency</key>
+	<string>materialRichtextSkewy</string>
+</dict>
+</plist>

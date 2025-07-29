@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>liteQueryInterval</key>
+	<string>prevStoreVisibility</string>
+	<key>movementAtType</key>
+	<string>positionBeyondActivity</string>
+	<key>primaryCapacitiesShape</key>
+	<string>criticalCapacitiesOrientation</string>
+	<key>robustContainerBrightness</key>
+	<string>errorModeLeft</string>
+	<key>sceneAndObserver</key>
+	<string>blocValueVisible</string>
+	<key>slashFromComposite</key>
+	<string>accessibleBlocSpeed</string>
+	<key>subscriptionBesideAction</key>
+	<string>documentPlatformDelay</string>
+</dict>
+</plist>

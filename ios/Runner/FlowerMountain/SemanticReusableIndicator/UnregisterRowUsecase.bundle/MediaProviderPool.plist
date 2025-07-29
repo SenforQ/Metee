@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperBufferTransparency</key>
+	<string>tweenAdapterVisibility</string>
+	<key>configurationFromBuffer</key>
+	<string>stackAtContext</string>
+	<key>crudeBufferCenter</key>
+	<string>layoutOperationOpacity</string>
+	<key>diversifiedNavigatorPadding</key>
+	<string>resilientCallbackPadding</string>
+	<key>menuFromValue</key>
+	<string>handlerProcessOpacity</string>
+	<key>statelessDespiteInterpreter</key>
+	<string>resizableUtilDistance</string>
+	<key>swiftShapeBrightness</key>
+	<string>dropdownbuttonDespiteActivity</string>
+	<key>transitionAroundCycle</key>
+	<string>blocWorkState</string>
+</dict>
+</plist>

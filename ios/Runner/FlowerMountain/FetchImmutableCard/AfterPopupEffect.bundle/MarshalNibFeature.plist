@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentReducerKind</key>
+	<string>constActivityRotation</string>
+	<key>gesturedetectorAndValue</key>
+	<string>scaleTierSize</string>
+	<key>pivotalAnchorAlignment</key>
+	<string>completionAsBuffer</string>
+	<key>queryWorkDistance</key>
+	<string>dialogsPerTier</string>
+	<key>statefulProviderFlags</key>
+	<string>interactiveScaffoldSize</string>
+	<key>uniformRequestColor</key>
+	<string>grayscaleActionState</string>
+</dict>
+</plist>

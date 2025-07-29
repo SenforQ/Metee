@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterPhaseVisibility</key>
+	<string>hierarchicalOptimizerAcceleration</string>
+	<key>commandMediatorDensity</key>
+	<string>widgetVersusComposite</string>
+	<key>drawerActionDensity</key>
+	<string>entropyVersusSingleton</string>
+	<key>iconAboutFramework</key>
+	<string>flexWithoutFunction</string>
+	<key>invisibleNodeKind</key>
+	<string>awaitVariableLeft</string>
+	<key>mutableBoxshadowAppearance</key>
+	<string>topicEnvironmentMargin</string>
+	<key>mutableGraphFlags</key>
+	<string>stepPhaseSpacing</string>
+	<key>resilientControllerVisibility</key>
+	<string>factoryExceptParam</string>
+	<key>transitionStateMode</key>
+	<string>inkwellLayerName</string>
+</dict>
+</plist>

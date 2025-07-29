@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateOfDecorator</key>
+	<string>dedicatedMediaMargin</string>
+	<key>materialLogarithmSkewx</key>
+	<string>asynchronousRowAppearance</string>
+	<key>mobileNodeContrast</key>
+	<string>stepAmongStrategy</string>
+	<key>responsiveGrainBehavior</key>
+	<string>typicalFlexVisible</string>
+	<key>tensorOverlayState</key>
+	<string>statelessDecorationPressure</string>
+	<key>textOfPlatform</key>
+	<string>unsortedInterfaceMargin</string>
+	<key>textOfScope</key>
+	<string>streamNearCommand</string>
+	<key>utilAsProcess</key>
+	<string>ephemeralMarginInset</string>
+</dict>
+</plist>

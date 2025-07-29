@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedProgressbarShape</key>
+	<string>contractionNearCommand</string>
+	<key>aspectModeBound</key>
+	<string>queryTaskPressure</string>
+	<key>discardedTransitionBound</key>
+	<string>directGraphIndex</string>
+	<key>euclideanStatefulKind</key>
+	<string>staticHashRate</string>
+	<key>mainBorderDensity</key>
+	<string>firstRectDuration</string>
+	<key>relationalConstraintFrequency</key>
+	<string>certificateNumberStatus</string>
+	<key>resizableEffectFormat</key>
+	<string>remainderTierHead</string>
+	<key>sizeIncludeActivity</key>
+	<string>semanticEqualizationShade</string>
+	<key>storageAtCommand</key>
+	<string>alignmentDuringState</string>
+</dict>
+</plist>

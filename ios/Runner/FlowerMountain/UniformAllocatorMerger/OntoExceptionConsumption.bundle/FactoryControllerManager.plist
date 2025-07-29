@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryStateDelay</key>
+	<string>groupAgainstFacade</string>
+	<key>builderTaskShape</key>
+	<string>roleBridgeVelocity</string>
+	<key>callbackStateDirection</key>
+	<string>curveWithChain</string>
+	<key>chartDecoratorOrigin</key>
+	<string>explicitMatrixPosition</string>
+	<key>elasticButtonDelay</key>
+	<string>statelessResponseOffset</string>
+	<key>menuBesideProxy</key>
+	<string>eventChainFormat</string>
+	<key>missedObserverTransparency</key>
+	<string>scaleAndNumber</string>
+	<key>projectBeyondOperation</key>
+	<string>multiDrawerResponse</string>
+	<key>rectByCommand</key>
+	<string>columnDespiteFlyweight</string>
+</dict>
+</plist>

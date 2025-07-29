@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeStepBottom</key>
+	<string>rowActionAcceleration</string>
+	<key>activityPhaseFeedback</key>
+	<string>localizationNearOperation</string>
+	<key>bufferFrameworkShade</key>
+	<string>imageJobAlignment</string>
+	<key>bufferPatternRight</key>
+	<string>columnPhaseDelay</string>
+	<key>channelUntilTier</key>
+	<string>viewBesideStrategy</string>
+	<key>compositionTierCenter</key>
+	<string>immutableActionInteraction</string>
+	<key>containerLayerFeedback</key>
+	<string>layoutNumberRotation</string>
+	<key>containerTaskHead</key>
+	<string>widgetParamPadding</string>
+	<key>responsiveTitleRotation</key>
+	<string>easyKernelForce</string>
+	<key>staticCallbackBorder</key>
+	<string>timerUntilTask</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonPrototypeOrigin</key>
+	<string>specifyWidgetLocation</string>
+	<key>labelFlyweightAcceleration</key>
+	<string>boxshadowViaComposite</string>
+	<key>menuAsProxy</key>
+	<string>cartesianStoryboardSkewx</string>
+	<key>pivotalMobileState</key>
+	<string>effectWithLayer</string>
+	<key>primaryTabbarLocation</key>
+	<string>composableBufferValidation</string>
+	<key>queryAgainstInterpreter</key>
+	<string>respectiveProtocolContrast</string>
+	<key>sortedManagerPadding</key>
+	<string>grainAwayAction</string>
+</dict>
+</plist>

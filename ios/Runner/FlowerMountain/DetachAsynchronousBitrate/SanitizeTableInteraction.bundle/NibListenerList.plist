@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedColumnResponse</key>
+	<string>integerSingletonContrast</string>
+	<key>tappableLabelStyle</key>
+	<string>anchorFormType</string>
+</dict>
+</plist>

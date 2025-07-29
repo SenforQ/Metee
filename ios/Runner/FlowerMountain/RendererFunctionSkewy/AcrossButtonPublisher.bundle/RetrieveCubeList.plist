@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedFutureValidation</key>
+	<string>dependencyVisitorDuration</string>
+	<key>animationAtSingleton</key>
+	<string>shaderAwayKind</string>
+	<key>blocInsideFlyweight</key>
+	<string>statefulFragmentRotation</string>
+	<key>hardCharacterInterval</key>
+	<string>gestureContainDecorator</string>
+	<key>localizationWorkAlignment</key>
+	<string>resultCommandTail</string>
+	<key>numericalSessionStatus</key>
+	<string>loopStylePadding</string>
+	<key>positionTierCoord</key>
+	<string>routeFlyweightStatus</string>
+	<key>zoneJobTheme</key>
+	<string>tickerContainStrategy</string>
+</dict>
+</plist>

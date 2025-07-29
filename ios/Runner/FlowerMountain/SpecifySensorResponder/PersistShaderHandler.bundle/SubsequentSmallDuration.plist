@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grayscaleModeAcceleration</key>
+	<string>composableQueryShade</string>
+	<key>indicatorInMediator</key>
+	<string>hardActionMomentum</string>
+	<key>queryStagePressure</key>
+	<string>loopForFlyweight</string>
+	<key>usageLayerOpacity</key>
+	<string>shaderShapeShade</string>
+</dict>
+</plist>

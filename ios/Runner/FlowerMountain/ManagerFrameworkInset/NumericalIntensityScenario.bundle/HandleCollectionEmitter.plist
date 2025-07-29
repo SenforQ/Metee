@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncDocumentAcceleration</key>
+	<string>notifierTaskHue</string>
+	<key>multiTabbarStyle</key>
+	<string>permissiveGestureDuration</string>
+	<key>optimizerExceptFacade</key>
+	<string>staticRouteCount</string>
+	<key>storageOrMediator</key>
+	<string>easyHandlerIndex</string>
+</dict>
+</plist>

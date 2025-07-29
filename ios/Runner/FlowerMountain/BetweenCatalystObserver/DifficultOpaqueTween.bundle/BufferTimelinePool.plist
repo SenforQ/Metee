@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateActivityOrientation</key>
+	<string>timerSinceType</string>
+	<key>directlyControllerOrientation</key>
+	<string>overlayInsideBridge</string>
+	<key>frameFrameworkBound</key>
+	<string>extensionAndEnvironment</string>
+	<key>injectionStrategyScale</key>
+	<string>queryActivityFormat</string>
+	<key>layerPrototypeScale</key>
+	<string>commonLayoutPressure</string>
+	<key>logProxyStyle</key>
+	<string>granularCellDensity</string>
+	<key>numericalMediaqueryRate</key>
+	<string>activeQuerySpacing</string>
+	<key>offsetAmongFlyweight</key>
+	<string>operationAwayActivity</string>
+	<key>offsetAwayDecorator</key>
+	<string>requiredLocalizationFlags</string>
+	<key>unaryDuringObserver</key>
+	<string>callbackVariableContrast</string>
+</dict>
+</plist>

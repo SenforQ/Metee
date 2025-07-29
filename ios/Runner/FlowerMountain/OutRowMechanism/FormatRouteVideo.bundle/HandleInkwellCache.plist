@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedPresenterBorder</key>
+	<string>apertureStyleTint</string>
+	<key>autoInstructionRight</key>
+	<string>intuitiveMaterialValidation</string>
+	<key>handlerStructureTop</key>
+	<string>subtleButtonStatus</string>
+	<key>threadIncludeOperation</key>
+	<string>keyMovementVelocity</string>
+</dict>
+</plist>

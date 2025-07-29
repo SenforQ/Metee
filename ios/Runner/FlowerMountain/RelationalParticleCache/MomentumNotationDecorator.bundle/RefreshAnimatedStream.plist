@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitIncludeOperation</key>
+	<string>sliderTypeRate</string>
+	<key>basicDependencyOrigin</key>
+	<string>observerByPhase</string>
+	<key>gesturedetectorWithoutFlyweight</key>
+	<string>topicActivityOrigin</string>
+	<key>sineSinceFunction</key>
+	<string>animationObserverValidation</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleDelegateAlignment</key>
+	<string>semanticsDecoratorDelay</string>
+	<key>promiseAroundDecorator</key>
+	<string>spotModeEdge</string>
+	<key>protocolStructureFlags</key>
+	<string>entropyForChain</string>
+	<key>specifyMethodColor</key>
+	<string>parallelNodeSkewy</string>
+	<key>tickerOutsideContext</key>
+	<string>durationContextPadding</string>
+	<key>viewSystemDelay</key>
+	<string>popupSystemMode</string>
+</dict>
+</plist>

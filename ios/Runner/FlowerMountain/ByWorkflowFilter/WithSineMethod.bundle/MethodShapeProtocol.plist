@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>modelVariablePosition</key>
+	<string>presenterForJob</string>
+	<key>sensorContextVelocity</key>
+	<string>serviceVersusStage</string>
+</dict>
+</plist>

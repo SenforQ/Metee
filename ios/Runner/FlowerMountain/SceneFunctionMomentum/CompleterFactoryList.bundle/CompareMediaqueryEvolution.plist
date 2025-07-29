@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorPhaseDelay</key>
+	<string>asyncChannelAcceleration</string>
+	<key>containerShapeVisibility</key>
+	<string>priorTransitionCoord</string>
+	<key>labelFrameworkBound</key>
+	<string>imageActivityDirection</string>
+	<key>storeActivityDensity</key>
+	<string>oldEffectTag</string>
+	<key>uniqueGridviewContrast</key>
+	<string>scaffoldActivitySpacing</string>
+</dict>
+</plist>

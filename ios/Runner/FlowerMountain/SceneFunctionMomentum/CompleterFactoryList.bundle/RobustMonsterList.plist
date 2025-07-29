@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncEnvironmentTransparency</key>
+	<string>hardNavigationPadding</string>
+	<key>desktopGridScale</key>
+	<string>mutableServiceEdge</string>
+	<key>eagerSpecifierType</key>
+	<string>ephemeralChannelAlignment</string>
+	<key>keyDrawerType</key>
+	<string>requiredAllocatorName</string>
+	<key>labelInProcess</key>
+	<string>dialogsPlatformEdge</string>
+	<key>overlayDespiteMethod</key>
+	<string>basicGraphDelay</string>
+	<key>sizedboxWithStrategy</key>
+	<string>layoutUntilComposite</string>
+	<key>subscriptionActivityStatus</key>
+	<string>specifierChainSkewx</string>
+	<key>temporaryRouterRate</key>
+	<string>indicatorCompositeSpacing</string>
+</dict>
+</plist>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19519"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="MenuView">
+            <connections>
+                <outlet property="randomLabel" destination="lCw-78-6As" id="G8N-AB-vrB"/>
+                <outlet property="straddleButton" destination="aqA-aY-vGz" id="rp7-Uh-o7M"/>
+                <outlet property="methodLabel" destination="9nw-SW-gbh" id="zQZ-4m-RX8"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="Ujv-7A-XEh" hidden="YES">
+            <rect key="frame" x="0.0" y="0.0" width="108.1" height="530.1"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <stackView opaque="NO" contentMode="center" translatesAutoresizingMaskIntoConstraints="NO" id="3bI-cT-WoM" hidden="YES" clipsSubviews="NO" autoresizesSubviews="NO" axis="vertical">
+                    <rect key="frame" x="5" y="12" width="493.6" height="93.8"/>
+                    <subviews>
+                        <label userInteractionEnabled="NO" contentMode="topRight" horizontalHuggingPriority="257" verticalHuggingPriority="176" text="pop same awake small" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9nw-SW-gbh" numberOfLines="9">
+                            <rect key="frame" x="-10.5" y="-8.7" width="154.9" height="93.8"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                            <color key="textColor" red="0.03836894569321679" green="1" blue="1" alpha="0.87823780588391513" colorSpace="custom" customColorSpace="sRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <button contentMode="scaleToFill" horizontalHuggingPriority="1000" verticalHuggingPriority="1000" horizontalCompressionResistancePriority="1000" verticalCompressionResistancePriority="1000" contentHorizontalAlignment="center" contentVerticalAlignment="top" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="aqA-aY-vGz">
+                            <rect key="frame" x="234" y="-8.6" width="292.2" height="93.8"/>
+                            <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                            <state key="normal" title="common end event value data" image="1242-2268">
+                                <color key="titleColor" red="0.03062716174566404" green="1" blue="0.14516818255114297" alpha="0.95798716967097114" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <state key="disabled" title="constraint gift primary" image="1242-2208">
+                                <color key="titleColor" red="0.22398073121029469" green="0.86534487851479969" blue="0.56125117301931618" alpha="0.85214997317738311" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <state key="selected" title="view" image="1242-2268">
+                                <color key="titleColor" red="0.25749574647765983" green="0.7117242934975358" blue="0.73603990469003028" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                        </button>
+                        <label userInteractionEnabled="NO" contentMode="scaleToFill" horizontalCompressionResistancePriority="250" verticalCompressionResistancePriority="250" text="title tip frame next view" textAlignment="justified" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lCw-78-6As" clearsContextBeforeDrawing="NO" autoresizesSubviews="NO" numberOfLines="9">
+                            <rect key="frame" x="158.6" y="-5.9" width="76.6" height="93.8"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                            <color key="textColor" red="0.09317203989309347" green="0.93515387745629319" blue="0.93265319630807805" alpha="0.81012970431616149" colorSpace="custom" customColorSpace="sRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                </stackView>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="8wO-GZ-WmL"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="8wO-GZ-WmL" firstAttribute="trailing" secondItem="3bI-cT-WoM" secondAttribute="trailing" constant="7" id="8lx-NF-yMJ"/>
+                <constraint firstItem="3bI-cT-WoM" firstAttribute="top" secondItem="Ujv-7A-XEh" secondAttribute="top" constant="7" id="OKi-F0-Wmu"/>
+                <constraint firstAttribute="bottom" secondItem="3bI-cT-WoM" secondAttribute="bottom" constant="3" id="4Bn-fP-k8n"/>
+                <constraint firstItem="3bI-cT-WoM" firstAttribute="leading" secondItem="8wO-GZ-WmL" secondAttribute="leading" constant="6" id="sE8-co-O40"/>
+            </constraints>
+            <nil key="simulatedTopBarMetrics"/>
+            <nil key="simulatedBottomBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="137.64198013983121" y="-421.95520888789387"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="1242-2268" width="122.2" height="136.9"/>
+        <image name="1242-2208" width="122.2" height="136.9"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="0.84046885476974567" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

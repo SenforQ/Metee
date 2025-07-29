@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncPerStructure</key>
+	<string>managerStyleState</string>
+	<key>awaitActionStatus</key>
+	<string>explicitModalLeft</string>
+	<key>builderViaAction</key>
+	<string>sizeFlyweightEdge</string>
+	<key>functionalGestureDelay</key>
+	<string>coordinatorTypeDistance</string>
+	<key>mainQueueRate</key>
+	<string>matrixCommandBottom</string>
+	<key>respectiveRouterTop</key>
+	<string>accessibleTaskHue</string>
+	<key>titleSystemShape</key>
+	<string>diffableOperationPosition</string>
+	<key>unaryBeyondChain</key>
+	<string>routeAgainstEnvironment</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonTitleOrigin</key>
+	<string>descriptionWithoutPlatform</string>
+	<key>constQueryLeft</key>
+	<string>concurrentOperationInterval</string>
+	<key>globalModulusPadding</key>
+	<string>temporaryProviderBorder</string>
+	<key>handlerActionSaturation</key>
+	<string>sessionStrategyMargin</string>
+	<key>painterScopeFeedback</key>
+	<string>prevSpineFlags</string>
+	<key>positionStageColor</key>
+	<string>timerBesideAdapter</string>
+	<key>protectedThreadOpacity</key>
+	<string>disparateRouteHue</string>
+	<key>queryLayerBorder</key>
+	<string>projectionParamOpacity</string>
+	<key>textureForParameter</key>
+	<string>textureCommandAcceleration</string>
+</dict>
+</plist>

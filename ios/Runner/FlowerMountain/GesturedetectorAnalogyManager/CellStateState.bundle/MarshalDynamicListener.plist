@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationPhaseBehavior</key>
+	<string>scrollPatternScale</string>
+	<key>giftActivityOrientation</key>
+	<string>metadataAroundForm</string>
+	<key>imperativeInstructionBound</key>
+	<string>usedCompositionValidation</string>
+	<key>materialThemeDirection</key>
+	<string>similarHeroVisibility</string>
+	<key>nodeContextVisibility</key>
+	<string>variantValueDepth</string>
+	<key>taskAndPrototype</key>
+	<string>unaryBesideChain</string>
+	<key>webInstructionTail</key>
+	<string>mobxFacadeValidation</string>
+	<key>workflowUntilBridge</key>
+	<string>spriteSystemSpacing</string>
+</dict>
+</plist>

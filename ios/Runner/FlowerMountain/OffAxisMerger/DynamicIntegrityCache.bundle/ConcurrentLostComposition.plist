@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferTaskInteraction</key>
+	<string>configurationTaskCenter</string>
+	<key>channelsTaskMargin</key>
+	<string>viewExceptContext</string>
+	<key>fragmentViaParameter</key>
+	<string>sceneFromVisitor</string>
+	<key>independentErrorDepth</key>
+	<string>singletonStateIndex</string>
+	<key>scaffoldSinceProcess</key>
+	<string>futureFromContext</string>
+	<key>staticConstraintCoord</key>
+	<string>columnObserverEdge</string>
+	<key>staticTaskOffset</key>
+	<string>symbolAgainstInterpreter</string>
+	<key>viewFlyweightSaturation</key>
+	<string>mediaVisitorIndex</string>
+</dict>
+</plist>

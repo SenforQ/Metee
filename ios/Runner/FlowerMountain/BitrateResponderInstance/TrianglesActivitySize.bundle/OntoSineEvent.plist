@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedScaleInset</key>
+	<string>handlerExceptTask</string>
+	<key>gridviewNearComposite</key>
+	<string>persistentTickerBound</string>
+	<key>immutableStoryboardTransparency</key>
+	<string>tickerOperationAppearance</string>
+	<key>richtextChainKind</key>
+	<string>layoutActionVelocity</string>
+	<key>rowAlongForm</key>
+	<string>batchInFlyweight</string>
+	<key>rowByBridge</key>
+	<string>denseRoleScale</string>
+	<key>shaderBridgeSize</key>
+	<string>sinkAsKind</string>
+	<key>widgetActionForce</key>
+	<string>mediaAsSingleton</string>
+</dict>
+</plist>

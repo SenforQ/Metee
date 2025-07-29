@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoLayoutCenter</key>
+	<string>roleInNumber</string>
+	<key>intermediateCurveBehavior</key>
+	<string>anchorContainComposite</string>
+	<key>nibIncludeLevel</key>
+	<string>observerViaSingleton</string>
+	<key>repositoryAtParam</key>
+	<string>profileAmongVisitor</string>
+	<key>sizeLevelSkewy</key>
+	<string>transformerForComposite</string>
+	<key>symbolAsState</key>
+	<string>isolateLayerForce</string>
+	<key>uniformMediaqueryAcceleration</key>
+	<string>resilientServiceRotation</string>
+	<key>vectorNearTier</key>
+	<string>geometricMapOffset</string>
+</dict>
+</plist>

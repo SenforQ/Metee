@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineWithoutVariable</key>
+	<string>sessionContextInteraction</string>
+	<key>blocWithoutParameter</key>
+	<string>ignoredEffectTint</string>
+	<key>containerProcessTint</key>
+	<string>scaffoldVariableSpacing</string>
+	<key>customUtilSpeed</key>
+	<string>blocEnvironmentName</string>
+	<key>enabledPetDuration</key>
+	<string>fragmentThanChain</string>
+	<key>frameStructureOffset</key>
+	<string>rapidCubitTop</string>
+	<key>persistentStepHue</key>
+	<string>stampIncludeObserver</string>
+	<key>singleBlocVelocity</key>
+	<string>reusableTimerVisible</string>
+	<key>singletonCompositeIndex</key>
+	<string>firstNibCount</string>
+</dict>
+</plist>

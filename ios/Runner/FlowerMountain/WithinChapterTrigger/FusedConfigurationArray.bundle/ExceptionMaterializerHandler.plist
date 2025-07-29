@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandVariableBound</key>
+	<string>entropyInBuffer</string>
+	<key>cupertinoViewMode</key>
+	<string>cubeShapeTag</string>
+	<key>exceptionUntilMode</key>
+	<string>certificateBufferIndex</string>
+	<key>gridIncludePhase</key>
+	<string>intuitiveTextRate</string>
+	<key>interactorOutsideAction</key>
+	<string>positionFromObserver</string>
+	<key>missionFunctionOrientation</key>
+	<string>rectTaskScale</string>
+</dict>
+</plist>

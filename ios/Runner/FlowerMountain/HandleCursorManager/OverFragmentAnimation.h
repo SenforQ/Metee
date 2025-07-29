@@ -1,0 +1,19 @@
+#import "DeclarativeEffectProtocol.h"
+#import "RectContrastHandler.h"
+#import "AboveCubePager.h"
+
+#import <UIKit/UIKit.h>
+
+NS_ASSUME_NONNULL_BEGIN
+
+@interface OverFragmentAnimation : NSObject
+
+
+- (void) rebuildSineBeyondRow;
+
+- (void) takeSharedChartStyle;
+
+@end
+
+NS_ASSUME_NONNULL_END
+        

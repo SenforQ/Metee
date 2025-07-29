@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistFromEnvironment</key>
+	<string>containerCycleAcceleration</string>
+	<key>commandJobSaturation</key>
+	<string>coordinatorBridgeDensity</string>
+	<key>compositionalGrainFormat</key>
+	<string>autoGridBorder</string>
+	<key>reusableResourceSkewy</key>
+	<string>effectWithType</string>
+	<key>singleProtocolAppearance</key>
+	<string>dedicatedCursorInteraction</string>
+	<key>stateDuringForm</key>
+	<string>loopPerPlatform</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledContainerFrequency</key>
+	<string>allocatorDuringTask</string>
+	<key>isolateScopeTension</key>
+	<string>observerEnvironmentAppearance</string>
+	<key>sinkVersusValue</key>
+	<string>labelLevelValidation</string>
+</dict>
+</plist>

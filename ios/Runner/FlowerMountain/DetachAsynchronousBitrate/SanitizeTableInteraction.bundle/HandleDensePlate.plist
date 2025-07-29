@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderVersusSingleton</key>
+	<string>rowInsideSystem</string>
+	<key>criticalVariantSkewy</key>
+	<string>fusedCardBrightness</string>
+	<key>dropdownbuttonCompositeAppearance</key>
+	<string>accordionChecklistBrightness</string>
+	<key>functionalExceptionBound</key>
+	<string>responseAsStyle</string>
+	<key>subscriptionProcessVisible</key>
+	<string>factoryBridgeOpacity</string>
+</dict>
+</plist>

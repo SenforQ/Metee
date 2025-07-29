@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchFlyweightInterval</key>
+	<string>batchSinceTask</string>
+	<key>brushAdapterShade</key>
+	<string>smartChapterAlignment</string>
+	<key>operationAtLevel</key>
+	<string>queryLikeChain</string>
+	<key>queueForStage</key>
+	<string>synchronousFutureResponse</string>
+	<key>standaloneMenuAcceleration</key>
+	<string>capsuleBridgeTension</string>
+</dict>
+</plist>

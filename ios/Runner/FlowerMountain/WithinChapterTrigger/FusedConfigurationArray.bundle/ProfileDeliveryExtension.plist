@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionAgainstParameter</key>
+	<string>metadataOutsideInterpreter</string>
+	<key>cubitOperationSkewx</key>
+	<string>diffableCubitVelocity</string>
+	<key>delicateChannelBorder</key>
+	<string>elasticResultTail</string>
+	<key>firstCubitMode</key>
+	<string>usecaseOperationSkewy</string>
+	<key>fragmentStateOffset</key>
+	<string>dynamicSessionPressure</string>
+	<key>metadataStructureSpacing</key>
+	<string>stateAndWork</string>
+	<key>notifierVersusBuffer</key>
+	<string>statefulInteractorVisibility</string>
+	<key>subtleStatefulTheme</key>
+	<string>agileStampDelay</string>
+</dict>
+</plist>

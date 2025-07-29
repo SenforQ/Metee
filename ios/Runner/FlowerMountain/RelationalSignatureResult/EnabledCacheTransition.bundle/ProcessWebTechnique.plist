@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateTempleTag</key>
+	<string>captionAndNumber</string>
+	<key>labelJobCenter</key>
+	<string>bulletSystemName</string>
+	<key>responsiveTransitionDistance</key>
+	<string>lastUnaryFlags</string>
+	<key>screenWithoutStrategy</key>
+	<string>masterThroughPlatform</string>
+	<key>secondCurveScale</key>
+	<string>parallelOverlayScale</string>
+	<key>topicProxyRate</key>
+	<string>synchronousDurationDelay</string>
+</dict>
+</plist>

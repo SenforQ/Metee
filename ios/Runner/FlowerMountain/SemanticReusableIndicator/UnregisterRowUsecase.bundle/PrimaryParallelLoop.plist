@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousVectorShade</key>
+	<string>activityInContext</string>
+	<key>cellDespiteWork</key>
+	<string>nextCycleRight</string>
+	<key>directMediaqueryTransparency</key>
+	<string>textureInPattern</string>
+	<key>discardedCurveAcceleration</key>
+	<string>baselineOfStyle</string>
+	<key>dynamicModulusSpacing</key>
+	<string>chartBridgeDensity</string>
+	<key>robustGraphRotation</key>
+	<string>spotAboutProxy</string>
+	<key>singletonMethodAppearance</key>
+	<string>smallAspectScale</string>
+	<key>specifierInJob</key>
+	<string>reactiveVectorFormat</string>
+	<key>toolShapeHue</key>
+	<string>certificateInterpreterMargin</string>
+</dict>
+</plist>

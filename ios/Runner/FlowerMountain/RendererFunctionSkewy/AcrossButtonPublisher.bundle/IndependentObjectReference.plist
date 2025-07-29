@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorViaAction</key>
+	<string>alignmentTierDensity</string>
+	<key>managerActionVisible</key>
+	<string>ephemeralLayerStatus</string>
+	<key>scaffoldProxyBrightness</key>
+	<string>draggableLayerSpacing</string>
+	<key>tensorRouteSize</key>
+	<string>crudeContainerDelay</string>
+</dict>
+</plist>

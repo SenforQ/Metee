@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioExceptValue</key>
+	<string>responsiveTextfieldInteraction</string>
+	<key>customizedToolColor</key>
+	<string>slashOperationColor</string>
+	<key>fixedCosineFrequency</key>
+	<string>draggableProfileBorder</string>
+	<key>histogramCompositeCoord</key>
+	<string>euclideanMusicAcceleration</string>
+	<key>notifierWithLevel</key>
+	<string>immediateApertureFrequency</string>
+	<key>positionedTypeEdge</key>
+	<string>constraintAboutFlyweight</string>
+	<key>radioOfSystem</key>
+	<string>asyncAllocatorTail</string>
+	<key>viewContainStage</key>
+	<string>gemAlongMethod</string>
+</dict>
+</plist>

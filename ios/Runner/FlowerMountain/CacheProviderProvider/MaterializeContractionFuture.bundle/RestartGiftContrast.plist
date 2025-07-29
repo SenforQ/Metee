@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationWorkFlags</key>
+	<string>buttonThroughEnvironment</string>
+	<key>containerCycleTheme</key>
+	<string>sortedResolverSkewy</string>
+	<key>documentViaAdapter</key>
+	<string>configurationInCommand</string>
+	<key>instructionFromFramework</key>
+	<string>displayableStatelessType</string>
+	<key>mobxActivityInterval</key>
+	<string>storageFromBridge</string>
+	<key>resizableThreadOrientation</key>
+	<string>graphicThroughEnvironment</string>
+	<key>serviceSinceFlyweight</key>
+	<string>requestAlongStrategy</string>
+	<key>storeTierCount</key>
+	<string>layoutVersusComposite</string>
+</dict>
+</plist>

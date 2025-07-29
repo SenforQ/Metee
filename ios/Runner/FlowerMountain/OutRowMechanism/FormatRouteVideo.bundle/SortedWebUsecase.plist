@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>heapFrameworkStyle</key>
+	<string>primaryScreenDensity</string>
+	<key>queryWithBridge</key>
+	<string>asyncVarStatus</string>
+	<key>sceneOutsideEnvironment</key>
+	<string>bufferActivityBrightness</string>
+	<key>textfieldShapeCount</key>
+	<string>resolverIncludePlatform</string>
+</dict>
+</plist>

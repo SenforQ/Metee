@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeGraphOpacity</key>
+	<string>scaffoldPerFacade</string>
+	<key>interfaceAlongAdapter</key>
+	<string>playbackWithObserver</string>
+	<key>lazyColumnBorder</key>
+	<string>decorationScopeSkewx</string>
+	<key>presenterJobDensity</key>
+	<string>liteBinaryInteraction</string>
+	<key>repositoryFunctionDistance</key>
+	<string>curveFrameworkMargin</string>
+</dict>
+</plist>

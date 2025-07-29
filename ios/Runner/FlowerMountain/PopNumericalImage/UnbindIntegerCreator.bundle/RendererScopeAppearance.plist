@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerAroundNumber</key>
+	<string>lastResourceLocation</string>
+	<key>customizedWorkflowVisibility</key>
+	<string>alignmentByProxy</string>
+	<key>exceptionStyleVelocity</key>
+	<string>hierarchicalAnchorDuration</string>
+	<key>finalDescriptionAlignment</key>
+	<string>resolverFlyweightSpeed</string>
+	<key>mutableLayoutOrientation</key>
+	<string>subtleCompletionValidation</string>
+	<key>numericalReducerForce</key>
+	<string>titleVersusSingleton</string>
+	<key>retainedPromiseShade</key>
+	<string>difficultMenuName</string>
+	<key>techniqueFacadeTint</key>
+	<string>frameMethodTheme</string>
+	<key>uniformTextureForce</key>
+	<string>effectUntilType</string>
+</dict>
+</plist>

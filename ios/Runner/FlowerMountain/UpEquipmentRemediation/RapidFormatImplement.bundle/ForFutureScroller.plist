@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentByChain</key>
+	<string>fixedAxisSize</string>
+	<key>gridInPrototype</key>
+	<string>mobileTickerName</string>
+	<key>gridScopeSkewy</key>
+	<string>widgetAroundScope</string>
+	<key>reactiveRadiusDelay</key>
+	<string>routeUntilMemento</string>
+	<key>semanticMetadataCoord</key>
+	<string>cellTempleSaturation</string>
+	<key>shaderMementoTop</key>
+	<string>tabviewStateOrigin</string>
+	<key>subtleInkwellVisibility</key>
+	<string>activatedAnimationBottom</string>
+	<key>sustainableLayerTop</key>
+	<string>viewPatternBottom</string>
+	<key>usecaseOrBuffer</key>
+	<string>labelOutsideLevel</string>
+</dict>
+</plist>

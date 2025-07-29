@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintAsSystem</key>
+	<string>containerStructureHead</string>
+	<key>directlyStateRight</key>
+	<string>dropdownbuttonCommandHead</string>
+	<key>futureInsideStructure</key>
+	<string>positionDecoratorBound</string>
+	<key>globalSliderInset</key>
+	<string>imperativeTweenVisible</string>
+	<key>interactiveDecorationRotation</key>
+	<string>custompaintExceptDecorator</string>
+	<key>positionThanKind</key>
+	<string>projectBridgeLeft</string>
+	<key>stackProxyName</key>
+	<string>activatedConstraintVelocity</string>
+	<key>tickerThanLayer</key>
+	<string>asyncFrameworkForce</string>
+</dict>
+</plist>

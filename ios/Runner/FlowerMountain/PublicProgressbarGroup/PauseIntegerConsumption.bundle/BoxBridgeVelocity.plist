@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesJobDensity</key>
+	<string>cartesianRowTint</string>
+	<key>flexiblePlateFlags</key>
+	<string>effectContextDelay</string>
+	<key>hardQueueInteraction</key>
+	<string>errorBridgePressure</string>
+	<key>menuJobSpeed</key>
+	<string>documentContainWork</string>
+	<key>pageviewBridgeDelay</key>
+	<string>durationVariableCoord</string>
+	<key>primaryStepTint</key>
+	<string>smallDocumentPressure</string>
+	<key>singletonProxyOpacity</key>
+	<string>observerBufferScale</string>
+	<key>statefulStrategyOpacity</key>
+	<string>customizedAsyncAcceleration</string>
+	<key>subtleReducerOrigin</key>
+	<string>tableFunctionScale</string>
+</dict>
+</plist>

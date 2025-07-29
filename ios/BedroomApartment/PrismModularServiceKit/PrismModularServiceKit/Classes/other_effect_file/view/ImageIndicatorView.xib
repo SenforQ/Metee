@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19519"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="ImageIndicatorView">
+            <connections>
+                <outlet property="nameImageView" destination="lKA-A4-n1d" id="AS5-Vi-5tt"/>
+                <outlet property="fileImageView" destination="c6s-25-COn" id="S4r-cN-qpl"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="mWA-DR-Bec">
+            <rect key="frame" x="0.0" y="0.0" width="349.4" height="112.8"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="100" verticalHuggingPriority="100" horizontalCompressionResistancePriority="100" verticalCompressionResistancePriority="100" image="1242-2268" highlightedImage="1242-2268" translatesAutoresizingMaskIntoConstraints="NO" id="ffo-OH-r8o" autoresizesSubviews="NO">
+                    <rect key="frame" x="253" y="11" width="49.0" height="102.3"/>
+                </imageView>
+                <imageView clipsSubviews="NO" userInteractionEnabled="NO" contentMode="top" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="1242-2268" highlightedImage="1242-2268" translatesAutoresizingMaskIntoConstraints="NO" id="c6s-25-COn" opaque="NO" hidden="YES">
+                    <rect key="frame" x="8" y="-3" width="132.8" height="102.3"/>
+                </imageView>
+                <imageView userInteractionEnabled="NO" contentMode="redraw" horizontalCompressionResistancePriority="250" verticalCompressionResistancePriority="250" image="1242-2208" highlightedImage="1242-2208" translatesAutoresizingMaskIntoConstraints="NO" id="lKA-A4-n1d">
+                    <rect key="frame" x="135" y="8" width="132.8" height="102.3"/>
+                </imageView>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="Cxo-oV-xrg"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="ffo-OH-r8o" firstAttribute="leading" secondItem="lKA-A4-n1d" secondAttribute="trailing" constant="3" id="8c2-4D-eik"/>
+                <constraint firstAttribute="bottom" secondItem="ffo-OH-r8o" secondAttribute="bottom" constant="4" id="S0Y-lJ-1EW"/>
+                <constraint firstItem="c6s-25-COn" firstAttribute="leading" secondItem="ffo-OH-r8o" secondAttribute="trailing" constant="1" id="qEJ-ds-Jmw"/>
+                <constraint firstItem="c6s-25-COn" firstAttribute="top" secondItem="mWA-DR-Bec" secondAttribute="top" constant="5" id="rhC-CC-UFn"/>
+                <constraint firstAttribute="bottom" secondItem="lKA-A4-n1d" secondAttribute="bottom" constant="7" id="Uey-hD-FNZ"/>
+                <constraint firstItem="lKA-A4-n1d" firstAttribute="top" secondItem="mWA-DR-Bec" secondAttribute="top" constant="5" id="Qwk-D0-v83"/>
+                <constraint firstAttribute="bottom" secondItem="c6s-25-COn" secondAttribute="bottom" constant="7" id="4HR-zF-STj"/>
+                <constraint firstItem="ffo-OH-r8o" firstAttribute="top" secondItem="mWA-DR-Bec" secondAttribute="top" constant="5" id="vr9-5T-xqX"/>
+                <constraint firstItem="lKA-A4-n1d" firstAttribute="leading" secondItem="Cxo-oV-xrg" secondAttribute="leading" constant="4" id="iDU-Tw-Lr8"/>
+                <constraint firstItem="Cxo-oV-xrg" firstAttribute="trailing" secondItem="c6s-25-COn" secondAttribute="trailing" constant="2" id="jUR-tB-I6b"/>
+            </constraints>
+            <nil key="simulatedTopBarMetrics"/>
+            <nil key="simulatedBottomBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="49.725789399844670" y="-198.13517922780807"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="1242-2268" width="111.5" height="116.6"/>
+        <image name="1242-2208" width="111.5" height="116.6"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

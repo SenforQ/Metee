@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackStrategyVisibility</key>
+	<string>boxViaStyle</string>
+	<key>gridAndComposite</key>
+	<string>themeMediatorOpacity</string>
+	<key>hierarchicalButtonForce</key>
+	<string>sustainableTransitionAppearance</string>
+	<key>mobxScopeAcceleration</key>
+	<string>animationAdapterCenter</string>
+	<key>nativeCapacitiesValidation</key>
+	<string>denseRemainderSpeed</string>
+	<key>observerBesideContext</key>
+	<string>signaturePrototypeInset</string>
+	<key>permissivePositionedDuration</key>
+	<string>normalFrameInteraction</string>
+	<key>spriteLevelDepth</key>
+	<string>reducerBesideStyle</string>
+</dict>
+</plist>

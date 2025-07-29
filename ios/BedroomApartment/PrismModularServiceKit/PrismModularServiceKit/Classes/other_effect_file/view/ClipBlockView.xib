@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19519"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="ClipBlockView">
+            <connections>
+                <outlet property="tableImageView" destination="3ew-dR-dRb" id="8fs-hW-NP9"/>
+                <outlet property="bottomCurrencyButton" destination="dqd-Uc-PmR" id="W8L-wH-iSt"/>
+                <outlet property="showImageView" destination="1tq-1U-qy2" id="Peg-5Q-SvK"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="jmt-wK-rTJ">
+            <rect key="frame" x="0.0" y="0.0" width="194.6" height="337.5"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" horizontalCompressionResistancePriority="251" verticalCompressionResistancePriority="251" image="1242-2208" highlightedImage="1242-2208" translatesAutoresizingMaskIntoConstraints="NO" id="1tq-1U-qy2" opaque="NO" hidden="YES">
+                    <rect key="frame" x="0" y="-2" width="160.6" height="129.9"/>
+                </imageView>
+                <imageView clipsSubviews="NO" userInteractionEnabled="NO" contentMode="bottomLeft" horizontalCompressionResistancePriority="250" verticalCompressionResistancePriority="250" image="1242-2208" highlightedImage="1242-2208" translatesAutoresizingMaskIntoConstraints="NO" id="3ew-dR-dRb" highlighted="YES">
+                    <rect key="frame" x="1" y="125" width="160.6" height="100.4"/>
+                </imageView>
+                <button contentMode="scaleToFill" horizontalHuggingPriority="1000" verticalHuggingPriority="1000" horizontalCompressionResistancePriority="1000" verticalCompressionResistancePriority="1000" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dqd-Uc-PmR">
+                    <rect key="frame" x="0" y="247" width="160.6" height="62.0"/>
+                    <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                    <state key="normal" title="effect frame" image="1242-2208">
+                        <color key="titleColor" red="0.06373199798346672" green="0.84981157562648874" blue="0.09187551002774952" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="selected" title="row push appear" image="1242-2268">
+                        <color key="titleColor" red="0.394796696" green="0.83161484770000005" blue="0.75892637900000004" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="highlighted" title="time input status allow" image="1242-2208">
+                        <color key="titleColor" red="0.0586453762300073" green="0.81317548728779532" blue="0.2412639870608162" alpha="0.92317248917437604" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                </button>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="0JN-Hv-DBK"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="1tq-1U-qy2" firstAttribute="leading" secondItem="0JN-Hv-DBK" secondAttribute="leading" constant="5" id="xW3-WM-4BY"/>
+                <constraint firstItem="dqd-Uc-PmR" firstAttribute="leading" secondItem="jmt-wK-rTJ" secondAttribute="leading" constant="8" id="PGM-8P-g71"/>
+                <constraint firstAttribute="trailing" secondItem="dqd-Uc-PmR" secondAttribute="trailing" constant="7" id="Nd9-kb-VXT"/>
+                <constraint firstItem="0JN-Hv-DBK" firstAttribute="trailing" secondItem="1tq-1U-qy2" secondAttribute="trailing" constant="4" id="CUG-ER-Vuj"/>
+                <constraint firstItem="3ew-dR-dRb" firstAttribute="leading" secondItem="0JN-Hv-DBK" secondAttribute="leading" constant="6" id="O5p-kz-Cgb"/>
+                <constraint firstItem="0JN-Hv-DBK" firstAttribute="bottom" secondItem="dqd-Uc-PmR" secondAttribute="bottom" constant="4" id="vVE-jC-DU2"/>
+                <constraint firstItem="1tq-1U-qy2" firstAttribute="top" secondItem="3ew-dR-dRb" secondAttribute="bottom" constant="6" id="3Ny-CC-Ubs"/>
+                <constraint firstItem="3ew-dR-dRb" firstAttribute="top" secondItem="jmt-wK-rTJ" secondAttribute="top" constant="2" id="FAz-Tr-eL3"/>
+                <constraint firstItem="0JN-Hv-DBK" firstAttribute="trailing" secondItem="3ew-dR-dRb" secondAttribute="trailing" constant="7" id="vrZ-fW-hUS"/>
+                <constraint firstItem="dqd-Uc-PmR" firstAttribute="top" secondItem="1tq-1U-qy2" secondAttribute="bottom" constant="2" id="K4V-gE-eJz"/>
+            </constraints>
+            <nil key="simulatedTopBarMetrics"/>
+            <nil key="simulatedBottomBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="-39.757791492947799" y="-131.27300706058005"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="1242-2208" width="113.2" height="108.2"/>
+        <image name="1242-2268" width="61.2" height="53.5"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="0.9093781425146389" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

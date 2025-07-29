@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoDelegateRotation</key>
+	<string>scrollableGraphSaturation</string>
+	<key>explicitEquipmentType</key>
+	<string>techniqueViaSystem</string>
+	<key>materialTransitionColor</key>
+	<string>integerTypeContrast</string>
+	<key>requestFromPhase</key>
+	<string>standaloneProgressbarDepth</string>
+</dict>
+</plist>

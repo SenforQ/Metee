@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyScreenFrequency</key>
+	<string>metadataObserverVisibility</string>
+	<key>indicatorAwayCycle</key>
+	<string>observerWorkPressure</string>
+	<key>intuitiveOffsetBottom</key>
+	<string>liteProgressbarMargin</string>
+	<key>labelForParam</key>
+	<string>blocParameterVelocity</string>
+	<key>nativePointSaturation</key>
+	<string>publicAsyncRate</string>
+	<key>repositoryForPattern</key>
+	<string>factoryBufferOrigin</string>
+	<key>seamlessShaderMomentum</key>
+	<string>mediocreContainerTension</string>
+	<key>storeValueShape</key>
+	<string>positionNearVisitor</string>
+</dict>
+</plist>

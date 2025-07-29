@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gemThanFramework</key>
+	<string>storyboardNearPlatform</string>
+	<key>notificationIncludeProxy</key>
+	<string>tabbarCompositeRotation</string>
+	<key>sceneBridgeStatus</key>
+	<string>rectEnvironmentTint</string>
+	<key>tabbarVisitorPressure</key>
+	<string>commandVarRate</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>queryInsideContext</key>
+	<string>compositionalBatchAcceleration</string>
+	<key>threadAlongProxy</key>
+	<string>directSampleSize</string>
+	<key>transformerSinceComposite</key>
+	<string>zoneViaFramework</string>
+</dict>
+</plist>

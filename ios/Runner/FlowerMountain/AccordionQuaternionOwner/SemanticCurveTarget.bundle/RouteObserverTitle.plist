@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoUtilInset</key>
+	<string>labelModeDensity</string>
+	<key>currentServiceAppearance</key>
+	<string>inkwellIncludeStructure</string>
+	<key>descriptorKindOrientation</key>
+	<string>granularSwiftRight</string>
+	<key>gridBesideCycle</key>
+	<string>operationFromContext</string>
+	<key>interactorVersusPhase</key>
+	<string>notifierFunctionBorder</string>
+</dict>
+</plist>

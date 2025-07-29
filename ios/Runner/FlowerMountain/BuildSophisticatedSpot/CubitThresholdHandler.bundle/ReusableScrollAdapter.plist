@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateActivityResponse</key>
+	<string>responseNearFacade</string>
+	<key>displayableQueryDensity</key>
+	<string>standaloneAlignmentOrientation</string>
+	<key>heapStageSkewx</key>
+	<string>utilVariableAppearance</string>
+	<key>iconSinceSingleton</key>
+	<string>optionPlatformType</string>
+	<key>priorityVisitorSpeed</key>
+	<string>checkboxPerJob</string>
+	<key>sceneForShape</key>
+	<string>rectEnvironmentHead</string>
+</dict>
+</plist>

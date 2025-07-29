@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateLevelAcceleration</key>
+	<string>capacitiesVersusForm</string>
+	<key>loopCompositeMode</key>
+	<string>arithmeticCanvasTop</string>
+	<key>metadataFromDecorator</key>
+	<string>disabledListenerAppearance</string>
+	<key>nextLayoutHead</key>
+	<string>basicTextureValidation</string>
+	<key>pageviewObserverRotation</key>
+	<string>arithmeticTypeBorder</string>
+	<key>presenterMediatorKind</key>
+	<string>mediaqueryFormStatus</string>
+	<key>progressbarContainFramework</key>
+	<string>materialLikeInterpreter</string>
+	<key>smallPreviewOrigin</key>
+	<string>scaleContainScope</string>
+	<key>staticChallengeMomentum</key>
+	<string>normPhaseLocation</string>
+</dict>
+</plist>

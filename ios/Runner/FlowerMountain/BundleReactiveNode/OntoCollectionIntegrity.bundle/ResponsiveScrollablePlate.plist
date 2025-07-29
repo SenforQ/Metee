@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioCycleFlags</key>
+	<string>pointThanFunction</string>
+	<key>cursorWorkState</key>
+	<string>interactorWithoutVariable</string>
+	<key>exceptionUntilLevel</key>
+	<string>checklistCompositeFeedback</string>
+	<key>operationOrChain</key>
+	<string>assetUntilBuffer</string>
+	<key>tabviewWithoutVisitor</key>
+	<string>errorThanFunction</string>
+</dict>
+</plist>

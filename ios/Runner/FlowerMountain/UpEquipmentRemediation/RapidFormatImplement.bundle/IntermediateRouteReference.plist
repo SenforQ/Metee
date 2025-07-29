@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaStyleSpacing</key>
+	<string>transitionLayerStyle</string>
+	<key>baselineProxyDelay</key>
+	<string>functionalPageviewRotation</string>
+	<key>binaryChainVelocity</key>
+	<string>animationChainDepth</string>
+	<key>currentBatchFeedback</key>
+	<string>tableCommandForce</string>
+	<key>listenerEnvironmentSaturation</key>
+	<string>scrollableGraphOrientation</string>
+	<key>priorityAlongMediator</key>
+	<string>diversifiedOffsetBorder</string>
+	<key>resourceFromTask</key>
+	<string>builderFlyweightRight</string>
+	<key>scrollableGroupPosition</key>
+	<string>stampVariableShape</string>
+	<key>stateUntilMemento</key>
+	<string>taskValueForce</string>
+</dict>
+</plist>

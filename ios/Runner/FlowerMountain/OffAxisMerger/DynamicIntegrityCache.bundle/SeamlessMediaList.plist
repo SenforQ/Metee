@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedCacheBrightness</key>
+	<string>scrollInterpreterHead</string>
+	<key>checkboxAgainstContext</key>
+	<string>uniformViewColor</string>
+	<key>streamStrategyPadding</key>
+	<string>firstTitleBorder</string>
+	<key>ternaryModeShape</key>
+	<string>hierarchicalNormRate</string>
+	<key>titleLikeMethod</key>
+	<string>labelFromDecorator</string>
+	<key>viewWithoutStructure</key>
+	<string>visibleQueueDirection</string>
+</dict>
+</plist>

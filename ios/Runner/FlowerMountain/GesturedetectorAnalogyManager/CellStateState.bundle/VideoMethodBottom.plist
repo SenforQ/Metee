@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardThroughFunction</key>
+	<string>advancedFragmentAlignment</string>
+	<key>commandBufferIndex</key>
+	<string>scrollableConfigurationTop</string>
+	<key>factoryPrototypeForce</key>
+	<string>storyboardPlatformDelay</string>
+	<key>resourceProxyDepth</key>
+	<string>boxModeMargin</string>
+	<key>slashExceptSingleton</key>
+	<string>particlePatternTint</string>
+	<key>tappableConstraintLeft</key>
+	<string>animationChainCoord</string>
+	<key>tappableOverlayLeft</key>
+	<string>graphicAboutParameter</string>
+	<key>textKindColor</key>
+	<string>explicitSwiftDelay</string>
+</dict>
+</plist>

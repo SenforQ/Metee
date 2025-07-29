@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineSingletonPadding</key>
+	<string>providerWithoutMediator</string>
+	<key>commonInjectionFlags</key>
+	<string>commandDespiteActivity</string>
+	<key>delicateFutureFeedback</key>
+	<string>sineVarName</string>
+	<key>layoutAtVisitor</key>
+	<string>usedGestureCoord</string>
+	<key>opaqueCubeCoord</key>
+	<string>activityWithoutStructure</string>
+	<key>retainedDurationPressure</key>
+	<string>normalAlignmentOrientation</string>
+	<key>roleSingletonSize</key>
+	<string>labelContextCount</string>
+	<key>serviceBridgePosition</key>
+	<string>composableSubscriptionBound</string>
+</dict>
+</plist>

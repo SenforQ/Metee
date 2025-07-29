@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisAlongStructure</key>
+	<string>specifyRectDirection</string>
+	<key>finalBrushSize</key>
+	<string>activatedRouterDistance</string>
+	<key>injectionKindDelay</key>
+	<string>resilientTransitionVelocity</string>
+	<key>pivotalRadiusInteraction</key>
+	<string>prevPositionBehavior</string>
+	<key>requestLevelPadding</key>
+	<string>inkwellWithoutNumber</string>
+	<key>specifierBeyondActivity</key>
+	<string>musicAroundMediator</string>
+</dict>
+</plist>

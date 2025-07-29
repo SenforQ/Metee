@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartAsSingleton</key>
+	<string>reactiveGraphTag</string>
+	<key>injectionThroughVisitor</key>
+	<string>navigationBesideStructure</string>
+	<key>matrixStyleDelay</key>
+	<string>notificationFromLayer</string>
+	<key>progressbarAtKind</key>
+	<string>desktopTickerMode</string>
+	<key>protocolSinceBridge</key>
+	<string>consumerDecoratorHue</string>
+	<key>sceneKindDuration</key>
+	<string>resultCommandSpeed</string>
+	<key>sharedAsyncFrequency</key>
+	<string>sliderDespiteValue</string>
+	<key>streamBesidePrototype</key>
+	<string>secondMovementDepth</string>
+	<key>temporaryCoordinatorFlags</key>
+	<string>grainAndTier</string>
+</dict>
+</plist>

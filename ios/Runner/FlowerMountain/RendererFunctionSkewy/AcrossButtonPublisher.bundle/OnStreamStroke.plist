@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledCollectionDuration</key>
+	<string>basePerProxy</string>
+	<key>dynamicProtocolVisibility</key>
+	<string>capacitiesMethodDirection</string>
+	<key>nextLayoutDuration</key>
+	<string>topicDuringMode</string>
+	<key>scaleStageTail</key>
+	<string>unaryAgainstStrategy</string>
+	<key>toolAdapterType</key>
+	<string>grainContainParam</string>
+	<key>uniformEntityPadding</key>
+	<string>heapExceptVariable</string>
+</dict>
+</plist>

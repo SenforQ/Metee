@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectBufferStyle</key>
+	<string>gridJobInterval</string>
+	<key>hashAgainstInterpreter</key>
+	<string>keyPresenterVisibility</string>
+	<key>normalAsyncFlags</key>
+	<string>resultMementoDistance</string>
+	<key>observerIncludeParameter</key>
+	<string>eventStyleOpacity</string>
+	<key>optimizerFormSize</key>
+	<string>graphicEnvironmentStyle</string>
+	<key>sliderAtMediator</key>
+	<string>popupParamLocation</string>
+	<key>standaloneUsageDepth</key>
+	<string>normalPreviewInteraction</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlerIncludeJob</key>
+	<string>asynchronousPriorityName</string>
+	<key>localFutureSkewx</key>
+	<string>sustainableGestureOrigin</string>
+	<key>opaqueInterfaceBehavior</key>
+	<string>observerDuringEnvironment</string>
+	<key>queueFrameworkCenter</key>
+	<string>riverpodLayerOffset</string>
+	<key>widgetInsideMemento</key>
+	<string>isolatePatternDirection</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCoordinatorColor</key>
+	<string>primaryFlexTop</string>
+	<key>allocatorUntilDecorator</key>
+	<string>blocDecoratorOrientation</string>
+	<key>anchorAboutObserver</key>
+	<string>imageWithShape</string>
+	<key>interpolationChainAlignment</key>
+	<string>similarResourcePadding</string>
+	<key>robustTickerMomentum</key>
+	<string>taskByNumber</string>
+</dict>
+</plist>

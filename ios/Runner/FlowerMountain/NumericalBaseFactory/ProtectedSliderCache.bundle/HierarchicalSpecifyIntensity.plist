@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocInterpreterDensity</key>
+	<string>matrixInCommand</string>
+	<key>builderViaFunction</key>
+	<string>gemBesideAdapter</string>
+	<key>ignoredDropdownbuttonStyle</key>
+	<string>otherAlphaOrientation</string>
+	<key>protocolStructureName</key>
+	<string>transitionAlongPlatform</string>
+	<key>robustSemanticsMode</key>
+	<string>explicitCoordinatorSpacing</string>
+	<key>rowActionAppearance</key>
+	<string>graphOperationMargin</string>
+	<key>taskLikeFacade</key>
+	<string>directDurationOffset</string>
+</dict>
+</plist>

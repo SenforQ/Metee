@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryScopeVelocity</key>
+	<string>resizableBufferVisible</string>
+	<key>composableDependencyFeedback</key>
+	<string>multiplicationObserverTail</string>
+	<key>currentNodeDirection</key>
+	<string>permanentShaderValidation</string>
+	<key>discardedRouteOrientation</key>
+	<string>comprehensiveApertureBehavior</string>
+	<key>gridviewBridgeSpacing</key>
+	<string>logarithmActionStatus</string>
+	<key>gridviewContainMemento</key>
+	<string>featureOperationAcceleration</string>
+	<key>radioThroughMode</key>
+	<string>symmetricRequestTheme</string>
+	<key>referenceUntilObserver</key>
+	<string>granularAllocatorBorder</string>
+	<key>responseSystemMomentum</key>
+	<string>lostActionBorder</string>
+	<key>textPatternBorder</key>
+	<string>textfieldSingletonMargin</string>
+</dict>
+</plist>

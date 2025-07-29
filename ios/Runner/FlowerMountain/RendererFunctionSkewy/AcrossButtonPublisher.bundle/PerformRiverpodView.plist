@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticAndParameter</key>
+	<string>materialWidgetPadding</string>
+	<key>associatedTouchPosition</key>
+	<string>nextSessionAlignment</string>
+	<key>clipperScopeBound</key>
+	<string>sliderFrameworkTheme</string>
+	<key>collectionInStyle</key>
+	<string>tweenDuringScope</string>
+	<key>composableSizeDensity</key>
+	<string>missedCursorInteraction</string>
+	<key>frameActivityOrientation</key>
+	<string>usecasePlatformFrequency</string>
+	<key>localizationViaVar</key>
+	<string>capacitiesStyleLeft</string>
+	<key>observerWorkAlignment</key>
+	<string>mobileAsKind</string>
+	<key>roleAmongVar</key>
+	<string>flexWithSingleton</string>
+	<key>unsortedGroupName</key>
+	<string>compositionUntilProxy</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerInteractorTheme</key>
+	<string>factoryBufferState</string>
+	<key>flexOutsideLevel</key>
+	<string>delegateAlongSingleton</string>
+	<key>paddingDespiteTier</key>
+	<string>popupOperationVelocity</string>
+	<key>sharedGesturedetectorDelay</key>
+	<string>singleFragmentValidation</string>
+	<key>titleWorkStyle</key>
+	<string>currentPopupRight</string>
+</dict>
+</plist>

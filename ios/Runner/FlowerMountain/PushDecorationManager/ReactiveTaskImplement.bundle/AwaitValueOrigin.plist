@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionStageSpeed</key>
+	<string>animatedcontainerTaskInset</string>
+	<key>dialogsContainObserver</key>
+	<string>granularDelegateTail</string>
+	<key>offsetExceptSystem</key>
+	<string>compositionalStoryboardTheme</string>
+	<key>remainderAboutForm</key>
+	<string>metadataDecoratorDepth</string>
+	<key>transformerForParameter</key>
+	<string>comprehensiveMediaSpeed</string>
+</dict>
+</plist>

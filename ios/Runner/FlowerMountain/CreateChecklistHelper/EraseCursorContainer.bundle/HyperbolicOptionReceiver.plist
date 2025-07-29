@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioBufferBrightness</key>
+	<string>singletonPerState</string>
+	<key>cellAndCommand</key>
+	<string>normalSubpixelBorder</string>
+	<key>containerBesideJob</key>
+	<string>bufferSystemHue</string>
+	<key>containerNumberDirection</key>
+	<string>constraintInValue</string>
+	<key>convolutionStageType</key>
+	<string>entityLevelOpacity</string>
+	<key>getxProxyTop</key>
+	<string>visibleResultInset</string>
+	<key>instructionLikeStage</key>
+	<string>operationStageLocation</string>
+	<key>painterSincePrototype</key>
+	<string>diversifiedActionFeedback</string>
+</dict>
+</plist>

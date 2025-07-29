@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncCycleAcceleration</key>
+	<string>tangentAgainstActivity</string>
+	<key>positionOperationShade</key>
+	<string>asyncSingletonScale</string>
+	<key>protectedRouteInterval</key>
+	<string>oldLayoutFeedback</string>
+	<key>providerIncludeType</key>
+	<string>tweenBeyondValue</string>
+	<key>remainderAndForm</key>
+	<string>workflowBeyondChain</string>
+	<key>subsequentAccessoryRotation</key>
+	<string>controllerVersusTask</string>
+	<key>textfieldIncludeParameter</key>
+	<string>requiredSizedboxCenter</string>
+</dict>
+</plist>

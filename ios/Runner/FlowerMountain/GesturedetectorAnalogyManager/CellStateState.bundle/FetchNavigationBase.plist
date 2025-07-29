@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileDecorationDensity</key>
+	<string>cacheWithoutDecorator</string>
+	<key>asyncCubitFormat</key>
+	<string>instructionForObserver</string>
+	<key>constraintOperationDepth</key>
+	<string>directSizeOrientation</string>
+	<key>declarativeBulletDensity</key>
+	<string>zoneJobVisible</string>
+	<key>dependencyBesideObserver</key>
+	<string>loopWorkHue</string>
+	<key>popupStageDuration</key>
+	<string>blocAsVar</string>
+	<key>slashDecoratorCoord</key>
+	<string>protectedCursorShade</string>
+</dict>
+</plist>

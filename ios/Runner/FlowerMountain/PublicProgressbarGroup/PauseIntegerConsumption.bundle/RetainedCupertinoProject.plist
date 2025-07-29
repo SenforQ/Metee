@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistProxyLocation</key>
+	<string>iterativeOffsetInset</string>
+	<key>contractionOfAction</key>
+	<string>animatedSkinDuration</string>
+	<key>densePlaybackCount</key>
+	<string>presenterBySystem</string>
+	<key>dependencyAndNumber</key>
+	<string>activeRequestDirection</string>
+	<key>inheritedStackFrequency</key>
+	<string>resourceByAction</string>
+	<key>lazyCallbackSpeed</key>
+	<string>labelModeMomentum</string>
+	<key>loopAroundValue</key>
+	<string>eventStageHue</string>
+	<key>reducerAlongSingleton</key>
+	<string>significantInkwellPosition</string>
+	<key>threadVariableMode</key>
+	<string>appbarWithLayer</string>
+</dict>
+</plist>

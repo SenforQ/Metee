@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationBridgePressure</key>
+	<string>mutableApertureRate</string>
+	<key>granularResponseLocation</key>
+	<string>borderForAction</string>
+	<key>injectionAsEnvironment</key>
+	<string>granularStepFeedback</string>
+	<key>mediocreUsageStyle</key>
+	<string>allocatorStateTail</string>
+	<key>promiseWithType</key>
+	<string>displayableNavigationFlags</string>
+</dict>
+</plist>

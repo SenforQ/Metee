@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoCharacterSpacing</key>
+	<string>disparatePaddingTransparency</string>
+	<key>desktopDelegateType</key>
+	<string>sceneMementoPadding</string>
+	<key>inactivePositionEdge</key>
+	<string>singleButtonMargin</string>
+	<key>loopDuringChain</key>
+	<string>activeGraphCenter</string>
+	<key>semanticMissionOpacity</key>
+	<string>taskInsidePlatform</string>
+	<key>sharedSubscriptionDuration</key>
+	<string>resourceBeyondFramework</string>
+	<key>spriteInsideVar</key>
+	<string>capacitiesObserverValidation</string>
+	<key>transitionBesideFramework</key>
+	<string>taskLikeOperation</string>
+	<key>viewOutsideFunction</key>
+	<string>controllerProxyValidation</string>
+</dict>
+</plist>

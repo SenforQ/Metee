@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoBehaviorSpeed</key>
+	<string>segmentContextAcceleration</string>
+	<key>configurationBeyondType</key>
+	<string>bulletOrCycle</string>
+	<key>diversifiedAwaitTag</key>
+	<string>statefulDrawerOrientation</string>
+	<key>modelContainMemento</key>
+	<string>arithmeticPopupScale</string>
+	<key>overlayChainBrightness</key>
+	<string>seamlessAlignmentType</string>
+	<key>pinchableButtonBehavior</key>
+	<string>handlerAwayMemento</string>
+	<key>rectLikeStrategy</key>
+	<string>streamPhaseCenter</string>
+	<key>sessionStateBorder</key>
+	<string>mediaIncludeValue</string>
+	<key>sharedStatelessInterval</key>
+	<string>resolverBesideAction</string>
+</dict>
+</plist>

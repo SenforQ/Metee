@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleConstraintTint</key>
+	<string>boxshadowAsParam</string>
+	<key>builderNearParameter</key>
+	<string>reducerBeyondStyle</string>
+	<key>criticalChartInset</key>
+	<string>observerCommandContrast</string>
+	<key>durationWithType</key>
+	<string>mobxVersusStage</string>
+	<key>interpolationInterpreterEdge</key>
+	<string>riverpodContextIndex</string>
+	<key>profileAdapterOrientation</key>
+	<string>entityStyleShade</string>
+	<key>sceneScopeSaturation</key>
+	<string>taskAmongActivity</string>
+	<key>tabviewMethodMargin</key>
+	<string>catalystExceptMemento</string>
+	<key>techniqueContextOrigin</key>
+	<string>presenterFrameworkSpacing</string>
+	<key>transitionAgainstAdapter</key>
+	<string>heapPerProcess</string>
+</dict>
+</plist>

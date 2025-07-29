@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionShapeDepth</key>
+	<string>nodeByAdapter</string>
+	<key>exceptionAboutShape</key>
+	<string>normInterpreterDirection</string>
+	<key>liteTransitionRotation</key>
+	<string>singleThreadVisibility</string>
+	<key>mediaqueryObserverBehavior</key>
+	<string>invisibleAlignmentMargin</string>
+	<key>otherSinkBorder</key>
+	<string>decorationProcessBound</string>
+	<key>resolverAroundValue</key>
+	<string>decorationCompositeTheme</string>
+	<key>sliderDecoratorMode</key>
+	<string>configurationPrototypeFlags</string>
+	<key>tickerVersusParameter</key>
+	<string>kernelThanPlatform</string>
+</dict>
+</plist>

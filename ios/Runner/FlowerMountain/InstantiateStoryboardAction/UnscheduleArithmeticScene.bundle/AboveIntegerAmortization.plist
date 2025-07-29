@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityAgainstComposite</key>
+	<string>declarativeLayerSpeed</string>
+	<key>independentMultiplicationBehavior</key>
+	<string>arithmeticWorkflowColor</string>
+	<key>inkwellActionStyle</key>
+	<string>mutableInkwellContrast</string>
+	<key>statelessPrototypeVisibility</key>
+	<string>similarPresenterInteraction</string>
+	<key>taskAndVar</key>
+	<string>ephemeralMenuDistance</string>
+	<key>topicKindFormat</key>
+	<string>storeContainVisitor</string>
+	<key>usageAboutVariable</key>
+	<string>priorDelegateBrightness</string>
+</dict>
+</plist>

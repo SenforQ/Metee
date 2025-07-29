@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarJobOrientation</key>
+	<string>sustainablePaddingTheme</string>
+	<key>compositionBridgeInset</key>
+	<string>typicalNavigatorTag</string>
+	<key>discardedSubscriptionInterval</key>
+	<string>ephemeralUsageHue</string>
+	<key>interactiveTabviewMomentum</key>
+	<string>unactivatedSkinSaturation</string>
+	<key>missedFrameDistance</key>
+	<string>richtextMethodCenter</string>
+	<key>pinchableQueryIndex</key>
+	<string>intensityPlatformDensity</string>
+	<key>specifyWidgetCenter</key>
+	<string>statefulAtParam</string>
+	<key>toolAboutVariable</key>
+	<string>routerAdapterFormat</string>
+</dict>
+</plist>

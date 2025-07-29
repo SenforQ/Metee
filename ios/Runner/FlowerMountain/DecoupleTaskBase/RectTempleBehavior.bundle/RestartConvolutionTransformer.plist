@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialTransitionSpeed</key>
+	<string>multiScaffoldVisible</string>
+	<key>interactiveBrushBrightness</key>
+	<string>sessionInDecorator</string>
+	<key>interactorOrForm</key>
+	<string>statefulTitleInset</string>
+	<key>permanentPageviewFormat</key>
+	<string>subscriptionLayerFrequency</string>
+	<key>smallAlignmentName</key>
+	<string>delegateVisitorRate</string>
+	<key>tabviewInBuffer</key>
+	<string>originalChapterCount</string>
+	<key>topicStateBehavior</key>
+	<string>controllerIncludeForm</string>
+</dict>
+</plist>

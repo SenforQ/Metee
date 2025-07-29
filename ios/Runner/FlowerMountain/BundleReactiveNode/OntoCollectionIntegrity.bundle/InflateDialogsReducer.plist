@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveNibInterval</key>
+	<string>directlySingletonKind</string>
+	<key>popupVariableScale</key>
+	<string>visiblePainterResponse</string>
+	<key>smartTaskRight</key>
+	<string>priorFragmentContrast</string>
+	<key>textureTempleShape</key>
+	<string>buttonAgainstKind</string>
+</dict>
+</plist>

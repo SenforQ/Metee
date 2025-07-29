@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsStyleFeedback</key>
+	<string>layoutPerFlyweight</string>
+	<key>dimensionVarTop</key>
+	<string>rectOrStructure</string>
+	<key>frameStructurePosition</key>
+	<string>commandFromPhase</string>
+	<key>kernelOfPattern</key>
+	<string>robustDecorationKind</string>
+	<key>observerByLayer</key>
+	<string>loopOutsideNumber</string>
+	<key>taskTempleBorder</key>
+	<string>textWorkInset</string>
+</dict>
+</plist>

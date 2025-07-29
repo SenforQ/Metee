@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledInstructionKind</key>
+	<string>grainModeType</string>
+	<key>eventEnvironmentName</key>
+	<string>enabledContainerStatus</string>
+	<key>localizationStructureDepth</key>
+	<string>directlyActionKind</string>
+	<key>mediaBeyondNumber</key>
+	<string>sceneStageBottom</string>
+	<key>precisionPrototypeSaturation</key>
+	<string>fragmentNumberColor</string>
+	<key>queryInBuffer</key>
+	<string>independentFlexDepth</string>
+	<key>seamlessNotificationDelay</key>
+	<string>durationSinceWork</string>
+	<key>tweenTierSkewy</key>
+	<string>sceneDecoratorDuration</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationViaProxy</key>
+	<string>singleRectMode</string>
+	<key>injectionViaActivity</key>
+	<string>exponentStageState</string>
+	<key>interactiveResultBound</key>
+	<string>aspectratioAgainstProxy</string>
+	<key>staticHashPadding</key>
+	<string>primaryNibRotation</string>
+	<key>vectorThanParam</key>
+	<string>explicitTableTint</string>
+</dict>
+</plist>

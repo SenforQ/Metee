@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constSpriteAcceleration</key>
+	<string>statefulByStrategy</string>
+	<key>interactorContainFunction</key>
+	<string>coordinatorProcessSaturation</string>
+	<key>mediaqueryTierCoord</key>
+	<string>materialProgressbarFlags</string>
+	<key>newestAnimatedcontainerTint</key>
+	<string>multiFactoryShade</string>
+	<key>richtextStateSkewy</key>
+	<string>dynamicTimerFormat</string>
+	<key>stateAlongSystem</key>
+	<string>pivotalInterpolationInset</string>
+	<key>tableByMethod</key>
+	<string>transitionMementoAppearance</string>
+	<key>tabviewThanAdapter</key>
+	<string>grainAboutJob</string>
+	<key>touchPatternSize</key>
+	<string>functionalUsecaseCoord</string>
+</dict>
+</plist>

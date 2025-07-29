@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationStageAppearance</key>
+	<string>liteTimerForce</string>
+	<key>boxForScope</key>
+	<string>normAndMethod</string>
+	<key>commandVariableKind</key>
+	<string>baselineAlongLevel</string>
+	<key>numericalDelegateMode</key>
+	<string>accordionProviderTransparency</string>
+	<key>persistentAnimatedcontainerTransparency</key>
+	<string>rectAndAdapter</string>
+	<key>routeFlyweightVisibility</key>
+	<string>listenerLikeCycle</string>
+	<key>serviceWithCycle</key>
+	<string>routeOperationShape</string>
+</dict>
+</plist>

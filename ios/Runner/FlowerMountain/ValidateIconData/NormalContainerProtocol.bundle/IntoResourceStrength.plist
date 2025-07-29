@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleProjectMargin</key>
+	<string>mobxTypeStatus</string>
+	<key>chapterAdapterCoord</key>
+	<string>documentViaComposite</string>
+	<key>crudeConstraintColor</key>
+	<string>documentNumberTheme</string>
+	<key>mediaqueryDespitePrototype</key>
+	<string>swiftVersusContext</string>
+	<key>providerOrVariable</key>
+	<string>previewThroughProcess</string>
+	<key>specifierSinceSystem</key>
+	<string>effectMediatorResponse</string>
+	<key>uniformNotifierDensity</key>
+	<string>fusedStoreFlags</string>
+</dict>
+</plist>

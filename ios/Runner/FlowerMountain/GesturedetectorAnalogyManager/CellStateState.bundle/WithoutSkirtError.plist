@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoMethodTag</key>
+	<string>errorActivityRotation</string>
+	<key>keyPriorityInteraction</key>
+	<string>ephemeralInterpolationRate</string>
+	<key>multiInterpolationDelay</key>
+	<string>decorationBesideDecorator</string>
+	<key>retainedControllerTheme</key>
+	<string>resourceModeInterval</string>
+	<key>sizeObserverStyle</key>
+	<string>mapThanTask</string>
+</dict>
+</plist>

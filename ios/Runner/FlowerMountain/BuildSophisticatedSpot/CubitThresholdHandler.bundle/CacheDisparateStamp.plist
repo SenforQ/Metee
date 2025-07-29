@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateNearType</key>
+	<string>ignoredDelegateOrientation</string>
+	<key>intensityViaFunction</key>
+	<string>storyboardBridgeTheme</string>
+	<key>labelContextPadding</key>
+	<string>alertIncludeCommand</string>
+	<key>mediaObserverBrightness</key>
+	<string>composableTableScale</string>
+	<key>notificationDuringActivity</key>
+	<string>tweenKindRight</string>
+	<key>permanentNavigationFormat</key>
+	<string>assetScopeBound</string>
+	<key>previewPlatformInterval</key>
+	<string>skinInsideJob</string>
+	<key>sizeShapeCenter</key>
+	<string>lostMemberValidation</string>
+	<key>specifyCanvasSize</key>
+	<string>awaitProxySaturation</string>
+	<key>tweenBufferHead</key>
+	<string>deferredTitlePadding</string>
+</dict>
+</plist>

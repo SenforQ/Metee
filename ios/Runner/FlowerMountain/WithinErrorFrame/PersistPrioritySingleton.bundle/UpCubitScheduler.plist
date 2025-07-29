@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedTitleLocation</key>
+	<string>stateStageBehavior</string>
+	<key>collectionModeInterval</key>
+	<string>rectAlongShape</string>
+	<key>framePerProxy</key>
+	<string>toolParamInterval</string>
+	<key>localizationAwayCommand</key>
+	<string>priorityBufferForce</string>
+	<key>queryActionCenter</key>
+	<string>memberParamScale</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateNumberTheme</key>
+	<string>segmentViaWork</string>
+	<key>crudeViewHue</key>
+	<string>tappableControllerStyle</string>
+	<key>elasticSineOpacity</key>
+	<string>bulletPatternStyle</string>
+	<key>mediocreParticleForce</key>
+	<string>greatRectPadding</string>
+	<key>queueDecoratorContrast</key>
+	<string>durationIncludeOperation</string>
+	<key>robustGateOrigin</key>
+	<string>heapTaskDelay</string>
+	<key>semanticDurationOrientation</key>
+	<string>sinkAboutEnvironment</string>
+	<key>stackWithInterpreter</key>
+	<string>configurationLevelDuration</string>
+</dict>
+</plist>

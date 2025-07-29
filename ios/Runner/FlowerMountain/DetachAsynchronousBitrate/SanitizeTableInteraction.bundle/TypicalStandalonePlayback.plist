@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandScopeVisible</key>
+	<string>localizationStyleBehavior</string>
+	<key>consultativeMovementRate</key>
+	<string>intuitiveCosineBottom</string>
+	<key>directStackInterval</key>
+	<string>cartesianThemeCoord</string>
+	<key>memberValueDelay</key>
+	<string>storeVersusSingleton</string>
+	<key>queryLayerFrequency</key>
+	<string>cycleContainChain</string>
+	<key>respectiveLayoutSpacing</key>
+	<string>associatedActionFlags</string>
+	<key>smartCommandPosition</key>
+	<string>featureEnvironmentScale</string>
+	<key>statefulMediaSaturation</key>
+	<string>tensorBulletCoord</string>
+	<key>usageWithoutParameter</key>
+	<string>dynamicReferenceRight</string>
+	<key>zoneFormFeedback</key>
+	<string>swiftIncludeVariable</string>
+</dict>
+</plist>

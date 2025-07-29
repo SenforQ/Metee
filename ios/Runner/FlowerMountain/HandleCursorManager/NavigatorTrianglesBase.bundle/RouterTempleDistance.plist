@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoAlertRotation</key>
+	<string>managerStyleInset</string>
+	<key>boxshadowScopeVisibility</key>
+	<string>viewThroughObserver</string>
+	<key>brushEnvironmentVisibility</key>
+	<string>featureMementoSpeed</string>
+	<key>capsuleSystemBrightness</key>
+	<string>tickerBesidePlatform</string>
+	<key>catalystOutsidePrototype</key>
+	<string>secondKernelInterval</string>
+	<key>chapterStyleInterval</key>
+	<string>awaitDuringCycle</string>
+	<key>momentumAroundFramework</key>
+	<string>challengeStructureStatus</string>
+	<key>routeInInterpreter</key>
+	<string>animatedcontainerOfProxy</string>
+	<key>scaffoldExceptShape</key>
+	<string>transitionWithoutVar</string>
+	<key>tabbarInsidePlatform</key>
+	<string>variantNumberInterval</string>
+</dict>
+</plist>

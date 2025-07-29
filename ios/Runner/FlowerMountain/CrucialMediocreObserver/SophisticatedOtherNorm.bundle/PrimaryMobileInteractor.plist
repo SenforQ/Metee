@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteDurationRate</key>
+	<string>uniqueProgressbarFrequency</string>
+	<key>futurePerCycle</key>
+	<string>secondHeapVisibility</string>
+	<key>hierarchicalScaleFormat</key>
+	<string>brushMediatorRate</string>
+	<key>mainThreadAlignment</key>
+	<string>mobileOutsideFlyweight</string>
+	<key>navigationVarCenter</key>
+	<string>seamlessErrorVisible</string>
+	<key>opaqueObserverOrientation</key>
+	<string>timerInsideAdapter</string>
+	<key>protocolViaProxy</key>
+	<string>responsePrototypeShape</string>
+</dict>
+</plist>

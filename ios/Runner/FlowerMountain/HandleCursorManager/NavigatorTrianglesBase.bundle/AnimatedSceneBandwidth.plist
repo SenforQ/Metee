@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateAtValue</key>
+	<string>descriptionAndState</string>
+	<key>futureFlyweightSpeed</key>
+	<string>mobxPrototypeRate</string>
+	<key>globalProgressbarMode</key>
+	<string>storeAlongBridge</string>
+	<key>indicatorStructureTension</key>
+	<string>usedWidgetCount</string>
+	<key>queueAsProxy</key>
+	<string>presenterContextRight</string>
+</dict>
+</plist>

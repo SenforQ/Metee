@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertTierAlignment</key>
+	<string>smartChannelBottom</string>
+	<key>aspectShapeVelocity</key>
+	<string>dialogsAroundState</string>
+	<key>controllerShapeHue</key>
+	<string>callbackParameterBottom</string>
+	<key>dialogsModeSpacing</key>
+	<string>symbolInSingleton</string>
+	<key>masterDespiteStrategy</key>
+	<string>coordinatorAboutObserver</string>
+	<key>particleStyleTension</key>
+	<string>borderOutsideSystem</string>
+	<key>particleUntilProxy</key>
+	<string>intuitiveEventScale</string>
+	<key>rectPerState</key>
+	<string>columnNearTask</string>
+	<key>resolverAboutMediator</key>
+	<string>curveActionRight</string>
+</dict>
+</plist>

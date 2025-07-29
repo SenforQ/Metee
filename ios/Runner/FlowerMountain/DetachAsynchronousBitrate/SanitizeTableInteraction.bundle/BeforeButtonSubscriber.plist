@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>heroVarVisibility</key>
+	<string>uniformEventOpacity</string>
+	<key>missionTaskSkewy</key>
+	<string>nibTypeBehavior</string>
+	<key>numericalPageviewFeedback</key>
+	<string>sharedModelSaturation</string>
+	<key>rapidStackIndex</key>
+	<string>clipperFlyweightPadding</string>
+	<key>tweenFrameworkContrast</key>
+	<string>baseStateStyle</string>
+</dict>
+</plist>

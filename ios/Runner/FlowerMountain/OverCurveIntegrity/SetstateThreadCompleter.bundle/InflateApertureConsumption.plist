@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelVersusPhase</key>
+	<string>drawerWithoutPattern</string>
+	<key>enabledLayoutVisibility</key>
+	<string>certificateBesideDecorator</string>
+	<key>parallelBinarySaturation</key>
+	<string>providerChainStyle</string>
+	<key>queuePatternPressure</key>
+	<string>transitionOfNumber</string>
+</dict>
+</plist>

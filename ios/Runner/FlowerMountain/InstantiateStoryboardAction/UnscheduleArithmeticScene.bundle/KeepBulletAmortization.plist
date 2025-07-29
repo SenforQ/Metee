@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveAroundCommand</key>
+	<string>customizedBehaviorVisible</string>
+	<key>disparateCoordinatorEdge</key>
+	<string>progressbarModeTransparency</string>
+	<key>graphicFrameworkDuration</key>
+	<string>nativeChartMargin</string>
+	<key>modalOutsideVisitor</key>
+	<string>durationStrategyOrientation</string>
+	<key>signatureVarName</key>
+	<string>particleInType</string>
+	<key>skinBufferScale</key>
+	<string>cartesianConfigurationShade</string>
+	<key>storeBridgeColor</key>
+	<string>parallelCapsuleShade</string>
+</dict>
+</plist>

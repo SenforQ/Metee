@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheThroughCommand</key>
+	<string>cycleOutsideObserver</string>
+	<key>geometricQueryState</key>
+	<string>hardCurveMargin</string>
+	<key>grainContainStyle</key>
+	<string>custompaintStrategyBehavior</string>
+	<key>hardListenerInteraction</key>
+	<string>draggableAssetSkewy</string>
+	<key>sinkFunctionIndex</key>
+	<string>promiseVariableTag</string>
+	<key>spriteForChain</key>
+	<string>curvePerKind</string>
+</dict>
+</plist>

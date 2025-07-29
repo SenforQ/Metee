@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeSymbolSpeed</key>
+	<string>publicProgressbarShade</string>
+	<key>allocatorMediatorFeedback</key>
+	<string>queryThroughBridge</string>
+	<key>blocAtNumber</key>
+	<string>mediocreIntegerCenter</string>
+	<key>lostDecorationVelocity</key>
+	<string>transitionByState</string>
+	<key>queueViaBuffer</key>
+	<string>marginThroughFramework</string>
+	<key>sharedScaleAcceleration</key>
+	<string>modelStructureOpacity</string>
+</dict>
+</plist>

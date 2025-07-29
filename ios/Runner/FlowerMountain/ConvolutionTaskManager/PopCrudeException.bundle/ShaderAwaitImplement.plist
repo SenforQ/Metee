@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAroundActivity</key>
+	<string>descriptionExceptStyle</string>
+	<key>brushPerFunction</key>
+	<string>opaqueTransformerResponse</string>
+	<key>channelsVariableState</key>
+	<string>indicatorWithForm</string>
+	<key>gridDuringActivity</key>
+	<string>controllerBufferKind</string>
+	<key>injectionContextInset</key>
+	<string>diffableChartOrientation</string>
+	<key>matrixPerMethod</key>
+	<string>sineOutsideType</string>
+	<key>streamBridgeRotation</key>
+	<string>decorationWithoutPlatform</string>
+	<key>transformerThanParam</key>
+	<string>scrollEnvironmentOffset</string>
+	<key>unsortedLossFeedback</key>
+	<string>localBorderKind</string>
+</dict>
+</plist>

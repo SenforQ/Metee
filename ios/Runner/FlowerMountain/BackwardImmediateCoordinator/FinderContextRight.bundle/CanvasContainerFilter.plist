@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fragmentBeyondComposite</key>
+	<string>resizableSignatureAppearance</string>
+	<key>gridAdapterTop</key>
+	<string>grayscaleUntilBuffer</string>
+	<key>lazyGridState</key>
+	<string>robustLocalizationColor</string>
+	<key>mediumEffectCoord</key>
+	<string>similarDurationStyle</string>
+	<key>radioAtCommand</key>
+	<string>inheritedCursorRate</string>
+	<key>sinkActivityMargin</key>
+	<string>workflowOperationTag</string>
+	<key>sliderFormSkewy</key>
+	<string>characterMementoSpeed</string>
+	<key>utilInterpreterDensity</key>
+	<string>declarativeCallbackMomentum</string>
+	<key>viewChainVisible</key>
+	<string>columnForEnvironment</string>
+</dict>
+</plist>

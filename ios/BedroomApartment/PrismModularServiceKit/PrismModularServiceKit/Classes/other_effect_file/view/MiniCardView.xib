@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19519"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="MiniCardView">
+            <connections>
+                <outlet property="sectionLabel" destination="5dv-53-NsJ" id="uWB-0c-m5C"/>
+                <outlet property="containerWithButton" destination="Gox-lx-cUX" id="qSR-J9-42z"/>
+                <outlet property="refreshLabel" destination="tlm-l0-tCp" id="oeY-q2-60H"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="FSz-w5-YLd" hidden="YES">
+            <rect key="frame" x="0.0" y="0.0" width="600.4" height="124.6"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <stackView contentMode="center" spacing="23" translatesAutoresizingMaskIntoConstraints="NO" id="vY9-6g-wEq" clipsSubviews="NO" alignment="top">
+                    <rect key="frame" x="-7" y="-1" width="549.0" height="99.2"/>
+                    <subviews>
+                        <label userInteractionEnabled="NO" contentMode="TopLeft" horizontalCompressionResistancePriority="250" verticalCompressionResistancePriority="250" text="frame scale list" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="5dv-53-NsJ" numberOfLines="9">
+                            <rect key="frame" x="153.9" y="-2.4" width="63.4" height="99.2"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="18"/>
+                            <color key="textColor" red="0.18713513562187328" green="0.77618283647286393" blue="0.81269845645604022" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label userInteractionEnabled="NO" contentMode="redraw" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="to path straight" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="tlm-l0-tCp" hidden="YES" clearsContextBeforeDrawing="NO" adjustsFontForContentSizeCategory="YES" numberOfLines="9" enabled="NO">
+                            <rect key="frame" x="-11.0" y="-10.4" width="137.9" height="99.2"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="23"/>
+                            <color key="textColor" red="0.16264258275842636" green="0.92870804053232975" blue="0.96715530941645639" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <button contentMode="scaleAspectFit" horizontalHuggingPriority="935" verticalHuggingPriority="1000" horizontalCompressionResistancePriority="932" verticalCompressionResistancePriority="989" contentHorizontalAlignment="center" contentVerticalAlignment="bottom" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Gox-lx-cUX">
+                            <rect key="frame" x="239" y="8.4" width="265.5" height="99.2"/>
+                            <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                            <state key="normal" title="response female" image="1242-2208">
+                                <color key="titleColor" red="0.19410723569231421" green="0.8894571023165493" blue="0.04827784927480136" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <state key="selected" title="icon equal strength ok" image="1242-2268">
+                                <color key="titleColor" red="0.394796696" green="0.83161484770000005" blue="0.75892637900000004" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                        </button>
+                    </subviews>
+                </stackView>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="QCb-ZY-uTI"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="QCb-ZY-uTI" firstAttribute="trailing" secondItem="vY9-6g-wEq" secondAttribute="trailing" constant="4" id="13d-4T-Ivf"/>
+                <constraint firstItem="vY9-6g-wEq" firstAttribute="top" secondItem="FSz-w5-YLd" secondAttribute="top" constant="5" id="Hqy-no-3aY"/>
+                <constraint firstAttribute="bottom" secondItem="vY9-6g-wEq" secondAttribute="bottom" constant="6" id="exJ-U0-dlz"/>
+                <constraint firstItem="vY9-6g-wEq" firstAttribute="leading" secondItem="QCb-ZY-uTI" secondAttribute="leading" constant="8" id="VpD-xG-7OH"/>
+            </constraints>
+            <nil key="simulatedTopBarMetrics"/>
+            <nil key="simulatedBottomBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="143.77587624476919" y="-403.36379460622374"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="1242-2208" width="116.4" height="135.5"/>
+        <image name="1242-2268" width="116.4" height="135.5"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="0.831407168228885" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicBufferFrequency</key>
+	<string>comprehensiveExceptionEdge</string>
+	<key>eagerCubitFeedback</key>
+	<string>expandedJobInterval</string>
+	<key>ignoredGridPadding</key>
+	<string>buttonStateMargin</string>
+	<key>queueViaWork</key>
+	<string>intuitiveLabelColor</string>
+	<key>storeFormShape</key>
+	<string>statelessTangentDensity</string>
+	<key>storyboardVersusLayer</key>
+	<string>transformerNumberRotation</string>
+	<key>textActionMode</key>
+	<string>cubeWorkTransparency</string>
+	<key>workflowPlatformPosition</key>
+	<string>backwardDependencyCount</string>
+</dict>
+</plist>

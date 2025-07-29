@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionFlyweightOffset</key>
+	<string>firstCharacterVisible</string>
+	<key>appbarCommandIndex</key>
+	<string>nextSubscriptionInteraction</string>
+	<key>completionBeyondMethod</key>
+	<string>finalCycleFeedback</string>
+	<key>skinLayerStatus</key>
+	<string>custompaintMementoSize</string>
+	<key>sliderLevelKind</key>
+	<string>alignmentOperationShade</string>
+</dict>
+</plist>

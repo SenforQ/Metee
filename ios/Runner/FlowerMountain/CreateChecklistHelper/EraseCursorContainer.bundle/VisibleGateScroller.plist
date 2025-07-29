@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisProcessMode</key>
+	<string>inheritedLayerMode</string>
+	<key>beginnerPreviewTheme</key>
+	<string>staticTaskName</string>
+	<key>decorationTierCenter</key>
+	<string>skirtAboutMediator</string>
+	<key>localObserverState</key>
+	<string>handlerNumberDistance</string>
+	<key>mediumPositionTransparency</key>
+	<string>materialManagerFrequency</string>
+	<key>segueAsMode</key>
+	<string>routerActionVisibility</string>
+	<key>subtleSegmentFlags</key>
+	<string>tweenParameterState</string>
+	<key>tabbarTempleTransparency</key>
+	<string>advancedStateState</string>
+</dict>
+</plist>

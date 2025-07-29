@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedBlocFrequency</key>
+	<string>iterativeEventVisibility</string>
+	<key>boxAsProxy</key>
+	<string>cubitTempleAppearance</string>
+	<key>curveJobFeedback</key>
+	<string>prevAspectPadding</string>
+	<key>cycleBridgeSize</key>
+	<string>interactiveBatchMode</string>
+	<key>elasticMenuBorder</key>
+	<string>staticRichtextStyle</string>
+	<key>menuAlongNumber</key>
+	<string>invisibleNormAppearance</string>
+	<key>popupFlyweightVisibility</key>
+	<string>mediaqueryTierState</string>
+	<key>presenterUntilAction</key>
+	<string>controllerPlatformSkewy</string>
+	<key>resolverVersusChain</key>
+	<string>easyLogHue</string>
+</dict>
+</plist>

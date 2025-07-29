@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertCycleValidation</key>
+	<string>transformerAtComposite</string>
+	<key>elasticConfigurationIndex</key>
+	<string>decorationParameterShape</string>
+	<key>painterForParameter</key>
+	<string>symmetricDocumentTransparency</string>
+	<key>queueUntilComposite</key>
+	<string>textAndNumber</string>
+	<key>storeBufferSaturation</key>
+	<string>precisionWithPlatform</string>
+	<key>usecaseProxyShape</key>
+	<string>storeAmongNumber</string>
+</dict>
+</plist>

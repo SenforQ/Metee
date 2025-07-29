@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintFormDuration</key>
+	<string>priorProgressbarBorder</string>
+	<key>plateWithParam</key>
+	<string>pivotalPlaybackRotation</string>
+	<key>slashPerChain</key>
+	<string>operationBesideNumber</string>
+	<key>statelessShapeDirection</key>
+	<string>titleJobOffset</string>
+	<key>unsortedTextfieldTop</key>
+	<string>crudeSliderOffset</string>
+</dict>
+</plist>

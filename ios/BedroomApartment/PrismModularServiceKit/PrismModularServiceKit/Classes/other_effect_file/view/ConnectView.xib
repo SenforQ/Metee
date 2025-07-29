@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19519"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="ConnectView">
+            <connections>
+                <outlet property="colorView" destination="Eg0-27-oPN" id="8j2-KM-NG1"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="voL-Hy-zLK" clearsContextBeforeDrawing="NO" clipsSubviews="NO">
+            <rect key="frame" x="0.0" y="0.0" width="276.6" height="356.8"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Eg0-27-oPN" opaque="NO">
+                    <rect key="frame" x="0.0" y="0.0" width="276.6" height="356.8"/>
+                    <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                </view>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="kYY-wD-aou"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="Eg0-27-oPN" firstAttribute="leading" secondItem="kYY-wD-aou" secondAttribute="leading" id="VHG-YE-xLv"/>
+                <constraint firstAttribute="bottom" secondItem="Eg0-27-oPN" secondAttribute="bottom" id="dkJ-CG-4Jd"/>
+                <constraint firstItem="kYY-wD-aou" firstAttribute="trailing" secondItem="Eg0-27-oPN" secondAttribute="trailing" id="ZCC-fx-1zf"/>
+                <constraint firstItem="Eg0-27-oPN" firstAttribute="top" secondItem="voL-Hy-zLK" secondAttribute="top" id="J8b-rm-vzS" constant="1"/>
+            </constraints>
+            <nil key="simulatedTopBarMetrics"/>
+            <nil key="simulatedBottomBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="-182.90218381706174" y="-191.7711"/>
+        </view>
+    </objects>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="0.91371910208619567" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

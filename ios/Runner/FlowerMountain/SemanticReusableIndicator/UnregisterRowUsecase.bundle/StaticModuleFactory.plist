@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxExceptSingleton</key>
+	<string>liteTabviewInteraction</string>
+	<key>coordinatorWorkInset</key>
+	<string>constOptimizerShape</string>
+	<key>listviewAgainstActivity</key>
+	<string>allocatorPrototypeDelay</string>
+	<key>petFacadeVisible</key>
+	<string>unactivatedActionStyle</string>
+	<key>popupThanState</key>
+	<string>dimensionSystemBrightness</string>
+	<key>sharedCoordinatorInteraction</key>
+	<string>imperativeBlocInset</string>
+	<key>textureIncludeProxy</key>
+	<string>menuCommandColor</string>
+</dict>
+</plist>

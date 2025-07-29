@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityBufferAcceleration</key>
+	<string>transitionSinceFacade</string>
+	<key>layoutFunctionStyle</key>
+	<string>taskAboutShape</string>
+	<key>providerWithNumber</key>
+	<string>compositionalApertureType</string>
+	<key>touchJobSpacing</key>
+	<string>painterFromComposite</string>
+	<key>unactivatedObserverInteraction</key>
+	<string>deferredRouteSaturation</string>
+	<key>unactivatedUtilBehavior</key>
+	<string>protocolScopeShade</string>
+</dict>
+</plist>

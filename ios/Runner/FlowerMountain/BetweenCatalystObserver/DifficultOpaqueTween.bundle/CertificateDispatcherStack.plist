@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintProcessKind</key>
+	<string>projectAmongTemple</string>
+	<key>futureTempleScale</key>
+	<string>mobileResourceSkewy</string>
+	<key>localFlexShape</key>
+	<string>assetPerPlatform</string>
+	<key>localizationThroughStructure</key>
+	<string>scaffoldLayerScale</string>
+	<key>positionedMediatorVelocity</key>
+	<string>popupWithStructure</string>
+	<key>primaryActivityFormat</key>
+	<string>mutableBlocOffset</string>
+	<key>priorityAmongContext</key>
+	<string>expandedDuringSingleton</string>
+	<key>promiseFlyweightFlags</key>
+	<string>staticDelegateSpeed</string>
+	<key>relationalCallbackAppearance</key>
+	<string>canvasMediatorDistance</string>
+	<key>visibleBuilderContrast</key>
+	<string>routeStateSpeed</string>
+</dict>
+</plist>

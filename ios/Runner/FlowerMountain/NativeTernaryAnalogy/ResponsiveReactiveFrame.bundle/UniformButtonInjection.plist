@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constEffectHead</key>
+	<string>modelTaskHead</string>
+	<key>descriptionMementoShape</key>
+	<string>delegateModeOpacity</string>
+	<key>hashPlatformTransparency</key>
+	<string>oldTickerDensity</string>
+	<key>logarithmPlatformFeedback</key>
+	<string>delegateInProxy</string>
+	<key>managerSystemBorder</key>
+	<string>constraintProcessInteraction</string>
+	<key>materialChainAppearance</key>
+	<string>largeTransitionDuration</string>
+	<key>nativeStreamInset</key>
+	<string>progressbarBufferColor</string>
+	<key>resultCommandSkewx</key>
+	<string>histogramPerTier</string>
+	<key>titleAboutScope</key>
+	<string>transitionShapeShade</string>
+	<key>usedTimerEdge</key>
+	<string>curveTypeInteraction</string>
+</dict>
+</plist>

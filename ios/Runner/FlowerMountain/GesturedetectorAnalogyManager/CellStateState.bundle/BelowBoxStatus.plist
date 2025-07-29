@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectTempleBehavior</key>
+	<string>layoutSinceMediator</string>
+	<key>disabledGroupFormat</key>
+	<string>sortedRepositoryLeft</string>
+	<key>immutableContainerTransparency</key>
+	<string>firstChannelShade</string>
+	<key>methodSystemAcceleration</key>
+	<string>notifierStateSaturation</string>
+	<key>resolverOrScope</key>
+	<string>responseFrameworkVisible</string>
+	<key>routerWithoutChain</key>
+	<string>scrollPerEnvironment</string>
+	<key>texturePhaseIndex</key>
+	<string>tweenStateOffset</string>
+</dict>
+</plist>

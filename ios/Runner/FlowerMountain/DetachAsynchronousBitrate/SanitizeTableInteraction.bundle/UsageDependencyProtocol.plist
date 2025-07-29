@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyFormKind</key>
+	<string>missedAccessoryMargin</string>
+	<key>globalClipperShape</key>
+	<string>subtleLoopVisible</string>
+	<key>handlerIncludeStructure</key>
+	<string>entityPrototypeShade</string>
+	<key>normalSpineValidation</key>
+	<string>profileAsFunction</string>
+	<key>providerWithCommand</key>
+	<string>accordionViewIndex</string>
+	<key>resilientRoleValidation</key>
+	<string>variantAgainstFacade</string>
+	<key>responseStrategyRotation</key>
+	<string>delegateContextColor</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedLoopDistance</key>
+	<string>listviewActivityType</string>
+	<key>advancedPositionInterval</key>
+	<string>specifyButtonOrigin</string>
+	<key>nextBulletTop</key>
+	<string>cartesianLayoutResponse</string>
+	<key>tableBeyondFunction</key>
+	<string>requiredButtonFormat</string>
+	<key>usecasePerSystem</key>
+	<string>navigatorUntilLayer</string>
+</dict>
+</plist>

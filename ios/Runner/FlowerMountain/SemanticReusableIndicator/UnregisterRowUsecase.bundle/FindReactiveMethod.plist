@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binarySystemHue</key>
+	<string>tangentTierVelocity</string>
+	<key>coordinatorInsideChain</key>
+	<string>listviewStageOpacity</string>
+	<key>decorationPatternBottom</key>
+	<string>explicitTextureTransparency</string>
+	<key>interfaceUntilScope</key>
+	<string>switchCommandFeedback</string>
+	<key>retainedAspectDensity</key>
+	<string>unactivatedPainterHue</string>
+	<key>staticIntegerVisibility</key>
+	<string>constraintWithoutCycle</string>
+</dict>
+</plist>

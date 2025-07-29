@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousNavigatorOpacity</key>
+	<string>transitionMementoCenter</string>
+	<key>customizedInjectionAcceleration</key>
+	<string>eventExceptState</string>
+	<key>hardProviderFrequency</key>
+	<string>bufferFacadeKind</string>
+	<key>integerJobSpeed</key>
+	<string>relationalSizeForce</string>
+	<key>parallelTickerTint</key>
+	<string>temporaryChartDelay</string>
+	<key>requiredLayoutRight</key>
+	<string>equipmentContextForce</string>
+	<key>textChainMode</key>
+	<string>convolutionOutsideKind</string>
+</dict>
+</plist>

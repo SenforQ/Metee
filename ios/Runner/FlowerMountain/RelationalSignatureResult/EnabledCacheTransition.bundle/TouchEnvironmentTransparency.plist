@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisIncludeProcess</key>
+	<string>masterProxyState</string>
+	<key>flexTierFlags</key>
+	<string>symbolProcessAlignment</string>
+	<key>inactiveSensorVisible</key>
+	<string>requiredConfigurationPosition</string>
+	<key>signatureActivityPosition</key>
+	<string>errorOfSystem</string>
+	<key>sliderSinceMode</key>
+	<string>textfieldNearSingleton</string>
+	<key>textureViaFramework</key>
+	<string>lazyContainerDirection</string>
+	<key>usageExceptPlatform</key>
+	<string>entityThroughMediator</string>
+	<key>vectorPerBridge</key>
+	<string>borderVariableTop</string>
+</dict>
+</plist>

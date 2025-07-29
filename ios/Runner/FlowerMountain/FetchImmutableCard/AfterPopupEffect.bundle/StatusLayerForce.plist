@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationLikeOperation</key>
+	<string>dimensionAlongProcess</string>
+	<key>flexibleBoxSize</key>
+	<string>sharedShaderTail</string>
+	<key>marginParameterColor</key>
+	<string>gridPerParam</string>
+	<key>numericalOptimizerVisibility</key>
+	<string>checkboxAsChain</string>
+	<key>observerStructureShade</key>
+	<string>collectionStateDistance</string>
+	<key>pageviewByAdapter</key>
+	<string>spriteBridgeMomentum</string>
+	<key>publicRepositoryOrigin</key>
+	<string>textWithoutNumber</string>
+	<key>scrollableCurveBehavior</key>
+	<string>resultExceptShape</string>
+	<key>stateModeInterval</key>
+	<string>consultativeBitrateColor</string>
+</dict>
+</plist>

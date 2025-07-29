@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionSinceState</key>
+	<string>repositoryUntilSystem</string>
+	<key>handlerFormStatus</key>
+	<string>errorDespiteSingleton</string>
+	<key>lazyFactoryMode</key>
+	<string>baselinePerSingleton</string>
+	<key>repositorySystemOffset</key>
+	<string>persistentSceneHue</string>
+	<key>sequentialMomentumHue</key>
+	<string>substantialPainterCenter</string>
+</dict>
+</plist>

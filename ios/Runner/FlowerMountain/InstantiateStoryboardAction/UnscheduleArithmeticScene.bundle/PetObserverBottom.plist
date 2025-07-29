@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryAroundAction</key>
+	<string>coordinatorCommandAppearance</string>
+	<key>channelsCycleLeft</key>
+	<string>interfaceIncludeJob</string>
+	<key>descriptionOfJob</key>
+	<string>popupBeyondSystem</string>
+	<key>easyServiceFrequency</key>
+	<string>disabledAnchorLeft</string>
+	<key>heroDecoratorFormat</key>
+	<string>sceneContextTail</string>
+	<key>progressbarAroundProcess</key>
+	<string>masterAlongChain</string>
+	<key>sliderBridgeFormat</key>
+	<string>textParamFrequency</string>
+	<key>subpixelShapeAcceleration</key>
+	<string>numericalVectorTension</string>
+	<key>tabviewTypePadding</key>
+	<string>desktopProviderSaturation</string>
+	<key>ternaryLikeValue</key>
+	<string>dialogsVisitorScale</string>
+</dict>
+</plist>

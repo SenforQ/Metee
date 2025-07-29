@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackLikeInterpreter</key>
+	<string>symmetricNodeFeedback</string>
+	<key>commonBatchRate</key>
+	<string>gestureObserverDelay</string>
+	<key>eventShapeRight</key>
+	<string>controllerMethodMargin</string>
+	<key>handlerSystemMode</key>
+	<string>histogramAmongShape</string>
+	<key>hyperbolicCoordinatorRight</key>
+	<string>tabviewSingletonMomentum</string>
+	<key>inactiveDropdownbuttonResponse</key>
+	<string>hashIncludeFacade</string>
+	<key>notificationSinceProcess</key>
+	<string>anchorSystemVisible</string>
+</dict>
+</plist>

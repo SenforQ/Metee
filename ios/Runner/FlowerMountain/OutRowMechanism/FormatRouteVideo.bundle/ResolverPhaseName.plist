@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistProcessVisibility</key>
+	<string>composableRequestColor</string>
+	<key>controllerLikeSingleton</key>
+	<string>standaloneListviewSize</string>
+	<key>scaleMethodVisibility</key>
+	<string>brushAlongOperation</string>
+	<key>ternaryDespiteMode</key>
+	<string>progressbarVisitorStatus</string>
+</dict>
+</plist>

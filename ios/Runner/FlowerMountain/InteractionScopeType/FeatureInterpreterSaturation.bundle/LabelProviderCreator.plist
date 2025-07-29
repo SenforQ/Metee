@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerForPattern</key>
+	<string>rectNearChain</string>
+	<key>coordinatorActivityMomentum</key>
+	<string>mobileIncludeSingleton</string>
+	<key>delegateActionTail</key>
+	<string>queueInMediator</string>
+	<key>directlyStampIndex</key>
+	<string>requestObserverShade</string>
+	<key>mutableLayoutBound</key>
+	<string>promiseDuringStructure</string>
+	<key>responsiveStampShade</key>
+	<string>hierarchicalHeroBound</string>
+</dict>
+</plist>

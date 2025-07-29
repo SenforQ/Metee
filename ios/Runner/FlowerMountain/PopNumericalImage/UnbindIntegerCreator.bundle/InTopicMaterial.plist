@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticTempleTheme</key>
+	<string>sizeAsStrategy</string>
+	<key>backwardQueueBehavior</key>
+	<string>transitionTaskTop</string>
+	<key>delegateViaPhase</key>
+	<string>normCycleSize</string>
+	<key>featureFormCount</key>
+	<string>pinchableGroupRotation</string>
+	<key>geometricTextFeedback</key>
+	<string>grainAndTier</string>
+	<key>mainSpotVisibility</key>
+	<string>desktopSizePressure</string>
+	<key>mediocreTweenMomentum</key>
+	<string>interactorBesideCycle</string>
+	<key>methodFacadeFrequency</key>
+	<string>observerModeAcceleration</string>
+</dict>
+</plist>

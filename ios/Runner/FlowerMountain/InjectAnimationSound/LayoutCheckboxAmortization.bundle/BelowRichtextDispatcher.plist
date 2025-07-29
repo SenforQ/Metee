@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorActivityScale</key>
+	<string>progressbarBeyondPlatform</string>
+	<key>immediateCubitFrequency</key>
+	<string>awaitProxyInset</string>
+	<key>memberActivityHue</key>
+	<string>oldSizedboxBound</string>
+	<key>memberCommandFlags</key>
+	<string>batchAlongStyle</string>
+	<key>mobxAgainstEnvironment</key>
+	<string>globalTransformerBehavior</string>
+	<key>providerBridgeAppearance</key>
+	<string>navigatorNearEnvironment</string>
+</dict>
+</plist>

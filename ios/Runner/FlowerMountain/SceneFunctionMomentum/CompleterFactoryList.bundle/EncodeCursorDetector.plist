@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintCyclePressure</key>
+	<string>gesturedetectorStateCount</string>
+	<key>globalInterpolationFeedback</key>
+	<string>switchOfType</string>
+	<key>menuAmongWork</key>
+	<string>invisibleUsecaseVelocity</string>
+	<key>priorRadiusTransparency</key>
+	<string>subtleSpriteTop</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleControllerValidation</key>
+	<string>commandExceptComposite</string>
+	<key>assetCycleFeedback</key>
+	<string>stampProcessPadding</string>
+	<key>curveStateDirection</key>
+	<string>alertFunctionOrigin</string>
+	<key>featureLikeProcess</key>
+	<string>pageviewNearEnvironment</string>
+	<key>groupNumberResponse</key>
+	<string>menuBeyondLevel</string>
+	<key>imperativeVectorInteraction</key>
+	<string>futureAlongPlatform</string>
+	<key>navigatorMediatorRight</key>
+	<string>explicitFrameDistance</string>
+	<key>textNearAction</key>
+	<string>ternaryShapeCount</string>
+	<key>visibleEffectHead</key>
+	<string>catalystWithoutObserver</string>
+</dict>
+</plist>

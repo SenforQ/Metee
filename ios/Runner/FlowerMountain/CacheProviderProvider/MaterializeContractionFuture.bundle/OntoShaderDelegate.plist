@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineCompositeFeedback</key>
+	<string>imageInsideSystem</string>
+	<key>custompaintSystemFormat</key>
+	<string>momentumAndMode</string>
+	<key>expandedScopeVisible</key>
+	<string>originalCoordinatorVisible</string>
+	<key>petAtParam</key>
+	<string>storageShapeRight</string>
+	<key>semanticsObserverScale</key>
+	<string>brushStrategyAcceleration</string>
+</dict>
+</plist>

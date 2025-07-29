@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardJobPosition</key>
+	<string>completerContainNumber</string>
+	<key>cursorFromForm</key>
+	<string>enabledNavigatorType</string>
+	<key>navigatorExceptCycle</key>
+	<string>stepFormShape</string>
+	<key>playbackModeAcceleration</key>
+	<string>tickerStrategyVelocity</string>
+	<key>prismaticLabelInterval</key>
+	<string>normalSpotHead</string>
+	<key>sessionIncludeAction</key>
+	<string>specifierAgainstStructure</string>
+	<key>statelessVectorRate</key>
+	<string>slashBeyondFunction</string>
+</dict>
+</plist>

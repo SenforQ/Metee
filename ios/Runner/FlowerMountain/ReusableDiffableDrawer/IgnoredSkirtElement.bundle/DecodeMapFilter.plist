@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>instructionWorkInterval</key>
+	<string>substantialFeatureDelay</string>
+	<key>otherErrorFeedback</key>
+	<string>entityFromParameter</string>
+	<key>serviceChainBound</key>
+	<string>columnViaStyle</string>
+	<key>viewModeEdge</key>
+	<string>discardedUsecaseBorder</string>
+</dict>
+</plist>

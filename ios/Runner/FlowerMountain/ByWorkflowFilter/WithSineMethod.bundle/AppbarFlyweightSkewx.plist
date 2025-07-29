@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAgainstJob</key>
+	<string>displayableProviderPosition</string>
+	<key>bufferVisitorSkewx</key>
+	<string>blocTierFrequency</string>
+	<key>scaffoldNumberEdge</key>
+	<string>transitionAgainstInterpreter</string>
+</dict>
+</plist>

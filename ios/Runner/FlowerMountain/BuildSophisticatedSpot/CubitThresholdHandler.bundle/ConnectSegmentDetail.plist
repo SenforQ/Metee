@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityPerShape</key>
+	<string>usecaseViaMemento</string>
+	<key>giftStructureStyle</key>
+	<string>commandBesideObserver</string>
+	<key>progressbarOrTask</key>
+	<string>streamViaCycle</string>
+	<key>rapidSceneOrientation</key>
+	<string>disparateResolverPressure</string>
+</dict>
+</plist>

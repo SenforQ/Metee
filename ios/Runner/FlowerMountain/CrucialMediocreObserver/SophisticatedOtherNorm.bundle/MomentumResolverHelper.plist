@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphicVarTension</key>
+	<string>flexibleCallbackTint</string>
+	<key>intermediateObserverMode</key>
+	<string>cupertinoSkinSpacing</string>
+	<key>intermediateSinkInset</key>
+	<string>spriteCycleSize</string>
+	<key>marginCommandBehavior</key>
+	<string>declarativeGateOrientation</string>
+	<key>responseLayerColor</key>
+	<string>alignmentLayerBrightness</string>
+	<key>usecaseAmongSystem</key>
+	<string>equalizationContainSingleton</string>
+	<key>zoneByContext</key>
+	<string>seamlessBitrateName</string>
+</dict>
+</plist>

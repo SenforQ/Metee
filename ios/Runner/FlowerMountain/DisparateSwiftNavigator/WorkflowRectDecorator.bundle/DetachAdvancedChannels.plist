@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasProcessFormat</key>
+	<string>compositionalDecorationShade</string>
+	<key>directlyInjectionAcceleration</key>
+	<string>kernelViaContext</string>
+	<key>discardedGestureRate</key>
+	<string>builderMethodColor</string>
+	<key>integerJobIndex</key>
+	<string>sustainableTickerFormat</string>
+	<key>labelParameterFlags</key>
+	<string>metadataVisitorDirection</string>
+	<key>referenceContainTier</key>
+	<string>fragmentSystemDensity</string>
+	<key>sizeDuringAction</key>
+	<string>fixedCompositionPadding</string>
+	<key>sophisticatedPainterLocation</key>
+	<string>layoutProxyContrast</string>
+	<key>usageContainMemento</key>
+	<string>effectWithVisitor</string>
+</dict>
+</plist>

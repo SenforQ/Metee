@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncExceptionAppearance</key>
+	<string>transformerLikeProcess</string>
+	<key>chapterBufferAcceleration</key>
+	<string>dynamicDurationBorder</string>
+	<key>cursorFlyweightBehavior</key>
+	<string>gesturedetectorViaFlyweight</string>
+	<key>exceptionOrPhase</key>
+	<string>eventAmongSingleton</string>
+	<key>groupAlongProcess</key>
+	<string>cycleInsidePlatform</string>
+	<key>interfaceNearActivity</key>
+	<string>timerFrameworkTint</string>
+	<key>providerOutsideVariable</key>
+	<string>respectiveGrainColor</string>
+	<key>respectiveContractionLeft</key>
+	<string>inactiveClipperOrientation</string>
+	<key>singletonOperationRate</key>
+	<string>intensityDespiteFramework</string>
+</dict>
+</plist>

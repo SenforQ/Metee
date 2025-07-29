@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncAlphaValidation</key>
+	<string>discardedNavigatorSkewx</string>
+	<key>equalizationContainForm</key>
+	<string>lossSingletonDuration</string>
+	<key>liteFragmentDelay</key>
+	<string>subpixelAtSystem</string>
+	<key>presenterStrategyRotation</key>
+	<string>scaleFromShape</string>
+	<key>tableAdapterContrast</key>
+	<string>hyperbolicTickerTint</string>
+	<key>zoneAboutAdapter</key>
+	<string>richtextFunctionTint</string>
+</dict>
+</plist>

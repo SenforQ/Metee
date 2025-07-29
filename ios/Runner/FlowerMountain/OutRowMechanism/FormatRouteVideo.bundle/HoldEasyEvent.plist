@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetLayerTag</key>
+	<string>asyncPageviewFeedback</string>
+	<key>awaitShapeDistance</key>
+	<string>opaqueCompositionTint</string>
+	<key>capsuleObserverAlignment</key>
+	<string>constReductionVelocity</string>
+	<key>customizedProviderDelay</key>
+	<string>ignoredManagerDepth</string>
+	<key>dropdownbuttonStateSpacing</key>
+	<string>resilientPositionCenter</string>
+	<key>gateChainShape</key>
+	<string>optionWithoutBuffer</string>
+	<key>iconChainOffset</key>
+	<string>taskOrDecorator</string>
+	<key>imperativeExpandedInteraction</key>
+	<string>axisStageFlags</string>
+	<key>sineVarTint</key>
+	<string>concurrentLocalizationTension</string>
+</dict>
+</plist>

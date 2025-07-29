@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxDuringSingleton</key>
+	<string>awaitFrameworkInterval</string>
+	<key>delicateOverlayFeedback</key>
+	<string>sessionAsScope</string>
+	<key>nibFlyweightAlignment</key>
+	<string>statelessStrategyType</string>
+	<key>projectionJobSaturation</key>
+	<string>gateStageTop</string>
+	<key>protocolBeyondObserver</key>
+	<string>tabviewTierSpacing</string>
+	<key>responsiveLayoutDistance</key>
+	<string>responseFromParam</string>
+	<key>sceneInForm</key>
+	<string>fixedMissionValidation</string>
+	<key>seamlessPositionDirection</key>
+	<string>hashSingletonType</string>
+	<key>touchParameterRight</key>
+	<string>standaloneMovementType</string>
+</dict>
+</plist>

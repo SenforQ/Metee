@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentSincePattern</key>
+	<string>segueCommandBrightness</string>
+	<key>backwardInteractorHue</key>
+	<string>dynamicBlocTag</string>
+	<key>bulletInsideActivity</key>
+	<string>primaryMenuTint</string>
+	<key>chapterWithMethod</key>
+	<string>nativeCallbackFrequency</string>
+	<key>coordinatorBridgeBrightness</key>
+	<string>compositionalExpandedOpacity</string>
+	<key>greatDimensionInteraction</key>
+	<string>greatImageSpeed</string>
+	<key>interfaceMementoShade</key>
+	<string>constraintParamSaturation</string>
+	<key>protocolVariableBrightness</key>
+	<string>resilientRadioStatus</string>
+	<key>subscriptionParamPressure</key>
+	<string>errorFacadeInteraction</string>
+</dict>
+</plist>

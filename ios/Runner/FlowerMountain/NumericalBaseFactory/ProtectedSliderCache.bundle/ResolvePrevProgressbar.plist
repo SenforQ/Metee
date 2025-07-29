@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorIncludeActivity</key>
+	<string>menuMediatorFormat</string>
+	<key>gateMethodOrigin</key>
+	<string>desktopRectSpeed</string>
+	<key>inactiveTouchPosition</key>
+	<string>switchTierSpacing</string>
+	<key>keyButtonEdge</key>
+	<string>vectorVersusPrototype</string>
+	<key>optimizerAsMediator</key>
+	<string>spotFunctionType</string>
+	<key>progressbarSinceTask</key>
+	<string>momentumActionBrightness</string>
+	<key>sampleViaType</key>
+	<string>curveCycleContrast</string>
+	<key>sensorThroughMediator</key>
+	<string>diffableLabelBound</string>
+</dict>
+</plist>

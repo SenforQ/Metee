@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationActionBrightness</key>
+	<string>menuWithoutEnvironment</string>
+	<key>displayableButtonResponse</key>
+	<string>appbarWithMediator</string>
+	<key>layoutAlongFunction</key>
+	<string>stackCycleAcceleration</string>
+	<key>shaderAwayType</key>
+	<string>sophisticatedNotificationDistance</string>
+	<key>sophisticatedCommandType</key>
+	<string>sliderFromBridge</string>
+	<key>spotContainDecorator</key>
+	<string>monsterContextOffset</string>
+	<key>textureBeyondForm</key>
+	<string>subscriptionJobInset</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonNavigationRotation</key>
+	<string>alertBesidePhase</string>
+	<key>futureWorkCenter</key>
+	<string>accordionRadiusOpacity</string>
+	<key>instructionObserverBehavior</key>
+	<string>assetFunctionAcceleration</string>
+	<key>missionBufferAcceleration</key>
+	<string>layoutTaskPosition</string>
+	<key>tickerModeSize</key>
+	<string>transitionPlatformOrigin</string>
+</dict>
+</plist>

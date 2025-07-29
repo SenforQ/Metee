@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedExponentVisibility</key>
+	<string>ternaryFunctionSpacing</string>
+	<key>lazyStreamAlignment</key>
+	<string>storageActionColor</string>
+	<key>popupStructureIndex</key>
+	<string>builderAroundFacade</string>
+	<key>promiseScopeDepth</key>
+	<string>significantColumnColor</string>
+	<key>responseWithKind</key>
+	<string>navigatorPatternBorder</string>
+	<key>roleFunctionColor</key>
+	<string>timerCycleDuration</string>
+</dict>
+</plist>

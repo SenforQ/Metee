@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventIncludeActivity</key>
+	<string>tickerWithMemento</string>
+	<key>kernelBesideFlyweight</key>
+	<string>routerLikeStrategy</string>
+	<key>projectionInsideSystem</key>
+	<string>lossAndParameter</string>
+	<key>routerIncludeChain</key>
+	<string>instructionKindTransparency</string>
+	<key>significantExceptionDepth</key>
+	<string>errorVariableContrast</string>
+	<key>similarKernelFlags</key>
+	<string>iterativeStackInset</string>
+	<key>statefulTaskOrientation</key>
+	<string>animationAlongDecorator</string>
+	<key>symmetricCompositionFrequency</key>
+	<string>smallSampleTint</string>
+	<key>titlePlatformBehavior</key>
+	<string>interpolationContextValidation</string>
+</dict>
+</plist>

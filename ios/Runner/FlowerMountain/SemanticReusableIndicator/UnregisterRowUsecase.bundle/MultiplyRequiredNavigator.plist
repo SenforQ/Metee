@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonEnvironmentScale</key>
+	<string>autoScrollVisibility</string>
+	<key>channelAsType</key>
+	<string>constraintValueFeedback</string>
+	<key>descriptionTierTheme</key>
+	<string>invisibleSampleVelocity</string>
+	<key>discardedSegmentTail</key>
+	<string>menuAboutCommand</string>
+	<key>overlayPhaseShape</key>
+	<string>indicatorThroughStrategy</string>
+	<key>persistentBuilderOrientation</key>
+	<string>themeAlongCycle</string>
+	<key>resourceStructureContrast</key>
+	<string>grainOperationType</string>
+	<key>rowThanPlatform</key>
+	<string>sizedboxWithoutCycle</string>
+</dict>
+</plist>

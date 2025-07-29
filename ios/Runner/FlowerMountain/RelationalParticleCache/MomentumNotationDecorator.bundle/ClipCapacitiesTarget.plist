@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentShaderResponse</key>
+	<string>projectionSystemDepth</string>
+	<key>drawerAmongComposite</key>
+	<string>explicitCheckboxRotation</string>
+	<key>loopProxyTag</key>
+	<string>numericalSignaturePosition</string>
+	<key>opaqueGrainDirection</key>
+	<string>intuitiveDurationTag</string>
+	<key>precisionStrategyState</key>
+	<string>constraintMediatorOrientation</string>
+	<key>radioSinceWork</key>
+	<string>completionOrTask</string>
+	<key>utilShapeOrigin</key>
+	<string>tensorParticleCoord</string>
+</dict>
+</plist>

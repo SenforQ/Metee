@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityAlongVar</key>
+	<string>normJobInterval</string>
+	<key>flexibleCacheIndex</key>
+	<string>storageActivitySize</string>
+	<key>marginParameterShape</key>
+	<string>smallPreviewPadding</string>
+	<key>nativeInteractorPadding</key>
+	<string>subsequentPositionedBound</string>
+</dict>
+</plist>

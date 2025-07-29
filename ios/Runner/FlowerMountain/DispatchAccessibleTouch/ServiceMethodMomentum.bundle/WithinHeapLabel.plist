@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxFrameworkBehavior</key>
+	<string>interactorVarOffset</string>
+	<key>builderInStyle</key>
+	<string>callbackByNumber</string>
+	<key>dynamicAnimationPressure</key>
+	<string>stampObserverFormat</string>
+	<key>interfaceAlongSystem</key>
+	<string>listviewProxyBehavior</string>
+	<key>painterInForm</key>
+	<string>anchorTypeSaturation</string>
+	<key>segueAwayTier</key>
+	<string>respectiveAwaitAppearance</string>
+</dict>
+</plist>

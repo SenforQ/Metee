@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitStyleAcceleration</key>
+	<string>coordinatorLevelOrientation</string>
+	<key>clipperInsideStructure</key>
+	<string>visibleLayerDelay</string>
+	<key>euclideanPresenterState</key>
+	<string>liteBuilderSize</string>
+	<key>intensityFacadeStyle</key>
+	<string>alphaOutsideVariable</string>
+	<key>mediaqueryVarOrientation</key>
+	<string>streamForEnvironment</string>
+	<key>subtleCatalystEdge</key>
+	<string>typicalTransformerFrequency</string>
+	<key>ternaryPatternDelay</key>
+	<string>previewAwayProxy</string>
+</dict>
+</plist>

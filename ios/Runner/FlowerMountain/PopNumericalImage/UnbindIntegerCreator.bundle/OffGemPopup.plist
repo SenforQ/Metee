@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedConfigurationValidation</key>
+	<string>singletonModeSize</string>
+	<key>graphicOperationFlags</key>
+	<string>challengeStageTheme</string>
+	<key>ignoredZonePadding</key>
+	<string>accordionBoxShape</string>
+	<key>inactiveConfigurationDistance</key>
+	<string>functionalFeatureHue</string>
+	<key>momentumFormColor</key>
+	<string>progressbarIncludeDecorator</string>
+	<key>nativeMomentumOrientation</key>
+	<string>optimizerInCommand</string>
+</dict>
+</plist>

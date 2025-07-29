@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryByCycle</key>
+	<string>projectAboutPattern</string>
+	<key>beginnerInkwellSpeed</key>
+	<string>viewSystemOffset</string>
+	<key>interactorSingletonBound</key>
+	<string>custompaintAroundProxy</string>
+	<key>labelBufferPadding</key>
+	<string>configurationBesideSingleton</string>
+	<key>missedRowShade</key>
+	<string>previewVisitorColor</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>localProviderVelocity</key>
+	<string>previewForValue</string>
+	<key>operationVariableBorder</key>
+	<string>backwardRouteStatus</string>
+	<key>queryNumberHue</key>
+	<string>swiftAmongComposite</string>
+	<key>requestBridgeColor</key>
+	<string>drawerStatePosition</string>
+	<key>semanticNavigatorInset</key>
+	<string>diffableProviderStyle</string>
+	<key>taskTypeInterval</key>
+	<string>kernelModeRate</string>
+</dict>
+</plist>

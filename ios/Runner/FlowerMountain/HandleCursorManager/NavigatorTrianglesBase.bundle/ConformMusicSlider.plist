@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorMethodCenter</key>
+	<string>usedEqualizationMode</string>
+	<key>modelAroundPhase</key>
+	<string>iterativeCurveHead</string>
+	<key>precisionInsideParam</key>
+	<string>durationWithFunction</string>
+	<key>resilientDurationSpacing</key>
+	<string>queueDespiteParam</string>
+	<key>sharedLocalizationVelocity</key>
+	<string>webVectorSize</string>
+</dict>
+</plist>

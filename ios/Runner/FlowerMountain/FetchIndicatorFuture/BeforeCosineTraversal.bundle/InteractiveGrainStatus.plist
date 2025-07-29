@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxShapeTheme</key>
+	<string>awaitFrameworkOffset</string>
+	<key>collectionActionBrightness</key>
+	<string>materialGramHue</string>
+	<key>mobileStructureFrequency</key>
+	<string>basicSkirtHue</string>
+	<key>mobxFlyweightSpacing</key>
+	<string>blocProcessStyle</string>
+	<key>resourceStateInterval</key>
+	<string>reusableRoleResponse</string>
+	<key>stampAgainstCommand</key>
+	<string>configurationOfAdapter</string>
+</dict>
+</plist>

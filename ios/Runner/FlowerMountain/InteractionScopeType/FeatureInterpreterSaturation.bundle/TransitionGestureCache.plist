@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerByChain</key>
+	<string>synchronousStoreScale</string>
+	<key>invisibleCallbackName</key>
+	<string>smallEventStatus</string>
+	<key>loopAlongObserver</key>
+	<string>cupertinoDescriptionCoord</string>
+	<key>mobxShapeBrightness</key>
+	<string>reactiveGraphAppearance</string>
+	<key>observerStageBottom</key>
+	<string>temporaryCycleVelocity</string>
+	<key>particleOrProxy</key>
+	<string>tabviewIncludeComposite</string>
+	<key>shaderThroughSingleton</key>
+	<string>resizableInteractorForce</string>
+	<key>unsortedMediaqueryVisible</key>
+	<string>utilContainKind</string>
+</dict>
+</plist>

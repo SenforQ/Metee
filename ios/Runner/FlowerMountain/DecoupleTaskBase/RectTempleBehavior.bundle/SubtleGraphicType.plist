@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerFutureScale</key>
+	<string>robustQueueVisible</string>
+	<key>deferredColumnTransparency</key>
+	<string>reusableAlertSpacing</string>
+	<key>delegateExceptType</key>
+	<string>ignoredSubpixelHue</string>
+	<key>protectedQueueSpeed</key>
+	<string>screenContainObserver</string>
+	<key>providerVarScale</key>
+	<string>alignmentBesideParam</string>
+	<key>rowStructureRight</key>
+	<string>persistentRowBrightness</string>
+</dict>
+</plist>

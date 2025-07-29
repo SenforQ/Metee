@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocDuringWork</key>
+	<string>certificateCompositeBehavior</string>
+	<key>interactiveObserverResponse</key>
+	<string>logObserverInterval</string>
+	<key>normJobState</key>
+	<string>playbackInNumber</string>
+	<key>prismaticDescriptionContrast</key>
+	<string>draggableDependencySaturation</string>
+	<key>zoneThanStructure</key>
+	<string>completerAboutCycle</string>
+</dict>
+</plist>

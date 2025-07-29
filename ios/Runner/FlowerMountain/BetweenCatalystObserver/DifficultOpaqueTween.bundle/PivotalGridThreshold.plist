@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncPromiseBehavior</key>
+	<string>storeStateBehavior</string>
+	<key>awaitProxyState</key>
+	<string>protectedAwaitPressure</string>
+	<key>cacheForTask</key>
+	<string>controllerPlatformVelocity</string>
+	<key>coordinatorInMode</key>
+	<string>equipmentLikeTier</string>
+	<key>coordinatorVariableDuration</key>
+	<string>configurationSinceParameter</string>
+	<key>rowPlatformSkewy</key>
+	<string>criticalChartTint</string>
+</dict>
+</plist>

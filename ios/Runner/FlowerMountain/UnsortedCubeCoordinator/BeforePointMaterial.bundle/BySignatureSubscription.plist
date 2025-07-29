@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupIncludeFramework</key>
+	<string>hashBridgeBottom</string>
+	<key>layoutForTask</key>
+	<string>delegateTypeDensity</string>
+	<key>observerInterpreterOffset</key>
+	<string>textEnvironmentSaturation</string>
+	<key>persistentStackDirection</key>
+	<string>errorModeState</string>
+	<key>pinchableGateSkewx</key>
+	<string>topicViaStructure</string>
+	<key>primarySlashSaturation</key>
+	<string>pinchableTabbarStyle</string>
+	<key>tablePrototypeOpacity</key>
+	<string>presenterPlatformVelocity</string>
+	<key>titleLevelInteraction</key>
+	<string>normalMusicValidation</string>
+	<key>touchBesideChain</key>
+	<string>reductionNearShape</string>
+	<key>tweenAlongStructure</key>
+	<string>constNotifierDuration</string>
+</dict>
+</plist>

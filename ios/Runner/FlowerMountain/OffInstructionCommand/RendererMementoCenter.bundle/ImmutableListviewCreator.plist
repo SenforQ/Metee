@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerPlatformVelocity</key>
+	<string>permanentEntityBound</string>
+	<key>directSpriteRotation</key>
+	<string>decorationAboutVar</string>
+	<key>effectAwayObserver</key>
+	<string>spotWorkDuration</string>
+	<key>greatTitleSpeed</key>
+	<string>progressbarActionMode</string>
+	<key>localizationAgainstPrototype</key>
+	<string>widgetOrStyle</string>
+	<key>queueOutsideMediator</key>
+	<string>menuVisitorState</string>
+	<key>radiusOutsideProcess</key>
+	<string>riverpodAsLayer</string>
+</dict>
+</plist>

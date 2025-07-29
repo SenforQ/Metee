@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationStyleStatus</key>
+	<string>similarAnimationColor</string>
+	<key>bufferAtScope</key>
+	<string>queryPerCommand</string>
+	<key>lazyDurationSize</key>
+	<string>swiftLevelInterval</string>
+	<key>positionTaskSkewx</key>
+	<string>opaqueSceneRotation</string>
+	<key>symmetricProviderInset</key>
+	<string>permissiveCapsuleBound</string>
+	<key>typicalEntityDirection</key>
+	<string>flexibleProviderSaturation</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futureOfChain</key>
+	<string>cubitOrSingleton</string>
+	<key>persistentTextureOrientation</key>
+	<string>resizableMediaHue</string>
+	<key>vectorUntilVariable</key>
+	<string>previewExceptFacade</string>
+</dict>
+</plist>

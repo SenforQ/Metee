@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletMediatorState</key>
+	<string>similarGridBorder</string>
+	<key>effectForBridge</key>
+	<string>ignoredCollectionEdge</string>
+	<key>methodFunctionInset</key>
+	<string>mediumDrawerVelocity</string>
+	<key>rowMediatorHead</key>
+	<string>animatedRiverpodVisible</string>
+	<key>sliderIncludeTier</key>
+	<string>graphSinceSingleton</string>
+</dict>
+</plist>

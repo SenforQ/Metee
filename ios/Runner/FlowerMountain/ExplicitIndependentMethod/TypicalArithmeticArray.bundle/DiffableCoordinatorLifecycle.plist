@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackTierBehavior</key>
+	<string>invisibleChapterOpacity</string>
+	<key>certificateKindVelocity</key>
+	<string>textfieldWithoutCycle</string>
+	<key>concurrentHashRate</key>
+	<string>layoutForProxy</string>
+	<key>containerThroughComposite</key>
+	<string>easyNodeVisible</string>
+	<key>materialModalBottom</key>
+	<string>promiseWorkOrigin</string>
+	<key>modelWorkVelocity</key>
+	<string>roleAdapterLeft</string>
+	<key>originalCubeOpacity</key>
+	<string>rolePerType</string>
+	<key>priorityBesideComposite</key>
+	<string>cellAndProxy</string>
+	<key>scaffoldMethodCenter</key>
+	<string>methodAroundContext</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheModePosition</key>
+	<string>autoSampleKind</string>
+	<key>hashLayerBottom</key>
+	<string>lazyListenerTheme</string>
+	<key>localizationWithStrategy</key>
+	<string>statefulTransformerIndex</string>
+	<key>pointPerStyle</key>
+	<string>boxByNumber</string>
+</dict>
+</plist>

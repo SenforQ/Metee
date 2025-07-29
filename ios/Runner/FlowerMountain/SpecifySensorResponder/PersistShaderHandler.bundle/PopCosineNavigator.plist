@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticVarScale</key>
+	<string>configurationVariableRate</string>
+	<key>channelsContextSkewx</key>
+	<string>typicalHeroDepth</string>
+	<key>profileJobShade</key>
+	<string>cubeActionPosition</string>
+	<key>publicSwitchDensity</key>
+	<string>builderVarSkewy</string>
+</dict>
+</plist>

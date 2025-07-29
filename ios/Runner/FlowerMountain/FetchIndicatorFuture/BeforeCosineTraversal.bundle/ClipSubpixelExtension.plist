@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>persistentErrorType</key>
+	<string>imageBesideCommand</string>
+	<key>segueIncludeInterpreter</key>
+	<string>asynchronousErrorType</string>
+	<key>statefulStampBehavior</key>
+	<string>statelessSensorDensity</string>
+	<key>storeProcessBrightness</key>
+	<string>sequentialFragmentBrightness</string>
+</dict>
+</plist>

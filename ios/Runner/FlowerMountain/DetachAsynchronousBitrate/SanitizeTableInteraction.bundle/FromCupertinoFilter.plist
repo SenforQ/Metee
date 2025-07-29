@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionIncludeBridge</key>
+	<string>symbolOutsideStructure</string>
+	<key>dependencyTaskName</key>
+	<string>hashAboutMemento</string>
+	<key>gesturedetectorIncludeScope</key>
+	<string>pivotalMapScale</string>
+	<key>layoutThroughNumber</key>
+	<string>subtleFutureBorder</string>
+	<key>lostPreviewBehavior</key>
+	<string>sampleBeyondSingleton</string>
+	<key>scrollableSensorInset</key>
+	<string>ephemeralSingletonAppearance</string>
+	<key>sensorCycleContrast</key>
+	<string>textVarScale</string>
+</dict>
+</plist>

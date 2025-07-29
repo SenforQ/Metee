@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridviewAwayCommand</key>
+	<string>kernelExceptPlatform</string>
+	<key>intuitiveSignBehavior</key>
+	<string>providerParameterBorder</string>
+	<key>sliderJobOpacity</key>
+	<string>graphicVisitorDepth</string>
+	<key>tangentBesideScope</key>
+	<string>animatedcontainerAndJob</string>
+</dict>
+</plist>

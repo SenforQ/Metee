@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticCompleterForce</key>
+	<string>popupAmongStructure</string>
+	<key>builderAgainstVariable</key>
+	<string>keyReductionTransparency</string>
+	<key>dropdownbuttonBesideValue</key>
+	<string>listenerInsideSingleton</string>
+	<key>elasticCellBrightness</key>
+	<string>cubitLikeMediator</string>
+	<key>gestureIncludeVar</key>
+	<string>subscriptionVersusFlyweight</string>
+	<key>grayscaleEnvironmentFormat</key>
+	<string>curveLayerShade</string>
+	<key>mediocreEqualizationPosition</key>
+	<string>constraintCyclePadding</string>
+	<key>persistentDurationDirection</key>
+	<string>missionPerMethod</string>
+	<key>typicalCompleterSpacing</key>
+	<string>borderLayerRotation</string>
+</dict>
+</plist>

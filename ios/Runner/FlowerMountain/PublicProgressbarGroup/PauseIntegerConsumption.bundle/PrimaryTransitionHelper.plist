@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerValueDuration</key>
+	<string>missedResourceBorder</string>
+	<key>desktopQuerySize</key>
+	<string>advancedSubpixelSize</string>
+	<key>interfaceInCycle</key>
+	<string>featureModeTransparency</string>
+	<key>localCosineBehavior</key>
+	<string>buttonOrComposite</string>
+	<key>mapNumberType</key>
+	<string>prevGiftDepth</string>
+	<key>materialMobileStatus</key>
+	<string>intuitiveBaseSpacing</string>
+	<key>sessionWorkHue</key>
+	<string>chartCycleEdge</string>
+	<key>tabbarAwayForm</key>
+	<string>multiRequestForce</string>
+	<key>tappableNormFrequency</key>
+	<string>layerAndFunction</string>
+</dict>
+</plist>

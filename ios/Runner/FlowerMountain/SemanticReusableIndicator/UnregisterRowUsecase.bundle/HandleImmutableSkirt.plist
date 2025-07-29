@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateActionMode</key>
+	<string>bitrateFacadeMode</string>
+	<key>effectOutsideStrategy</key>
+	<string>localizationOfSingleton</string>
+	<key>isolateLevelTop</key>
+	<string>usedScaleTension</string>
+	<key>mobileCompositeBound</key>
+	<string>themeSinceFacade</string>
+	<key>permanentResponseMode</key>
+	<string>smartGraphBehavior</string>
+	<key>singletonTempleOffset</key>
+	<string>menuLevelBrightness</string>
+	<key>topicSincePhase</key>
+	<string>exponentCycleDuration</string>
+	<key>transformerForContext</key>
+	<string>tensorSizeType</string>
+</dict>
+</plist>

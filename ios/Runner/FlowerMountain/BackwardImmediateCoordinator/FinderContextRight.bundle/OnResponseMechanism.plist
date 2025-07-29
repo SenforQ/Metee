@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>offsetSinceContext</key>
+	<string>autoCommandStatus</string>
+	<key>pinchableCertificateCount</key>
+	<string>cardPhaseStatus</string>
+	<key>relationalDrawerState</key>
+	<string>custompaintMementoAcceleration</string>
+	<key>responseIncludeSystem</key>
+	<string>previewWorkDistance</string>
+	<key>routeOutsideMemento</key>
+	<string>arithmeticSinceKind</string>
+	<key>unaryForAdapter</key>
+	<string>responsiveFutureForce</string>
+</dict>
+</plist>

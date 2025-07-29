@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateExceptActivity</key>
+	<string>singletonByMode</string>
+	<key>dropdownbuttonAboutStructure</key>
+	<string>criticalFactoryTransparency</string>
+	<key>gestureInType</key>
+	<string>mobileCompositeTransparency</string>
+	<key>reactiveTangentSaturation</key>
+	<string>unsortedAnimationVelocity</string>
+</dict>
+</plist>
