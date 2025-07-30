@@ -4,6 +4,7 @@ import 'package:in_app_purchase/in_app_purchase.dart';
 import 'package:connectivity_plus/connectivity_plus.dart';
 import 'dart:async';
 import 'dart:convert';
+import 'utils/toast_utils.dart';
 
 // VIP 产品常量
 class VipProduct {
@@ -25,37 +26,7 @@ final List<VipProduct> kVipProducts = [
   VipProduct(productId: 'ZinkoMonthVIP', period: 'Per month', price: 49.99, priceText: '\$49.99'),
 ];
 
-Future<void> showCenterToast(BuildContext context, String message, {int milliseconds = 1800}) async {
-  showGeneralDialog(
-    context: context,
-    barrierDismissible: false,
-    barrierLabel: '',
-    transitionDuration: const Duration(milliseconds: 150),
-    pageBuilder: (context, anim1, anim2) {
-      return Center(
-        child: Container(
-          padding: const EdgeInsets.symmetric(horizontal: 28, vertical: 18),
-          decoration: BoxDecoration(
-            color: Colors.black.withOpacity(0.85),
-            borderRadius: BorderRadius.circular(16),
-          ),
-          child: Text(
-            message,
-            style: const TextStyle(color: Colors.white, fontSize: 16),
-            textAlign: TextAlign.center,
-          ),
-        ),
-      );
-    },
-    transitionBuilder: (context, anim1, anim2, child) {
-      return FadeTransition(opacity: anim1, child: child);
-    },
-  );
-  await Future.delayed(Duration(milliseconds: milliseconds));
-  if (Navigator.of(context, rootNavigator: true).canPop()) {
-    Navigator.of(context, rootNavigator: true).pop();
-  }
-}
+
 
 class VipSubscriptionPage extends StatefulWidget {
   const VipSubscriptionPage({super.key});
@@ -68,12 +39,34 @@ class _VipSubscriptionPageState extends State<VipSubscriptionPage> {
   bool _isWeeklySelected = true;
   bool _isVipActive = false;
   Map<String, bool> _loadingStates = {}; // 为每个商品单独管理loading状态
+  Map<String, Timer> _timeoutTimers = {}; // 为每个商品管理超时定时器
   final InAppPurchase _inAppPurchase = InAppPurchase.instance;
   StreamSubscription<List<PurchaseDetails>>? _subscription;
   bool _isAvailable = false;
   Map<String, ProductDetails> _products = {};
   int _retryCount = 0;
   static const int maxRetries = 3;
+  static const int timeoutDuration = 30; // 30秒超时
+
+  // 处理超时
+  void _handleTimeout(String productId) {
+    if (mounted) {
+      setState(() {
+        _loadingStates[productId] = false;
+      });
+      
+      // 取消定时器
+      _timeoutTimers[productId]?.cancel();
+      _timeoutTimers.remove(productId);
+      
+      // 显示超时提示
+      try {
+        showCenterToast(context, 'Payment timeout. Please try again.');
+      } catch (e) {
+        print('Failed to show timeout toast: $e');
+      }
+    }
+  }
 
   @override
   void initState() {
@@ -85,6 +78,11 @@ class _VipSubscriptionPageState extends State<VipSubscriptionPage> {
   @override
   void dispose() {
     _subscription?.cancel();
+    // 取消所有超时定时器
+    for (final timer in _timeoutTimers.values) {
+      timer.cancel();
+    }
+    _timeoutTimers.clear();
     super.dispose();
   }
 
@@ -168,29 +166,53 @@ class _VipSubscriptionPageState extends State<VipSubscriptionPage> {
           setState(() {
             _isVipActive = true;
           });
-          showCenterToast(context, 'VIP subscription activated successfully!');
+          
+          // 使用 try-catch 包装 showCenterToast 调用
+          try {
+            showCenterToast(context, 'VIP subscription activated successfully!');
+          } catch (e) {
+            print('Failed to show success toast: $e');
+          }
           
           // 延迟一下再返回，让用户看到成功提示
           await Future.delayed(const Duration(milliseconds: 1500));
           if (mounted) {
-            Navigator.of(context).pop(true); // 返回并传递订阅成功状态
+            try {
+              Navigator.of(context).pop(true); // 返回并传递订阅成功状态
+            } catch (e) {
+              print('Failed to navigate back: $e');
+            }
           }
         }
       } else if (purchase.status == PurchaseStatus.error) {
         if (mounted) {
-          showCenterToast(context, 'Purchase failed: ${purchase.error?.message ?? ''}');
+          try {
+            showCenterToast(context, 'Purchase failed: ${purchase.error?.message ?? ''}');
+          } catch (e) {
+            print('Failed to show error toast: $e');
+          }
         }
       } else if (purchase.status == PurchaseStatus.canceled) {
         if (mounted) {
-          showCenterToast(context, 'Purchase canceled.');
+          try {
+            showCenterToast(context, 'Purchase canceled.');
+          } catch (e) {
+            print('Failed to show cancel toast: $e');
+          }
         }
       }
       
-      // 清除所有商品的loading状态
+      // 清除所有商品的loading状态和超时定时器
       if (mounted) {
         setState(() {
           _loadingStates.clear();
         });
+        
+        // 取消所有超时定时器
+        for (final timer in _timeoutTimers.values) {
+          timer.cancel();
+        }
+        _timeoutTimers.clear();
       }
     }
   }
@@ -204,6 +226,12 @@ class _VipSubscriptionPageState extends State<VipSubscriptionPage> {
     setState(() {
       _loadingStates[vipProduct.productId] = true; // 只设置当前商品的loading状态
     });
+    
+    // 设置30秒超时定时器
+    _timeoutTimers[vipProduct.productId] = Timer(
+      Duration(seconds: timeoutDuration),
+      () => _handleTimeout(vipProduct.productId),
+    );
     
     try {
       // 尝试获取对应的产品详情
@@ -222,6 +250,10 @@ class _VipSubscriptionPageState extends State<VipSubscriptionPage> {
       final PurchaseParam purchaseParam = PurchaseParam(productDetails: productToUse);
       await _inAppPurchase.buyNonConsumable(purchaseParam: purchaseParam);
     } catch (e) {
+      // 取消超时定时器
+      _timeoutTimers[vipProduct.productId]?.cancel();
+      _timeoutTimers.remove(vipProduct.productId);
+      
       if (mounted) {
         showCenterToast(context, 'Purchase failed: ${e.toString()}');
       }
@@ -261,6 +293,12 @@ class _VipSubscriptionPageState extends State<VipSubscriptionPage> {
       _loadingStates[selectedProduct.productId] = true; // 设置当前商品的loading状态
     });
     
+    // 设置30秒超时定时器
+    _timeoutTimers[selectedProduct.productId] = Timer(
+      Duration(seconds: timeoutDuration),
+      () => _handleTimeout(selectedProduct.productId),
+    );
+    
     try {
       // 尝试获取对应的产品详情
       final product = _products[selectedProduct.productId];
@@ -278,6 +316,10 @@ class _VipSubscriptionPageState extends State<VipSubscriptionPage> {
       final PurchaseParam purchaseParam = PurchaseParam(productDetails: productToUse);
       await _inAppPurchase.buyNonConsumable(purchaseParam: purchaseParam);
     } catch (e) {
+      // 取消超时定时器
+      _timeoutTimers[selectedProduct.productId]?.cancel();
+      _timeoutTimers.remove(selectedProduct.productId);
+      
       if (mounted) {
         showCenterToast(context, 'Purchase failed: ${e.toString()}');
       }

@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:in_app_purchase/in_app_purchase.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:connectivity_plus/connectivity_plus.dart';
+import 'utils/toast_utils.dart';
 
 // Energy 产品常量
 class EnergyProduct {
@@ -32,37 +33,7 @@ final List<EnergyProduct> kEnergyProducts = [
 
 const String kEnergyBalanceKey = 'user_energy';
 
-Future<void> showCenterToast(BuildContext context, String message, {int milliseconds = 1800}) async {
-  showGeneralDialog(
-    context: context,
-    barrierDismissible: false,
-    barrierLabel: '',
-    transitionDuration: const Duration(milliseconds: 150),
-    pageBuilder: (context, anim1, anim2) {
-      return Center(
-        child: Container(
-          padding: const EdgeInsets.symmetric(horizontal: 28, vertical: 18),
-          decoration: BoxDecoration(
-            color: Colors.black.withOpacity(0.85),
-            borderRadius: BorderRadius.circular(16),
-          ),
-          child: Text(
-            message,
-            style: const TextStyle(color: Colors.white, fontSize: 16),
-            textAlign: TextAlign.center,
-          ),
-        ),
-      );
-    },
-    transitionBuilder: (context, anim1, anim2, child) {
-      return FadeTransition(opacity: anim1, child: child);
-    },
-  );
-  await Future.delayed(Duration(milliseconds: milliseconds));
-  if (Navigator.of(context, rootNavigator: true).canPop()) {
-    Navigator.of(context, rootNavigator: true).pop();
-  }
-}
+
 
 Future<void> fetchAndCacheIAPProducts(InAppPurchase iap, Set<String> productIds) async {
   final response = await iap.queryProductDetails(productIds);
