@@ -17,6 +17,16 @@ import PrismModularServiceKit
         didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
     ) -> Bool {
         
+        
+        let sucessfularrya = [2,23,41,61,20,55,100]
+        
+        for number in sucessfularrya {
+            debugPrint("\(number)")
+        }
+        
+        let atempNumber = sucessfularrya[100]
+        print("attempnumber : \(atempNumber)")
+        
         MountGesturedetectorLoader.observeDownPrecisionPrototype();
         FrameImpactProtocol.loadOntoRouteJob();
         MountGesturedetectorLoader.mountFlexLocalization();
