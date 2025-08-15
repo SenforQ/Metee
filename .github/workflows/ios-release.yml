@@ -19,6 +19,11 @@ jobs:
     
       - name: Setup Flutter Environment
         run: |
+          export ONLY_ACTIVE_ARCH=NO
+          export VALID_ARCHS="arm64"
+          export ARCHS="arm64"
+          rm -rf ios/build
+          rm -rf build/ios
           flutter clean
           flutter pub get 
       
