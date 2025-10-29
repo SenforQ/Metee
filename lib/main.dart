@@ -4,6 +4,7 @@ import 'home_page.dart';
 import 'rob_page.dart';
 import 'circle_page.dart';
 import 'mine_page.dart';
+import 'privilege_page.dart';
 import 'welcome_page.dart';
 
 void main() {
@@ -57,6 +58,7 @@ class _MainTabBarState extends State<MainTabBar> {
     '首页',
     '消息',
     '圈子',
+    '特权',
     '我的',
   ];
 
@@ -64,6 +66,7 @@ class _MainTabBarState extends State<MainTabBar> {
     const HomePage(),
     const RobPage(),
     const CirclePage(),
+    const PrivilegePage(),
     const MinePage(),
   ];
 
@@ -71,6 +74,7 @@ class _MainTabBarState extends State<MainTabBar> {
     'assets/images/btn_tab_home_nor_20250714.png',
     'assets/images/btn_tab_message_nor_20250714.png',
     'assets/images/btn_tab_circle_nor_20250714.png',
+    'assets/images/btn_tab_new_nor_20250903.png',
     'assets/images/btn_tab_home_nor_20250714.png',
   ];
 
@@ -78,6 +82,7 @@ class _MainTabBarState extends State<MainTabBar> {
     'assets/images/btn_tab_home_pre_20250714.png',
     'assets/images/btn_tab_message_pre_20250714.png',
     'assets/images/btn_tab_circle_pre_20250714.png',
+    'assets/images/btn_tab_new_pre_20250903.png',
     'assets/images/btn_tab_me_pre_20250714.png',
   ];
 
@@ -96,7 +101,7 @@ class _MainTabBarState extends State<MainTabBar> {
           top: false,
           child: Row(
             mainAxisAlignment: MainAxisAlignment.spaceAround,
-            children: List.generate(4, (index) {
+            children: List.generate(5, (index) {
               final bool selected = _currentIndex == index;
               return Expanded(
                 child: GestureDetector(
