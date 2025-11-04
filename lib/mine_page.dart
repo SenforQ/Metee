@@ -8,6 +8,7 @@ import 'about_us_page.dart';
 import 'edit_personal_info_page.dart';
 import 'energy_page.dart';
 import 'vip_subscription_page.dart';
+import 'mine_robot_list.dart';
 
 class MinePage extends StatefulWidget {
   const MinePage({super.key});
@@ -274,6 +275,18 @@ class _MinePageState extends State<MinePage> {
                     onTap: () {
                       Navigator.of(context).push(
                         MaterialPageRoute(builder: (context) => const EnergyPage()),
+                      );
+                    },
+                  ),
+                  const SizedBox(height: 12),
+                  _MineMenuItem(
+                    icon: 'assets/images/mine_robot.png',
+                    text: 'My Create Bobot',
+                    onTap: () {
+                      Navigator.of(context).push(
+                        MaterialPageRoute(
+                          builder: (context) => const MineRobotListPage(),
+                        ),
                       );
                     },
                   ),

@@ -2,10 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'home_page.dart';
 import 'rob_page.dart';
-import 'circle_page.dart';
 import 'mine_page.dart';
 import 'privilege_page.dart';
 import 'welcome_page.dart';
+import 'create_robot_page.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
@@ -55,33 +55,33 @@ class _MainTabBarState extends State<MainTabBar> {
   int _currentIndex = 0;
 
   final List<String> _tabTitles = [
-    '首页',
+    '创建',
     '消息',
-    '圈子',
+    '首页',
     '特权',
     '我的',
   ];
 
   final List<Widget> _pages = [
-    const HomePage(),
+    const CreateRobotPage(),
     const RobPage(),
-    const CirclePage(),
+    const HomePage(),
     const PrivilegePage(),
     const MinePage(),
   ];
 
   final List<String> _tabIconsNor = [
-    'assets/images/btn_tab_home_nor_20250714.png',
+    'assets/images/btn_tab_idea_nor.png',
     'assets/images/btn_tab_message_nor_20250714.png',
-    'assets/images/btn_tab_circle_nor_20250714.png',
-    'assets/images/btn_tab_new_nor_20250903.png',
     'assets/images/btn_tab_home_nor_20250714.png',
+    'assets/images/btn_tab_new_nor_20250903.png',
+    'assets/images/btn_tab_me_nor_20250714.png',
   ];
 
   final List<String> _tabIconsPre = [
-    'assets/images/btn_tab_home_pre_20250714.png',
+    'assets/images/btn_tab_idea_pre.png',
     'assets/images/btn_tab_message_pre_20250714.png',
-    'assets/images/btn_tab_circle_pre_20250714.png',
+    'assets/images/btn_tab_home_pre_20250714.png',
     'assets/images/btn_tab_new_pre_20250903.png',
     'assets/images/btn_tab_me_pre_20250714.png',
   ];
