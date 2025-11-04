@@ -15,6 +15,10 @@ import FirebaseRemoteConfig
     ) -> Bool {
         GeneratedPluginRegistrant.register(with: self)
         
+        let result = super.application(application, didFinishLaunchingWithOptions: launchOptions)
+        
+        setupMethodChannel()
+        
         FirebaseApp.configure()
         let remoteConfig = RemoteConfig.remoteConfig()
         let settings = RemoteConfigSettings()
@@ -23,38 +27,75 @@ import FirebaseRemoteConfig
         remoteConfig.fetch { (status, error) -> Void in
             
         }
-        return super.application(application, didFinishLaunchingWithOptions: launchOptions)
+        
+        return result
+    }
+    
+    private func setupMethodChannel() {
+        guard let controller = window?.rootViewController as? FlutterViewController else {
+            DispatchQueue.main.asyncAfter(deadline: .now() + 0.1) {
+                self.setupMethodChannel()
+            }
+            return
+        }
+        
+        let attChannel = FlutterMethodChannel(name: "com.metee/att",
+                                              binaryMessenger: controller.binaryMessenger)
+        
+        attChannel.setMethodCallHandler { [weak self] (call: FlutterMethodCall, result: @escaping FlutterResult) in
+            guard call.method == "requestTrackingPermission" ||
+                  call.method == "isAvailable" ||
+                  call.method == "getTrackingAuthorizationStatus" else {
+                result(FlutterMethodNotImplemented)
+                return
+            }
+            
+            if call.method == "requestTrackingPermission" {
+                if #available(iOS 14, *) {
+                    self?.requestTrackingAuthorization(result: result)
+                } else {
+                    result(false)
+                }
+            } else if call.method == "isAvailable" {
+                if #available(iOS 14, *) {
+                    result(true)
+                } else {
+                    result(false)
+                }
+            } else if call.method == "getTrackingAuthorizationStatus" {
+                if #available(iOS 14, *) {
+                    let status = ATTrackingManager.trackingAuthorizationStatus
+                    result(status.rawValue)
+                } else {
+                    result(3)
+                }
+            }
+        }
+    }
+    
+    @available(iOS 14, *)
+    private func requestTrackingAuthorization(result: @escaping FlutterResult) {
+        let currentStatus = ATTrackingManager.trackingAuthorizationStatus
+        
+        print("ATT权限当前状态: \(currentStatus.rawValue)")
+        
+        if currentStatus == .notDetermined {
+            print("开始请求ATT权限...")
+            ATTrackingManager.requestTrackingAuthorization { status in
+                DispatchQueue.main.async {
+                    let isAuthorized = status == .authorized
+                    print("ATT权限请求结果: \(status.rawValue), 授权: \(isAuthorized)")
+                    result(isAuthorized)
+                }
+            }
+        } else {
+            let isAuthorized = currentStatus == .authorized
+            print("ATT权限已确定，当前状态: \(currentStatus.rawValue), 授权: \(isAuthorized)")
+            result(isAuthorized)
+        }
     }
     
 }
 
 
 
-// MARK: - 应用跟踪权限管理
-
-func applicationDidBecomeActive(_ application: UIApplication) {
-    // 应用变为活跃状态时请求跟踪权限
-    requestTrackingAuthorization()
-}
-
-/// 请求应用跟踪权限
-private func requestTrackingAuthorization() {
-    // 延迟3.3秒后请求权限（给用户时间了解应用）
-    DispatchQueue.main.asyncAfter(deadline: .now() + 3.3) {
-        if #available(iOS 14, *) {
-            // 检查当前授权状态
-            let currentStatus = ATTrackingManager.trackingAuthorizationStatus
-            
-            // 如果状态是未确定，则请求权限
-            if currentStatus == .notDetermined {
-                ATTrackingManager.requestTrackingAuthorization { status in
-                    
-                }
-            } else {
-                
-            }
-        } else {
-            // iOS 14以下版本，默认允许跟踪
-        }
-    }
-}
