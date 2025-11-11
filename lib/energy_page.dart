@@ -72,7 +72,6 @@ class EnergyPage extends StatefulWidget {
 
 class _EnergyPageState extends State<EnergyPage> {
   int _currentEnergy = 0;
-  int _selectedIndex = 0;
   Map<String, bool> _loadingStates = {}; // 为每个商品单独管理loading状态
   final InAppPurchase _inAppPurchase = InAppPurchase.instance;
   StreamSubscription<List<PurchaseDetails>>? _subscription;
@@ -177,15 +176,16 @@ class _EnergyPageState extends State<EnergyPage> {
       if (purchase.status == PurchaseStatus.purchased || purchase.status == PurchaseStatus.restored) {
         await _inAppPurchase.completePurchase(purchase);
         
-        // 直接使用当前选中的产品Energy数量
-        if (_selectedIndex < kEnergyProducts.length) {
-          final selectedProduct = kEnergyProducts[_selectedIndex];
-          int energy = selectedProduct.energy;
-          
-          await _updateEnergy(energy);
-          if (mounted) {
-            showCenterToast(context, 'Successfully purchased $energy Energy!');
-          }
+        // 根据购买的产品ID查找对应的Energy数量
+        final product = kEnergyProducts.firstWhere(
+          (p) => p.productId == purchase.productID,
+          orElse: () => kEnergyProducts[0],
+        );
+        int energy = product.energy;
+        
+        await _updateEnergy(energy);
+        if (mounted) {
+          showCenterToast(context, 'Successfully purchased $energy Energy!');
         }
       } else if (purchase.status == PurchaseStatus.error) {
         if (mounted) {
@@ -445,19 +445,37 @@ class _EnergyPageState extends State<EnergyPage> {
                           ),
                           const SizedBox(height: 12),
                           _EnergyPurchaseOption(
+                            productId: 'Zinko1',
+                            price: 1.99,
+                            coins: 60,
+                            onTap: () => _handlePurchase(kEnergyProducts[1]),
+                            productDetails: _products['Zinko1'],
+                            isLoading: _loadingStates['Zinko1'] ?? false,
+                          ),
+                          const SizedBox(height: 12),
+                          _EnergyPurchaseOption(
                             productId: 'Zinko2',
                             price: 2.99,
                             coins: 96,
-                            onTap: () => _handlePurchase(kEnergyProducts[1]),
+                            onTap: () => _handlePurchase(kEnergyProducts[2]),
                             productDetails: _products['Zinko2'],
                             isLoading: _loadingStates['Zinko2'] ?? false,
+                          ),
+                          const SizedBox(height: 12),
+                          _EnergyPurchaseOption(
+                            productId: 'Zinko4',
+                            price: 4.99,
+                            coins: 155,
+                            onTap: () => _handlePurchase(kEnergyProducts[3]),
+                            productDetails: _products['Zinko4'],
+                            isLoading: _loadingStates['Zinko4'] ?? false,
                           ),
                           const SizedBox(height: 12),
                           _EnergyPurchaseOption(
                             productId: 'Zinko5',
                             price: 5.99,
                             coins: 189,
-                            onTap: () => _handlePurchase(kEnergyProducts[2]),
+                            onTap: () => _handlePurchase(kEnergyProducts[4]),
                             productDetails: _products['Zinko5'],
                             isLoading: _loadingStates['Zinko5'] ?? false,
                           ),
@@ -466,7 +484,7 @@ class _EnergyPageState extends State<EnergyPage> {
                             productId: 'Zinko9',
                             price: 9.99,
                             coins: 359,
-                            onTap: () => _handlePurchase(kEnergyProducts[3]),
+                            onTap: () => _handlePurchase(kEnergyProducts[5]),
                             productDetails: _products['Zinko9'],
                             isLoading: _loadingStates['Zinko9'] ?? false,
                           ),
@@ -475,7 +493,7 @@ class _EnergyPageState extends State<EnergyPage> {
                             productId: 'Zinko19',
                             price: 19.99,
                             coins: 729,
-                            onTap: () => _handlePurchase(kEnergyProducts[4]),
+                            onTap: () => _handlePurchase(kEnergyProducts[6]),
                             productDetails: _products['Zinko19'],
                             isLoading: _loadingStates['Zinko19'] ?? false,
                           ),
@@ -484,7 +502,7 @@ class _EnergyPageState extends State<EnergyPage> {
                             productId: 'Zinko49',
                             price: 49.99,
                             coins: 1869,
-                            onTap: () => _handlePurchase(kEnergyProducts[5]),
+                            onTap: () => _handlePurchase(kEnergyProducts[7]),
                             productDetails: _products['Zinko49'],
                             isLoading: _loadingStates['Zinko49'] ?? false,
                           ),
@@ -493,7 +511,7 @@ class _EnergyPageState extends State<EnergyPage> {
                             productId: 'Zinko99',
                             price: 99.99,
                             coins: 3799,
-                            onTap: () => _handlePurchase(kEnergyProducts[6]),
+                            onTap: () => _handlePurchase(kEnergyProducts[8]),
                             productDetails: _products['Zinko99'],
                             isLoading: _loadingStates['Zinko99'] ?? false,
                           ),
@@ -502,7 +520,7 @@ class _EnergyPageState extends State<EnergyPage> {
                             productId: 'Zinko159',
                             price: 159.99,
                             coins: 5999,
-                            onTap: () => _handlePurchase(kEnergyProducts[7]),
+                            onTap: () => _handlePurchase(kEnergyProducts[9]),
                             productDetails: _products['Zinko159'],
                             isLoading: _loadingStates['Zinko159'] ?? false,
                           ),
@@ -511,7 +529,7 @@ class _EnergyPageState extends State<EnergyPage> {
                             productId: 'Zinko239',
                             price: 239.99,
                             coins: 9059,
-                            onTap: () => _handlePurchase(kEnergyProducts[8]),
+                            onTap: () => _handlePurchase(kEnergyProducts[10]),
                             productDetails: _products['Zinko239'],
                             isLoading: _loadingStates['Zinko239'] ?? false,
                           ),
@@ -558,6 +576,19 @@ class _EnergyPurchaseOption extends StatelessWidget {
     this.isLoading = false,
   });
 
+  String _getPriceText() {
+    if (productDetails != null) {
+      final currencySymbol = productDetails!.currencySymbol;
+      final rawPrice = productDetails!.rawPrice;
+      // rawPrice 可能是 String 或 num，统一处理
+      final priceValue = rawPrice is num 
+          ? rawPrice.toStringAsFixed(2) 
+          : rawPrice.toString();
+      return '$currencySymbol$priceValue';
+    }
+    return '\$${price.toStringAsFixed(2)}';
+  }
+
   @override
   Widget build(BuildContext context) {
     return GestureDetector(
@@ -596,29 +627,36 @@ class _EnergyPurchaseOption extends StatelessWidget {
               ),
             ),
             // 右侧价格按钮
-            Container(
-              padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
-              decoration: BoxDecoration(
-                color: const Color(0xFFEC4899),
-                borderRadius: BorderRadius.circular(20),
+            SizedBox(
+              width: 90,
+              height: 36,
+              child: Container(
+                alignment: Alignment.center,
+                padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 8),
+                decoration: BoxDecoration(
+                  color: const Color(0xFFEC4899),
+                  borderRadius: BorderRadius.circular(20),
+                ),
+                child: isLoading
+                    ? const SizedBox(
+                        width: 20,
+                        height: 20,
+                        child: CircularProgressIndicator(
+                          valueColor: AlwaysStoppedAnimation<Color>(Colors.white),
+                          strokeWidth: 2,
+                        ),
+                      )
+                    : Text(
+                        _getPriceText(),
+                        style: const TextStyle(
+                          color: Colors.white,
+                          fontSize: 14,
+                          fontWeight: FontWeight.bold,
+                        ),
+                        textAlign: TextAlign.center,
+                        overflow: TextOverflow.ellipsis,
+                      ),
               ),
-              child: isLoading
-                  ? const SizedBox(
-                      width: 20,
-                      height: 20,
-                      child: CircularProgressIndicator(
-                        valueColor: AlwaysStoppedAnimation<Color>(Colors.white),
-                        strokeWidth: 2,
-                      ),
-                    )
-                  : Text(
-                      productDetails?.price ?? '\$${price.toStringAsFixed(2)}',
-                      style: const TextStyle(
-                        color: Colors.white,
-                        fontSize: 14,
-                        fontWeight: FontWeight.bold,
-                      ),
-                    ),
             ),
           ],
         ),
