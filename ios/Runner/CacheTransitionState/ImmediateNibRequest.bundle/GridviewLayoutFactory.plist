@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorCompositeFlags</key>
+	<string>semanticMapValidation</string>
+	<key>iterativeCubitIndex</key>
+	<string>cupertinoInstructionCenter</string>
+	<key>permanentDependencySize</key>
+	<string>transformerAgainstEnvironment</string>
+</dict>
+</plist>

@@ -43,6 +43,8 @@
 	<string>$(FLUTTER_BUILD_NUMBER)</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>FirebaseAppDelegateProxyEnabled</key>
+	<false/>
 	<key>NSAppTransportSecurity</key>
 	<dict>
 		<key>NSAllowsArbitraryLoads</key>
@@ -50,6 +52,15 @@
 	</dict>
 	<key>NSCameraUsageDescription</key>
 	<string>This app needs camera access to take photos for avatar.</string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>dingtalk</string>
+		<string>wxwork</string>
+		<string>lark</string>
+		<string>weixin</string>
+		<string>http</string>
+		<string>https</string>
+	</array>
 	<key>NSLocalNetworkUsageDescription</key>
 	<string>This app needs access to local network to connect to development servers</string>
 	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
@@ -64,11 +75,11 @@
 	<string>Accessing device identifier information will be used push personalized advertising services</string>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<key>NSPrivacyCollectedDataTypes</key>
+	<array/>
 	<key>UIBackgroundModes</key>
 	<array>
 		<string>audio</string>
-		<string>fetch</string>
-		<string>processing</string>
 		<string>remote-notification</string>
 	</array>
 	<key>UILaunchStoryboardName</key>
@@ -88,10 +99,5 @@
 	</array>
 	<key>UIUserInterfaceStyle</key>
 	<string>Light</string>
-	<key>linkedme_key</key>
-	<dict>
-		<key>live</key>
-		<string>4a4187888153c98a2c78a31b4127af0e</string>
-	</dict>
 </dict>
 </plist>

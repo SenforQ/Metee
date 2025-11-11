@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferKindVisible</key>
+	<string>nextSubscriptionOrigin</string>
+	<key>buttonThroughStructure</key>
+	<string>commandAtStructure</string>
+	<key>chapterSinceVisitor</key>
+	<string>projectModeVisible</string>
+	<key>inkwellIncludeComposite</key>
+	<string>ephemeralTransformerState</string>
+	<key>missedZoneTail</key>
+	<string>immutableTransitionDuration</string>
+	<key>seamlessProfileHue</key>
+	<string>parallelMapScale</string>
+	<key>statelessTouchFlags</key>
+	<string>animatedTopicMomentum</string>
+</dict>
+</plist>

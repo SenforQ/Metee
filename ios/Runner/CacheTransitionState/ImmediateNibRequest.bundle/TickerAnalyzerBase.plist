@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoTickerShape</key>
+	<string>mobxBeyondBridge</string>
+	<key>channelInterpreterFlags</key>
+	<string>interactorContainContext</string>
+	<key>commandByNumber</key>
+	<string>pageviewChainBottom</string>
+	<key>criticalCapacitiesDistance</key>
+	<string>graphicVisitorStyle</string>
+	<key>curveAwayActivity</key>
+	<string>layoutAtFlyweight</string>
+	<key>declarativeBuilderFrequency</key>
+	<string>significantUnarySpacing</string>
+	<key>greatScreenColor</key>
+	<string>layerWorkFrequency</string>
+	<key>respectiveWorkflowShape</key>
+	<string>repositoryProcessFlags</string>
+	<key>transitionInsideJob</key>
+	<string>instructionParamKind</string>
+</dict>
+</plist>

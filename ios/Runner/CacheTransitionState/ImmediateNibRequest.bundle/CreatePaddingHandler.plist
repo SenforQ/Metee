@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureCompositeResponse</key>
+	<string>layoutStageDirection</string>
+	<key>custompaintPhaseCount</key>
+	<string>lastAccessoryVisible</string>
+	<key>dedicatedPositionCoord</key>
+	<string>serviceFromContext</string>
+	<key>localizationAndTier</key>
+	<string>utilPhaseFeedback</string>
+	<key>lossAsPhase</key>
+	<string>scaleAmongTask</string>
+	<key>responseByBridge</key>
+	<string>modelParameterVisible</string>
+	<key>significantGridStyle</key>
+	<string>prismaticNavigatorBorder</string>
+	<key>symmetricStepOrientation</key>
+	<string>canvasParameterIndex</string>
+	<key>usedListenerResponse</key>
+	<string>configurationExceptPlatform</string>
+</dict>
+</plist>

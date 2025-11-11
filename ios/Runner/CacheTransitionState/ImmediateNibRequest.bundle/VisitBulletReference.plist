@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanKernelSpacing</key>
+	<string>interfaceAlongMemento</string>
+	<key>hyperbolicManagerFormat</key>
+	<string>optimizerStrategySkewx</string>
+	<key>mainMobxTheme</key>
+	<string>easyAssetPadding</string>
+	<key>mobileTableForce</key>
+	<string>tabbarProcessEdge</string>
+</dict>
+</plist>

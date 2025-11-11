@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleScaffoldBorder</key>
+	<string>resourceOfState</string>
+	<key>activeManagerShade</key>
+	<string>constraintOrProcess</string>
+	<key>equalizationPatternSkewx</key>
+	<string>modulusPhaseState</string>
+	<key>queueUntilCycle</key>
+	<string>controllerAmongFlyweight</string>
+	<key>similarMovementDirection</key>
+	<string>blocBesideInterpreter</string>
+</dict>
+</plist>

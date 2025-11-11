@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futureVisitorBorder</key>
+	<string>logTempleEdge</string>
+	<key>handlerChainState</key>
+	<string>nativeGridBrightness</string>
+	<key>mobileBuilderFeedback</key>
+	<string>nextButtonInterval</string>
+	<key>singleCharacterType</key>
+	<string>cupertinoWithoutType</string>
+	<key>streamDuringEnvironment</key>
+	<string>reducerExceptPlatform</string>
+</dict>
+</plist>

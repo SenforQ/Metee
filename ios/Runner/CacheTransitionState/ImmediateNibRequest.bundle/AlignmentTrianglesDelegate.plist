@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricSemanticsBrightness</key>
+	<string>finalUsecaseTransparency</string>
+	<key>labelPatternBorder</key>
+	<string>getxBridgeDistance</string>
+	<key>paddingForAction</key>
+	<string>persistentContainerRight</string>
+	<key>storyboardCommandSaturation</key>
+	<string>resourceFromTemple</string>
+</dict>
+</plist>

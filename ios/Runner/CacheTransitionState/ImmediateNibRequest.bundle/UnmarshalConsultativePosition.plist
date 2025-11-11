@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionActivityTransparency</key>
+	<string>lazyRouteOffset</string>
+	<key>cursorDecoratorSkewy</key>
+	<string>smartRequestInterval</string>
+	<key>futureFlyweightFeedback</key>
+	<string>interactorAndTier</string>
+	<key>hierarchicalZoneKind</key>
+	<string>seamlessSymbolKind</string>
+	<key>offsetShapeMomentum</key>
+	<string>threadDecoratorMomentum</string>
+	<key>oldResourceInset</key>
+	<string>transitionStrategyEdge</string>
+	<key>painterAroundMode</key>
+	<string>activatedAspectratioTag</string>
+	<key>tickerExceptBuffer</key>
+	<string>standaloneActivitySaturation</string>
+</dict>
+</plist>

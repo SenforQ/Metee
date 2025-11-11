@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedLossSaturation</key>
+	<string>diffableReducerInteraction</string>
+	<key>dynamicConvolutionTransparency</key>
+	<string>crudeTabbarCount</string>
+	<key>fixedCubitCoord</key>
+	<string>layoutContainStrategy</string>
+	<key>frameAdapterTransparency</key>
+	<string>brushLevelBorder</string>
+	<key>futureContextPressure</key>
+	<string>descriptionJobPressure</string>
+	<key>shaderThroughInterpreter</key>
+	<string>rowViaTask</string>
+	<key>transitionFrameworkForce</key>
+	<string>iconTierSize</string>
+</dict>
+</plist>
