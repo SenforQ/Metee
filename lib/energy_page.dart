@@ -21,7 +21,9 @@ class EnergyProduct {
 
 final List<EnergyProduct> kEnergyProducts = [
   EnergyProduct(productId: 'Zinko', energy: 32, priceText: ' \$ 0.99'),
+  EnergyProduct(productId: 'Zinko1', energy: 60, priceText: '\$ 1.99'),
   EnergyProduct(productId: 'Zinko2', energy: 96, priceText: ' \$ 2.99'),
+  EnergyProduct(productId: 'Zinko4', energy: 155, priceText: '\$ 4.99'),
   EnergyProduct(productId: 'Zinko5', energy: 189, priceText: ' \$ 5.99'),
   EnergyProduct(productId: 'Zinko9', energy: 359, priceText: ' \$ 9.99'),
   EnergyProduct(productId: 'Zinko19', energy: 729, priceText: ' \$ 19.99'),
