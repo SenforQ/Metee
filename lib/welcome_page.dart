@@ -27,18 +27,10 @@ class _WelcomePageState extends State<WelcomePage> {
   Future<void> _checkAgreementStatus() async {
     final hasAgreed = await UserProfileManager().hasAgreementAccepted();
     if (mounted) {
-      if (hasAgreed) {
-        Navigator.of(context).pushReplacement(
-          MaterialPageRoute(
-            builder: (_) => const MainTabBar(),
-          ),
-        );
-      } else {
-        setState(() {
-          _agreedToTerms = false;
-          _isChecking = false;
-        });
-      }
+      setState(() {
+        _agreedToTerms = hasAgreed;
+        _isChecking = false;
+      });
     }
   }
 

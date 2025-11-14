@@ -159,7 +159,7 @@ import AppTrackingTransparency
             print("无法获取构建版本号")
         }
         
-//        zinkoConfigCaptionEmeraldMagentaVersion = "110"
+//        zinkoConfigCaptionEmeraldMagentaVersion = "-1"
         
         self.paper()
         
