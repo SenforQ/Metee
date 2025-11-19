@@ -73,7 +73,7 @@ class _RobPageState extends State<RobPage> {
     if (messageText.trim().isEmpty || _isSending) return;
 
     // 检查Energy余额
-    if (_energyBalance < 2) {
+    if (_energyBalance < 4) {
       showCenterToast(context, 'Insufficient Energy, please recharge.');
       // 跳转到Energy页面
       final result = await Navigator.of(context).push(
@@ -86,8 +86,8 @@ class _RobPageState extends State<RobPage> {
       return;
     }
 
-    // 扣除2 Energy
-    await deductGoldBalance(2);
+    // 扣除4 Energy
+    await deductGoldBalance(4);
     await _loadEnergyBalance(); // 重新加载余额
 
     setState(() {

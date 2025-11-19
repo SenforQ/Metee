@@ -10,6 +10,7 @@ import 'chat_info.dart';
 import 'report_page.dart';
 import 'services/notification_service.dart';
 import 'services/zhipu_ai_service.dart';
+import 'rob_call_page.dart';
 
 class RobChatPage extends StatefulWidget {
   final RobCharacter character;
@@ -171,6 +172,14 @@ class _RobChatPageState extends State<RobChatPage> {
 
     // 保存聊天记录
     await _saveChatHistory();
+  }
+
+  void _handlePhoneCall() {
+    Navigator.of(context).push(
+      MaterialPageRoute(
+        builder: (context) => RobCallPage(character: widget.character),
+      ),
+    );
   }
 
   void _showActionSheet(BuildContext context) {
@@ -804,6 +813,23 @@ class _RobChatPageState extends State<RobChatPage> {
                   ),
                 ),
                 onSubmitted: (_) => _sendMessage(),
+              ),
+            ),
+          ),
+          const SizedBox(width: 12),
+          GestureDetector(
+            onTap: _handlePhoneCall,
+            child: Container(
+              width: 48,
+              height: 48,
+              decoration: BoxDecoration(
+                color: Colors.black.withOpacity(0.3),
+                borderRadius: BorderRadius.circular(24),
+              ),
+              child: const Icon(
+                Icons.phone,
+                color: Colors.white,
+                size: 24,
               ),
             ),
           ),
